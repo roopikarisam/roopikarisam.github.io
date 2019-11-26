@@ -12,7 +12,7 @@ Risam's first monograph, [_New Digital Worlds: Postcolonial Digital Humanities i
 
 Her scholarship has appeared in _Digital Scholarship in the Humanities_, _Digital Humanities Quarterly_, _Debates in the Digital Humanities_, _First Monday_, _Popular Communications_, and _College and Undergraduate Libraries_, among other journals and volumes.
 
-Risam is currently developing [_The Global Du Bois_](../global-du-bois), a data visualization project on W.E.B. Du Bois. She also co-directs _Reanimate_, an intersectional feminist publishing collective recovering archival writing by women in media industries, and co-hosts _Rocking the Academy_, a podcast featuring conversations with the very best truth tellers, who are formulating a new vision of higher education.
+Risam is currently developing [_The Global Du Bois_](../global-du-bois), a data visualization project on W.E.B. Du Bois. She also co-directs [_Reanimate_](../reanimate), an intersectional feminist publishing collective that recovers archival writing by women in media industries, and co-hosts [_Rocking the Academy_](../rta), a podcast featuring conversations with the very best truth tellers, who are formulating a new vision of higher education. She is also a founding member of [_The Data-Sitters Club_](../dsc).
 
 A former member of the Global Outlook::Digital Humanities (GO::DH) and Association for Computers and the Humanities (ACH) executive boards, Risam was the co-chair of the ACH 2019 conference. She also received the Massachusetts Library Association's inaugural Civil Liberties Champion Award for her work promoting equity and justice in the digital cultural record.
 
