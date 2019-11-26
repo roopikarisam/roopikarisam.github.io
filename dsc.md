@@ -13,3 +13,5 @@ Together, we're assembling a comprehensive, colloquial guide to computational te
 Need a Data-Sitter?
 Save time!
 Call The Data-Sitters Club.
+
+Link: [_The Data-Sitters Club_](https://datasittersclub.github.io/site/)

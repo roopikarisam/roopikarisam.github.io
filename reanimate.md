@@ -15,3 +15,5 @@ Access to this material, which has not been digitized, holds significant possibi
 Thus, Reanimate was born, with the goal of leveraging our experiences in open access publishing, digital editions, and cultural and media studies to recover this writing and reanimate the histories of cultural and media studies with unheard voices.
 
 Partners in the collective from Goldsmiths University Press, Maryland Institute for Technology in the Humanities, Fembot Collective, Recovering the U.S. Hispanic Literary Heritage at the University of Houston and Arte Público Press, Salem State University, and University of Oregon Libraries contribute additional expertise in e-book production and distribution, Text Encoding Initiative (TEI) web solutions, multilingual textual recovery, hosting and server side administration, digital scholarship, and open access publication.
+
+Link: [_Reanimate_](http://reanimatepublishing.org)

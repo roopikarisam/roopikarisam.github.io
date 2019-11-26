@@ -18,3 +18,5 @@ An older prototype of the project is [_Visualizing the Global Du Bois_](http://d
 <div style="text-align:center" markdown="1">
 ![Photo of the prototype of Visualizing the Global Du Bois: a map with circles indicating locations of Du Bois's interlocutors](../assets/images/visualizing-the-global-du-bois.png)
 </div>
+
+Link: [_The Global Du Bois_](https://github.com/roopikarisam/global-du-bois)
