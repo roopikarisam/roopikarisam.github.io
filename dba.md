@@ -6,7 +6,7 @@ permalink: /dba/
 title: "*The Digital Black Atlantic*"
 ---
 
-[_The Digital Black Atlantic_](http://dhdebates.gc.cuny.edu/cfps/cfp_2017_digital_black_atlantic.html), which I am co-editing with Kelly Baker Josephs for the Debates in the Digital Humanities series (University of Minnesota Press), is forthcoming in 2020.
+[_The Digital Black Atlantic_](https://dhdebates.gc.cuny.edu/page/cfps-dba), which I am co-editing with Kelly Baker Josephs for the Debates in the Digital Humanities series (University of Minnesota Press), is forthcoming in 2020.
 
 As digital humanities has expanded in size and scope, a growing number of scholars have explored the affordances of digital humanities for preserving cultural memory; connecting communities; and analyzing the literary, historical, and cultural production of the African diaspora. Yet, there is currently a significant gap in scholarship that theorizes and analyzes the intellectual scope and foundations of this work. This volume responds to the need to examine key debates and tensions that emerge as more scholars of the African diaspora engage with and challenge digital humanities methods and praxis. We position this volume on the "digital black Atlantic" as a transnational one that centers both digital humanities approaches to the African diaspora and African diasporic approaches to digital humanities. Scholarship in the volume blends theory and method while shedding light on the current debates driving scholarship of the digital black Atlantic.
 
