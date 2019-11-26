@@ -20,8 +20,8 @@ subtitle: "Professor, Public Scholar, Digital Humanist"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Webpage for Roopika Risam, Associate Professor of Secondary and Higher Education and English at Salem State University.
-baseurl: "/new-home"
-url: "roopikarisam.github.io"
+baseurl: "/"
+url: "roopikarisam.github.io/new-home"
 twitter_username: roopikarisam
 github_username: roopikarisam
 minimal_mistakes_skin: dark
