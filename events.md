@@ -31,11 +31,23 @@ August 12-14, 2020 - [**Invited Participant, After(Life) Narratives of #MeToo**]
 
 ### 2019
 
+November 10, 2019 - [**Keynote Speaker, Chicago Colloquium on Digital Humanities and Computer Science 2019**](https://voices.uchicago.edu/dhcs2019/program/), University of Chicago, Chicago, IL
+
+October 24, 2019 - [**Inaugural Uncommon Digital Humanities Critic Lecture**](https://news.unl.edu/newsrooms/today/article/risam-to-deliver-inaugural-uncommon-critic-lecture-0/), University of Nebraska, Lincoln, NE
+
+October 11, 2019 - [**Invited Speaker, Digital Scholarship: Opportunities and Challenges**](https://scholarsarchive.library.albany.edu/dsconf/), SUNY Albany, Albany, NY
+
+September 2-3, 2019 - [**Invited Speaker, ARTECH Seminar Series**](https://www.kit.ntnu.no/en/content/ntnu-artec-seminar-series-mobilized-humanities-technology-arts), Norwegian University of Science and Technology, Trondheim, Norway
+
+July 18, 2019 - [**Keynote Speaker, Humanities Commons Twitter Conference**](humanitites commons twitter conference), The Twitterverse
+
 June 6, 2019 - [**Keynote Speaker, Digital Diasporas Conference**](https://modernlanguages.sas.ac.uk/events/event/19830), University of London, London, UK
 
 June 4, 2019 - [**Invited Speaker, Revisiting Collections: Strategies for Teaching Tangible and Intangible Cultural Heritage in a Digitized World Symposium**](http://revisitingcollections.de/en/), Einstein Center Digital Future, Berlin, Germany
 
 May 18, 2019 - [**Torn Apart/Separados: Mobilizing a Technopoetic Humanities Beyond Borders Roundtable**](http://revisitingcollections.de/en/), HASTAC 2019, University of British Columbia, Vancouver, Canada
+
+April 28, 2019 - **Invited Speaker, Rethinking Digital Humanities Through the Comparative Insights**, Nanjing University, Nanjing, China
 
 April 8, 2019 - [**Invited Speaker, "Insurgents of Academe: Historicizing Public Humanities in the African Diaspora"**](https://news.psu.edu/story/566846/2019/04/02/campus-life/comparative-literature-luncheon-series-features-talk-roopika), Comparative Literature Luncheon Series, Pennsylvania State University, State College, PA
 
