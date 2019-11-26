@@ -9,11 +9,11 @@ I'm a frequent speaker on race, difference, and the digital; globalization and t
 
 ## Upcoming Events
 
-December 6, 2019 - **Invited Speaker, The Caribbean Digital VI**, Barnard College, New York, NY
+December 6, 2019 - [**Invited Speaker, The Caribbean Digital VI**](http://caribbeandigitalnyc.net/2019/), Barnard College, New York, NY
 
-January 9, 2020 - **Digital Scholarship in Tenure and Promotion Roundtable**, Modern Language Association Convention, Seattle, WA
+January 9, 2020 - [**Digital Scholarship in Tenure and Promotion Roundtable**](https://mla20.org/event/member/629639), Modern Language Association Convention, Seattle, WA
 
-January 12, 2020 - **Mobilizing the Humanities: Building the Supercommons Roundtable**, Modern Language Association, Seattle, WA
+January 12, 2020 - [**Mobilizing the Humanities: Building the Supercommons Roundtable**](https://mla20.org/event/member/629831), Modern Language Association, Seattle, WA
 
 January 13-14, 2020 - **Invited Workshop, Digital Humanities Professional Development**, Spelman College, Atlanta, GA
 
@@ -21,32 +21,32 @@ March 9-10, 2020 - **Invited Speaker, Digital Infrastructure Symposium**, Univer
 
 April 13-14, 2020 - **Invited Speaker, Higher Ed/Higher Ground Speaker Series**, Westfield State University, Westfield, MA
 
-June 1-5, 2020 - **Keynote Speaker, Digital Humanities Summer Institute**, University of Victoria, Victoria, Canada
+June 1-5, 2020 - [**Keynote Speaker, Digital Humanities Summer Institute**](https://dhsi.org/), University of Victoria, Victoria, Canada
 
-July 26-August 7, 2020 - **Faculty, New Storytellers: The Research Institute in Digital Ethnic Studies**, University of Nebraska, Lincoln, NE
+July 26-August 7, 2020 - [**Faculty, New Storytellers: The Research Institute in Digital Ethnic Studies**](https://digitalethnicstudies.unl.edu/), University of Nebraska, Lincoln, NE
 
-August 12-14, 2020 - **Invited Participant, After(Life) Narratives of #MeToo**, University of Hawai'i at Mānoa, Honolulu, HI
+August 12-14, 2020 - [**Invited Participant, After(Life) Narratives of #MeToo**](http://blog.hawaii.edu/cbrhawaii/files/2019/06/CFP-MeToo.jpg), University of Hawai'i at Mānoa, Honolulu, HI
 
 ## Previous Events
 
 ### 2019
 
-June 6, 2019 - **Keynote Speaker, Digital Diasporas Conference**, University of London, London, UK
+June 6, 2019 - [**Keynote Speaker, Digital Diasporas Conference**](https://modernlanguages.sas.ac.uk/events/event/19830), University of London, London, UK
 
-June 4, 2019 - **Invited Speaker, Revisiting Collections: Strategies for Teaching Tangible and Intangible Cultural Heritage in a Digitized World Symposium**, Einstein Center Digital Future, Berlin, Germany
+June 4, 2019 - [**Invited Speaker, Revisiting Collections: Strategies for Teaching Tangible and Intangible Cultural Heritage in a Digitized World Symposium**](http://revisitingcollections.de/en/), Einstein Center Digital Future, Berlin, Germany
 
-May 18, 2019 - **Torn Apart/Separados: Mobilizing a Technopoetic Humanities Beyond Borders Roundtable**, HASTAC 2019, University of British Columbia, Vancouver, Canada
+May 18, 2019 - [**Torn Apart/Separados: Mobilizing a Technopoetic Humanities Beyond Borders Roundtable**](http://revisitingcollections.de/en/), HASTAC 2019, University of British Columbia, Vancouver, Canada
 
-April 8, 2019 - **Invited Speaker, "Insurgents of Academe: Historicizing Public Humanities in the African Diaspora"**, Comparative Literature Luncheon Series, Pennsylvania State University, State College, PA
+April 8, 2019 - [**Invited Speaker, "Insurgents of Academe: Historicizing Public Humanities in the African Diaspora"**](https://news.psu.edu/story/566846/2019/04/02/campus-life/comparative-literature-luncheon-series-features-talk-roopika), Comparative Literature Luncheon Series, Pennsylvania State University, State College, PA
 
 April 4, 2019 - **Invited Speaker, Digital Humanities Series**, Massachusetts Institute of Technology,  
 Cambridge, MA
 
-March 27, 2019 - **Invited Speaker, "Mobilizing the Humanities: Or, How the Torn Apart/Separados Team Built a Digital Humanities Project in One Week with No Money"**, Oklahoma State University, Stillwater, OK
+March 27, 2019 - [**Invited Speaker, "Mobilizing the Humanities: Or, How the Torn Apart/Separados Team Built a Digital Humanities Project in One Week with No Money"**](https://news.okstate.edu/articles/communications/2019/osu_to_host_2_events_on_digital_humanities_studies.html), Oklahoma State University, Stillwater, OK
 
-March 21, 2019, **Invited Speaker, Digital Public Humanities Panel**, Northeastern University, Boston, MA
+March 21, 2019, [**Invited Speaker, Digital Public Humanities Panel**](https://web.northeastern.edu/nulab/digital-public-humanities-panel/), Northeastern University, Boston, MA
 
-March 4, 2019 - **Invited Speaker, Reframing Landscapes: Digital Practices and Place-based Learning Symposium**, Washington State University, Pullman, WA
+March 4, 2019 - [**Invited Speaker, Reframing Landscapes: Digital Practices and Place-based Learning Symposium**](https://cdsc.libraries.wsu.edu/2019-spring-symposium/), Washington State University, Pullman, WA
 
 February 4, 2019 - **Invited Speaker, ["Digital Humanities in a Crisis: The Case of Torn Apart/Separados"](https://tischcollege.tufts.edu/events/roopika-risam-digital-humanities-crisis-case-torn-apart-separados)**, Tisch College of Civic Life, Tufts University, Medford, MA
 
