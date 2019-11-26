@@ -87,6 +87,12 @@ A copy of my CV is available here.
 
 ## Digital Scholarship
 
+[_Torn Apart/Separados_](http://xpmethod.plaintext.in/torn-apart/volume/2/index) was developed in collaboration with the Group for Experimental Methods in Humanistic Research (Manan Ahmed, Alex Gil, Roopika Risam, Moacir P. de Sá Pereira), Borderlands Archives Cartography (Sylvia Fernández, Maira Álvarez), Merisa Martinez, Linda M. Rodriguez, and Rachel Hendery, and presents data visualizations of the geographical and financial landscape of Immigration and Customs Enforcement (ICE) in the United States.
+
+[_Social Justice and the Digital Humanities_](http://criticaldh.roopikarisam.com) was created as the culminating project in the HILT 2015 De/Post/Colonial Digital Humanities course I taught with micha cárdenas. Designed as an invitation to discuss and implement digital humanities methods that put justice and equity at the center of digital scholarship, the project offers users a series of creative and critical precepts for project design around access, material conditions, method, and ontologies and epistemologies for scholarship.
+
+[_The Harlem Shadows Project_](http://harlemshadows.org), which I direct with Chris Forster, is an open access critical edition of Claude McKay's 1922 poetry collection _Harlem Shadows_. The project seeks to aggregates the most comprehensive set of documents related to the collection and make them available to readers of McKay.
+
 ## Special issues
 
 ["Digital Humanities and South Asian Studies"](https://www.tandfonline.com/toc/rsoa20/40/3?nav=tocList) is a special issue of _South Asian Review_ that I co-edited with Rahul Gairola. The issue was published in 2019.
