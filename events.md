@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-classes: wide
 permalink: /events/
 title: "Events"
 ---
@@ -30,7 +29,7 @@ August 12-14, 2020 - **Invited Participant, After(Life) Narratives of #MeToo**, 
 
 ## Previous Events
 
-**2019**
+### 2019
 
 June 6, 2019 - **Keynote Speaker, Digital Diasporas Conference**, University of London, London, UK
 
@@ -56,7 +55,7 @@ Chicago, IL
 
 January 3, 2019 - **[The Digital Futures of Graduate Study in the Humanities Roundtable](https://mla19.org/event/member/522722)**, Modern Language Association Convention, Chicago, IL
 
-**2018**
+## 2018
 
 December 12, 2018 - **Invited Speaker, ["Academic Time: Rethinking Temporalities of Academic Labor in Torn Apart/Separados,"](https://edtech.domains.trincoll.edu/witt-symposium-wednesday-december-12/)** Winter Institute on Teaching and Technology Symposium, Trinity College, Hartford, CT
 
@@ -106,7 +105,7 @@ March 5, 2018 - **Invited Speaker, ["Recovering the Global Dimensions of W.E.B. 
 
 January 5, 2018, **[“Digital Humanities with a View: Beyond Research, Teaching, and Service,”](https://mla.confex.com/mla/2018/meetingapp.cgi/Person/10645)** Modern Language Association Convention, New York, NY
 
-**2017**
+## 2017
 
 October 26-28, 2017 - **Invited Speaker, [Colonial and Postcolonial Digital Humanities Roundtable,](https://www.theasa.net/about/news-events/events/race-memory-digital-humanities)** Race Memory, and the Digital Humanities, College of William and Mary, Williamsburg, VA
 
@@ -144,7 +143,7 @@ January 8, 2017 - **[Digital Humanities and Secondary Education Roundtable,](htt
 
 January 8, 2017 - **[Local Digital Humanities Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=696&year=2017)** Modern Language Association Convention, Philadelphia, PA
 
-**2016**
+## 2016
 
 December 16, 2016 - **Invited Speaker, [“Now You See Them: Self-representation and the Refugee Selfie,”](https://www.knaw.nl/en/news/calendar/academy-colloquium-connected-migrants)** Academy Colloquium, Connected Migrants: Encapsulation and Cosmopolitanism, Royal Netherlands Academy of Arts and Sciences, Amsterdam, Netherlands
 
@@ -191,7 +190,7 @@ January 28-29, 2016 - **Invited Speaker and Trainer, [Digital Humanities Bootcam
 
 January 7, 2016 - **[Where Is the Nation in Digital Humanities? Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=188&year=2016)** Modern Language Association Convention, Austin, TX
 
-**2015**
+## 2015
 
 November 15, 2015 - **Invited Speaker, [“Digital Knowledge Production in a Globalized Era,”](https://news.drake.edu/2015/11/04/new-art-exhibit-asks-are-we-global-yet/)** The Ethics of New Media Symposium, Drake University, Des Moines, IA
 
@@ -224,7 +223,7 @@ Vancouver, Canada
 
 January 8, 2015 - **[Postcolonial Digital Humanities: Praxis Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=14&year=2015)** Modern Language Association Convention, Vancouver, Canada
 
-**2014**
+## 2014
 
 October 27, 2014 - **Invited Speaker, ["Postcolonial Digital Humanities:
 A Conversation with Roopika Risam and Al Filreis,"](http://writing.upenn.edu/wh/calendar/1014.php)** Kelly Writers House, University of Pennsylvania, Philadelphia, PA
@@ -263,7 +262,7 @@ January 12, 2014 - **[Decolonizing DH: Theories and Practices of Postcolonial Di
 
 January 9, 2014 - **[Teaching Outside the Classroom Through Digital Humanities: Alt-Academic Feminism Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=187&year=2014)** Modern Language Association Convention, Chicago, IL
 
-2013
+### 2013
 
 September 24, 2013 - **Invited Speaker, “A #dhpoco Afternoon,”** Studio@Butler, Columbia University, New York, NY
 
