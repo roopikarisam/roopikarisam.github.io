@@ -5,6 +5,6 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm available for talks, workshops, virtual class visits, and consultations on my areas of expertise: race, difference, and digital cultures; globalization and technology; migration and media; pedagogy and technology; and social media and public scholarship. Drop me a note to discuss your needs and interests or just to chat!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I can be reached via email at [rrisam [at] salemstate [dot] edu](mailto:rrisam@salemstate.edu) or [rrisam [at] gmail [dot] com](mailto:rrisam@gmail.com). You can also find me on Twitter [@roopikarisam](http://twitter.com/roopikarisam).
