@@ -16,7 +16,7 @@ feature_row1:
   - image_path: /assets/images/rta.jpg
     alt: "placeholder image 2"
     title: "Rocking the Academy"
-    excerpt: "A podcast bringing you conversations with the very best truth tellers who are formulating a new vision for the future of higher education"
+    excerpt: "A podcast bringing listeners conversations with the very best truth tellers who are formulating a new vision for the future of higher education"
     url: "/rta"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -31,7 +31,7 @@ feature_row2:
   - image_path: /assets/images/global-du-bois.jpg
     alt: "placeholder image 1"
     title: "The Global Du Bois"
-    excerpt: "A series of data visualizations that challenge the idea that W.E.B. Du Bois's investment in decolonization is a later development in his intellectual trajectory"
+    excerpt: "A series of data visualizations challenging the idea that W.E.B. Du Bois's investment in decolonization is a later development in his intellectual trajectory"
     url: "/global-du-bois"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -50,22 +50,22 @@ feature_row2:
     btn_class: "btn--inverse"
 
 feature_row3:
-  - image_path: /assets/images/insurgent-academics.jpg
+  - image_path: /assets/images/ndw.jpg
     alt: "placeholder image 1"
-    title: "Insurgent Academics"
-    excerpt: "A book recovering the leading role that African diaspora, Latinx, indigenous, Asian American, and postcolonial scholars played in the rise of public humanities."
-    url: "/insurgent-academics"
+    title: "New Digital Worlds"
+    excerpt: "A book examining the inequalities in digital knowledge production and how to address them published by Northwestern University Press in 2018"
+    url: "/ndw"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/rta.jpg
+  - image_path: /assets/images/intersectionality-small.jpg
     alt: "placeholder image 2"
-    title: "Rocking the Academy"
-    excerpt: "A podcast bringing you conversations with the very best truth tellers who are formulating a new vision for the future of higher education"
-    url: "/rta"
+    title: "Intersectionality in DH"
+    excerpt: "A volume considering the compunding effects of race, class, gender, sexuality, and nation on digital data, archives, and methodologies"
+    url: "/intersectionality"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/reanimate.jpg
-    title: "Reanimate"
+    title: "The Digital Black Atlantic"
     excerpt: "An intersectional feminist publishing collective producing digital editions of little-known writing by women in media industries"
     url: "/reanimate"
     btn_label: "Read More"
