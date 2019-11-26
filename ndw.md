@@ -5,21 +5,21 @@ permalink: /ndw/
 title: "*New Digital Worlds*"
 ---
 
-Roopika Risam's first monograph, _New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_, was published by Northwestern University Press in November 2018.
+Roopika Risam's first monograph, [_New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_](http://www.nupress.northwestern.edu/content/new-digital-worlds), was published by Northwestern University Press in November 2018.
 
-In the book, she explores how the emergence of digital humanities has been heralded for its commitment to openness, access, and the democratization of knowledge but raises a number of questions with respect to race, gender, sexuality, disability, and nation. Postcolonial digital humanities, she argues, is one approach to uncovering and remediating inequalities in digital knowledge production. _New Digital Worlds_ traces the formation of postcolonial studies and digital humanities as fields, identifying how they can intervene in knowledge production in the digital age. It further examines the role of colonial violence in the development of digital archives, colonialist dimensions of global organizations supporting digital humanities research, pedagogical approaches that can intervene in decentering the Global North in digital knowledge production, and human futures that reconsider how algorithms and natural language processing software produce universalist notions of the human.
+In the book, Risam explores how the emergence of digital humanities has been heralded for its commitment to openness, access, and the democratization of knowledge but raises a number of questions with respect to race, gender, sexuality, disability, and nation. Postcolonial digital humanities, she argues, is one approach to uncovering and remediating inequalities in digital knowledge production. _New Digital Worlds_ traces the formation of postcolonial studies and digital humanities as fields, identifying how they can intervene in knowledge production in the digital age. It further examines the role of colonial violence in the development of digital archives, colonialist dimensions of global organizations supporting digital humanities research, pedagogical approaches that can intervene in decentering the Global North in digital knowledge production, and human futures that reconsider how algorithms and natural language processing software produce universalist notions of the human.
 
-Reviews
+## Reviews
 
 “This book speaks to a vibrant and emerging field, offering a unique and important contribution to postcolonial studies in engagement with digital humanities. This exciting and generative study will instigate new dialogues about the relations between technology and power, digital worlds and social justice in a global context.”
 
-—Kavita Daiya, author of Violent Belongings: Partition, Gender, and National Culture in Postcolonial India
+—Kavita Daiya, author of _Violent Belongings: Partition, Gender, and National Culture in Postcolonial India_
 
 “Our cultural record lives today in the still misunderstood flux between analog and digital media. What Roopika Risam accomplishes in this book is nothing short of unmasking the transnational forces that shape that material reality, and she does so in the very act of opening up a framework for the production of an anticolonial counter-record. A major book by one of those rare voices who transforms the stakes of the game not only through her analysis but in the praxis it points to.”
 
 —Alex Gil, Digital Scholarship Librarian and co-founder of xpmethod, Columbia University
 
-“Risam has accomplished the rare feat of crafting a monograph that is simultaneously scholarly, engaging, and applicable…. New Digital Worlds has a thoughtful and refreshingly different read on, and criticism of, digital humanities. There’s something to consider for people in a wide variety of roles, from librarians who develop (or purchase) corpora, to museum and archives folks who directly grapple with issues around cultural heritage materials, to developers who build digital humanities tools and projects, to scholars and instructors engaged with research and/or teaching, to students who are trying to choose a focus for their own scholarship.”
+“Risam has accomplished the rare feat of crafting a monograph that is simultaneously scholarly, engaging, and applicable…. _New Digital Worlds_ has a thoughtful and refreshingly different read on, and criticism of, digital humanities. There’s something to consider for people in a wide variety of roles, from librarians who develop (or purchase) corpora, to museum and archives folks who directly grapple with issues around cultural heritage materials, to developers who build digital humanities tools and projects, to scholars and instructors engaged with research and/or teaching, to students who are trying to choose a focus for their own scholarship.”
 
 —Quinn Dombrowski, Academic Technology Specialist, Stanford University
 
@@ -43,7 +43,7 @@ Reviews
 
 -Joshua G. Ortiz Baco, Ph.D. Student, University of Texas, Austin
 
-Adoptions
+## Adoptions
 
 _New Digital Worlds_ has been taught in classes at universities including Stanford University, University of Pittsburgh, CUNY, Northeastern University, McGill University, Texas A&M University, University of Nebraska, Bates College, Birbeck University of London, SUNY - Cortland, San Jose State University, University of Southern California, Bowling Green State University, University of Tulsa, and College of William and Mary.
 
