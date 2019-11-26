@@ -53,21 +53,21 @@ feature_row3:
   - image_path: /assets/images/ndw.jpg
     alt: "placeholder image 1"
     title: "New Digital Worlds"
-    excerpt: "A book examining the inequalities in digital knowledge production and how to address them published by Northwestern University Press in 2018"
+    excerpt: "A book examining the inequalities in digital knowledge production and how to address them in digital humanities methods published by Northwestern University Press in 2018"
     url: "/ndw"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/intersectionality-small.jpg
     alt: "placeholder image 2"
     title: "Intersectionality in DH"
-    excerpt: "A volume considering the compunding effects of race, class, gender, sexuality, and nation on digital data, archives, and methodologies"
+    excerpt: "A volume considering the compunding effects of race, class, gender, sexuality, and nation on digital data, archives, and methodologies published by Arc Humanities Press in 2019"
     url: "/intersectionality"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/reanimate.jpg
+  - image_path: /assets/images/dba-small.jpg
     title: "The Digital Black Atlantic"
-    excerpt: "An intersectional feminist publishing collective producing digital editions of little-known writing by women in media industries"
-    url: "/reanimate"
+    excerpt: "A collection for the Debates in Digital Humanities series shedding light on African diasporic approaches to digital humanities forthcoming from University of Minnesota Press in 2020"
+    url: "/dba"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
 ---
