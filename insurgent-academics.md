@@ -6,7 +6,7 @@ permalink: /insurgent-academics/
 title: "\"Insurgent Academics\""
 ---
 
-"Insurgent Academics: A Radical Account of Public Humanities" is my current book project, currently under review for the Critical University Studies series at Johns Hopkins University Press.
+"Insurgent Academics: A Radical Account of Public Humanities" is my current book project, under review for the Critical University Studies series at Johns Hopkins University Press.
 
 ## Description
 
