@@ -12,6 +12,6 @@ _Rocking the Academy_ brings listeners conversations with the very best truth te
 
 Season 1 of _Rocking the Academy_ launched in Fall 2019 and features Paula Krebs, Lee Skallerup Bessette, Alex Gil, Kelly J. Baker, Schuyler Esprit, Katie Rose Guest Pryal, and Bryan Alexander.
 
-Look for Season 2 in Spring 2020.
+Look for Season 2, coming soon in Spring 2020.
 
 Link: [_Rocking the Academy_](https://rocking-the-academy.simplecast.com/)
