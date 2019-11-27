@@ -9,52 +9,52 @@ I'm a frequent speaker on race, difference, and the digital; globalization and t
 
 ## Upcoming Events
 
-December 6, 2019 - **Invited Speaker, [The Caribbean Digital VI**](http://caribbeandigitalnyc.net/2019/), Barnard College, New York, NY
+December 6, 2019 - **Invited Speaker,** [The Caribbean Digital VI](http://caribbeandigitalnyc.net/2019/), Barnard College, New York, NY
 
-January 9, 2020 - [**Digital Scholarship in Tenure and Promotion Roundtable**](https://mla20.org/event/member/629639), Modern Language Association Convention, Seattle, WA
+January 9, 2020 - [Digital Scholarship in Tenure and Promotion Roundtable](https://mla20.org/event/member/629639), Modern Language Association Convention, Seattle, WA
 
-January 12, 2020 - [**Mobilizing the Humanities: Building the Supercommons Roundtable**](https://mla20.org/event/member/629831), Modern Language Association, Seattle, WA
+January 12, 2020 - [Mobilizing the Humanities: Building the Supercommons Roundtable](https://mla20.org/event/member/629831), Modern Language Association, Seattle, WA
 
-January 13-14, 2020 - **Invited Workshop, Digital Humanities Professional Development**, Spelman College, Atlanta, GA
+January 13-14, 2020 - **Invited Workshop,** Digital Humanities Professional Development, Spelman College, Atlanta, GA
 
-March 9-10, 2020 - **Invited Speaker, Digital Infrastructure Symposium**, University of California, Los Angeles, Los Angeles, CA
+March 9-10, 2020 - **Invited Speaker,** Digital Infrastructure Symposium, University of California, Los Angeles, Los Angeles, CA
 
-April 13-14, 2020 - **Invited Speaker, Higher Ed/Higher Ground Speaker Series**, Westfield State University, Westfield, MA
+April 13-14, 2020 - **Invited Speaker,** Higher Ed/Higher Ground Speaker Series, Westfield State University, Westfield, MA
 
-June 1-5, 2020 - **Keynote Speaker, [Digital Humanities Summer Institute**](https://dhsi.org/), University of Victoria, Victoria, Canada
+June 1-5, 2020 - **Keynote Speaker,** [Digital Humanities Summer Institute](https://dhsi.org/), University of Victoria, Victoria, Canada
 
-July 26-August 7, 2020 - **Faculty, [New Storytellers: The Research Institute in Digital Ethnic Studies**](https://digitalethnicstudies.unl.edu/), University of Nebraska, Lincoln, NE
+July 26-August 7, 2020 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies](https://digitalethnicstudies.unl.edu/), University of Nebraska, Lincoln, NE
 
-August 12-14, 2020 - **Invited Participant, [After(Life) Narratives of #MeToo**](http://blog.hawaii.edu/cbrhawaii/files/2019/06/CFP-MeToo.jpg), University of Hawai'i at Mānoa, Honolulu, HI
+August 12-14, 2020 - **Invited Participant,** [After(Life) Narratives of #MeToo](http://blog.hawaii.edu/cbrhawaii/files/2019/06/CFP-MeToo.jpg), University of Hawai'i at Mānoa, Honolulu, HI
 
 ## Previous Events
 
 ### 2019
 
-November 10, 2019 - **Keynote Speaker, [Chicago Colloquium on Digital Humanities and Computer Science 2019**](https://voices.uchicago.edu/dhcs2019/program/), University of Chicago, Chicago, IL
+November 10, 2019 - **Keynote Speaker,** [Chicago Colloquium on Digital Humanities and Computer Science 2019](https://voices.uchicago.edu/dhcs2019/program/), University of Chicago, Chicago, IL
 
-October 24, 2019 - **Inaugural Speaker, [Uncommon Digital Humanities Critic Lecture**](https://news.unl.edu/newsrooms/today/article/risam-to-deliver-inaugural-uncommon-critic-lecture-0/), University of Nebraska, Lincoln, NE
+October 24, 2019 - **Inaugural Speaker,** [Uncommon Digital Humanities Critic Lecture](https://news.unl.edu/newsrooms/today/article/risam-to-deliver-inaugural-uncommon-critic-lecture-0/), University of Nebraska, Lincoln, NE
 
-October 11, 2019 - **Invited Speaker, [Digital Scholarship: Opportunities and Challenges**](https://scholarsarchive.library.albany.edu/dsconf/), SUNY Albany, Albany, NY
+October 11, 2019 - **Invited Speaker,** [Digital Scholarship: Opportunities and Challenges](https://scholarsarchive.library.albany.edu/dsconf/), SUNY Albany, Albany, NY
 
-September 2-3, 2019 - **Invited Speaker, [ARTECH Seminar Series**](https://www.kit.ntnu.no/en/content/ntnu-artec-seminar-series-mobilized-humanities-technology-arts), Norwegian University of Science and Technology, Trondheim, Norway
+September 2-3, 2019 - **Invited Speaker,** [ARTECH Seminar Series](https://www.kit.ntnu.no/en/content/ntnu-artec-seminar-series-mobilized-humanities-technology-arts), Norwegian University of Science and Technology, Trondheim, Norway
 
-July 18, 2019 - **Keynote Speaker, [Humanities Commons Twitter Conference**](humanitites commons twitter conference), The Twitterverse
+July 18, 2019 - **Keynote Speaker,** [Humanities Commons Twitter Conference](https://conference.hcommons.org/schedule/), The Twitterverse
 
-June 6, 2019 - **Keynote Speaker, [Digital Diasporas Conference**](https://modernlanguages.sas.ac.uk/events/event/19830), University of London, London, UK
+June 6, 2019 - **Keynote Speaker,** [Digital Diasporas Conference](https://modernlanguages.sas.ac.uk/events/event/19830), University of London, London, UK
 
-June 4, 2019 - **Invited Speaker, [Revisiting Collections: Strategies for Teaching Tangible and Intangible Cultural Heritage in a Digitized World Symposium**](http://revisitingcollections.de/en/), Einstein Center Digital Future, Berlin, Germany
+June 4, 2019 - **Invited Speaker,** [Revisiting Collections: Strategies for Teaching Tangible and Intangible Cultural Heritage in a Digitized World Symposium](http://revisitingcollections.de/en/), Einstein Center Digital Future, Berlin, Germany
 
-May 18, 2019 - [**Torn Apart/Separados: Mobilizing a Technopoetic Humanities Beyond Borders Roundtable**](http://revisitingcollections.de/en/), HASTAC 2019, University of British Columbia, Vancouver, Canada
+May 18, 2019 - [Torn Apart/Separados: Mobilizing a Technopoetic Humanities Beyond Borders Roundtable](http://revisitingcollections.de/en/), HASTAC 2019, University of British Columbia, Vancouver, Canada
 
 April 28, 2019 - **Invited Speaker, Rethinking Digital Humanities Through the Comparative Insights**, Nanjing University, Nanjing, China
 
-April 8, 2019 - **Invited Speaker, ["Insurgents of Academe: Historicizing Public Humanities in the African Diaspora"**](https://news.psu.edu/story/566846/2019/04/02/campus-life/comparative-literature-luncheon-series-features-talk-roopika), Comparative Literature Luncheon Series, Pennsylvania State University, State College, PA
+April 8, 2019 - **Invited Speaker,** ["Insurgents of Academe: Historicizing Public Humanities in the African Diaspora"](https://news.psu.edu/story/566846/2019/04/02/campus-life/comparative-literature-luncheon-series-features-talk-roopika), Comparative Literature Luncheon Series, Pennsylvania State University, State College, PA
 
-April 4, 2019 - **Invited Speaker, Digital Humanities Series**, Massachusetts Institute of Technology,  
+April 4, 2019 - **Invited Speaker,** Digital Humanities Series, Massachusetts Institute of Technology,  
 Cambridge, MA
 
-March 27, 2019 - **Invited Speaker, ["Mobilizing the Humanities: Or, How the Torn Apart/Separados Team Built a Digital Humanities Project in One Week with No Money"**](https://news.okstate.edu/articles/communications/2019/osu_to_host_2_events_on_digital_humanities_studies.html), Oklahoma State University, Stillwater, OK
+March 27, 2019 - **Invited Speaker,** ["Mobilizing the Humanities: Or, How the Torn Apart/Separados Team Built a Digital Humanities Project in One Week with No Money"](https://news.okstate.edu/articles/communications/2019/osu_to_host_2_events_on_digital_humanities_studies.html), Oklahoma State University, Stillwater, OK
 
 March 21, 2019, **Invited Speaker, [Digital Public Humanities Panel**](https://web.northeastern.edu/nulab/digital-public-humanities-panel/), Northeastern University, Boston, MA
 
@@ -69,7 +69,7 @@ January 3, 2019 - **[The Digital Futures of Graduate Study in the Humanities Rou
 
 ## 2018
 
-December 12, 2018 - **Invited Speaker, ["Academic Time: Rethinking Temporalities of Academic Labor in Torn Apart/Separados,"](https://edtech.domains.trincoll.edu/witt-symposium-wednesday-december-12/)** Winter Institute on Teaching and Technology Symposium, Trinity College, Hartford, CT
+December 12, 2018 - **Invited Speaker,** ["Academic Time: Rethinking Temporalities of Academic Labor in Torn Apart/Separados,"](https://edtech.domains.trincoll.edu/witt-symposium-wednesday-december-12/) Winter Institute on Teaching and Technology Symposium, Trinity College, Hartford, CT
 
 December 7, 2018 - **[“Is the ‘Digital’ in Digital Black Atlantic the ‘Digital’ in Digital Humanities?,"](http://caribbeandigitalnyc.net/2018/program/)**
 The Caribbean Digital V, University of West Indies, St. Augustine, Trinidad
