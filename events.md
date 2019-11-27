@@ -117,41 +117,41 @@ January 5, 2018, [“Digital Humanities with a View: Beyond Research, Teaching, 
 
 ## 2017
 
-October 26-28, 2017 - **Invited Speaker, [Colonial and Postcolonial Digital Humanities Roundtable,](https://www.theasa.net/about/news-events/events/race-memory-digital-humanities)** Race Memory, and the Digital Humanities, College of William and Mary, Williamsburg, VA
+October 26-28, 2017 - **Invited Speaker,** [Colonial and Postcolonial Digital Humanities Roundtable,](https://www.theasa.net/about/news-events/events/race-memory-digital-humanities) Race Memory, and the Digital Humanities, College of William and Mary, Williamsburg, VA
 
-September 26, 2017 - **Keynote Speaker, [“Reconstructing the Global Du Bois: Notes Toward an Investigation,”](https://web.northeastern.edu/nulab/risam-2017/)** Fall Digital Humanities Welcome, Northeastern University, Boston, MA
+September 26, 2017 - **Keynote Speaker,** [“Reconstructing the Global Du Bois: Notes Toward an Investigation,”](https://web.northeastern.edu/nulab/risam-2017/) Fall Digital Humanities Welcome, Northeastern University, Boston, MA
 
-August 11, 2017 - **[“Citational Politics: Quantifying Impact in Digital Scholarship in the Humanities,"](https://works.bepress.com/roopika-risam/25/download/)**
+August 11, 2017 - [“Citational Politics: Quantifying Impact in Digital Scholarship in the Humanities,"](https://works.bepress.com/roopika-risam/25/download/)
 Digital Humanities 2017, McGill University, Montreal, Canada
 
-August 11, 2017 - **[“Micro DH: Digital Humanities at the Small Scale,”](https://dh2017.adho.org/abstracts/196/196.pdf)** Digital Humanities 2017, McGill University, Montreal, Canada
+August 11, 2017 - [“Micro DH: Digital Humanities at the Small Scale,”](https://dh2017.adho.org/abstracts/196/196.pdf) Digital Humanities 2017, McGill University, Montreal, Canada
 
-July 10, 2017 - **Invited Workshop, "Race and Digital Pedagogy,"** Central Connecticut State University, New Britain, CT
+July 10, 2017 - **Invited Workshop,** "Race and Digital Pedagogy," Central Connecticut State University, New Britain, CT
 
-May 17, 2017 - **Keynote Speaker, ["Networks of Pedagogy: Notes towards a Decolonized Classroom,"](https://repository.brynmawr.edu/blended_learning/2017/2017/9/)** Blended Learning in the Liberal Arts Conference, Bryn Mawr College, Bryn Mawr, PA
+May 17, 2017 - **Keynote Speaker,** ["Networks of Pedagogy: Notes towards a Decolonized Classroom,"](https://repository.brynmawr.edu/blended_learning/2017/2017/9/) Blended Learning in the Liberal Arts Conference, Bryn Mawr College, Bryn Mawr, PA
 
-May 2, 2017 - **Invited Speaker, "Postcolonial Digital Humanities in Theory and Praxis,"** Digital Humanities Kickoff, Schreiner University, San Antonio, TX
+May 2, 2017 - **Invited Speaker,** "Postcolonial Digital Humanities in Theory and Praxis," Digital Humanities Kickoff, Schreiner University, San Antonio, TX
 
-April 7, 2017 - **Invited Workshop, ["Multimodal Scholarship and Publishing,"](https://lsa.umich.edu/history/news-events/all-events.detail.html/35008-5065786.html)** Digital History Speaker Series, University of Michigan – Ann Arbor, Ann Arbor, MI
+April 7, 2017 - **Invited Workshop,** ["Multimodal Scholarship and Publishing,"](https://lsa.umich.edu/history/news-events/all-events.detail.html/35008-5065786.html) Digital History Speaker Series, University of Michigan – Ann Arbor, Ann Arbor, MI
 
-April 4, 2017 - **Invited Speaker, ["Building a Digital Humanities Community at Salem State University,"](https://digitalcommonwealth.wildapricot.org/2017-Conference-Program)** Digital Commonwealth, College of the Holy Cross, Worcester, MA
+April 4, 2017 - **Invited Speaker,** ["Building a Digital Humanities Community at Salem State University,"](https://digitalcommonwealth.wildapricot.org/2017-Conference-Program) Digital Commonwealth, College of the Holy Cross, Worcester, MA
 
-March 31, 2017 - **Keynote Speaker, ["Decolonizing Digital Cultural Memory:
-Digital Humanities as Digital Activism,"](https://ccs.sice.indiana.edu/2017/03/03/fembot-symposium-2017-at-bgsu/)** 2017 Women’s History Month/Fembot Collective Conference, Bowling Green State University, Bowling Green, OH
+March 31, 2017 - **Keynote Speaker,** ["Decolonizing Digital Cultural Memory:
+Digital Humanities as Digital Activism,"](https://ccs.sice.indiana.edu/2017/03/03/fembot-symposium-2017-at-bgsu/) 2017 Women’s History Month/Fembot Collective Conference, Bowling Green State University, Bowling Green, OH
 
-March 18, 2017 - **Invited Speaker, [“The Pedagogy of Digital Cultural Memory in the African Diaspora,”](http://www2.xula.edu/cas/digitalhumanities.html)**
+March 18, 2017 - **Invited Speaker,** [“The Pedagogy of Digital Cultural Memory in the African Diaspora,”](http://www2.xula.edu/cas/digitalhumanities.html)
 Digital Humanities Workshop, Xavier University of New Orleans, New Orleans, LA
 
-March 7, 2017 - **Invited Conversation, ["Digital Labor Across Global North and South,"](https://www.uc.edu/news/articles/legacy/enews/2017/02/e24643.html)** University of Cincinnati, Cincinnati, OH
+March 7, 2017 - **Invited Conversation,** ["Digital Labor Across Global North and South,"](https://www.uc.edu/news/articles/legacy/enews/2017/02/e24643.html) University of Cincinnati, Cincinnati, OH
 
-March 6, 2017 - **Keynote Speech, [“Who Lives, Who Dies, Who Tells Your Story:
-The Stakes of Digital Cultural Memory,”](https://www.uc.edu/news/articles/legacy/enews/2017/02/e24643.html)** Digital Humanities Speaker Series, University of Cincinnati, Cincinnati, OH
+March 6, 2017 - **Keynote Speech,** [“Who Lives, Who Dies, Who Tells Your Story:
+The Stakes of Digital Cultural Memory,”](https://www.uc.edu/news/articles/legacy/enews/2017/02/e24643.html) Digital Humanities Speaker Series, University of Cincinnati, Cincinnati, OH
 
-March 6, 2017 - **Invited Workshop, [“Archiving Social Justice with Omeka,”](https://www.uc.edu/news/articles/legacy/enews/2017/02/e24643.html)** University of Cincinnati, Cincinnati, OH
+March 6, 2017 - **Invited Workshop,** [“Archiving Social Justice with Omeka,”](https://www.uc.edu/news/articles/legacy/enews/2017/02/e24643.html) University of Cincinnati, Cincinnati, OH
 
-January 8, 2017 - **[Digital Humanities and Secondary Education Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=739&year=2017)** Modern Language Association Convention, Philadelphia, PA
+January 8, 2017 - [Digital Humanities and Secondary Education Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=739&year=2017) Modern Language Association Convention, Philadelphia, PA
 
-January 8, 2017 - **[Local Digital Humanities Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=696&year=2017)** Modern Language Association Convention, Philadelphia, PA
+January 8, 2017 - [Local Digital Humanities Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=696&year=2017) Modern Language Association Convention, Philadelphia, PA
 
 ## 2016
 
