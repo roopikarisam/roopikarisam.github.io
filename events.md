@@ -70,51 +70,50 @@ January 3, 2019 - [The Digital Futures of Graduate Study in the Humanities Round
 
 December 12, 2018 - **Invited Speaker,** ["Academic Time: Rethinking Temporalities of Academic Labor in Torn Apart/Separados,"](https://edtech.domains.trincoll.edu/witt-symposium-wednesday-december-12/) Winter Institute on Teaching and Technology Symposium, Trinity College, Hartford, CT
 
-December 7, 2018 - **[“Is the ‘Digital’ in Digital Black Atlantic the ‘Digital’ in Digital Humanities?,"](http://caribbeandigitalnyc.net/2018/program/)**
+December 7, 2018 - [“Is the ‘Digital’ in Digital Black Atlantic the ‘Digital’ in Digital Humanities?,"](http://caribbeandigitalnyc.net/2018/program/)
 The Caribbean Digital V, University of West Indies, St. Augustine, Trinidad
 
-November 1, 2018 - **Invited Speaker, [“Visualizing Precarious Lives in Torn Apart/Separados,”](https://www.brown.edu/academics/public-humanities/node/950)**
+November 1, 2018 - **Invited Speaker,** [“Visualizing Precarious Lives in Torn Apart/Separados,”](https://www.brown.edu/academics/public-humanities/node/950)
 John Nicholas Brown Center for Public Humanities, Brown University, Providence, RI
 
-October 25-26, 2018 - **Keynote Speaker, ["On Academic Insurgency and Mobilizing the Humanities,"](https://cdrh.unl.edu/neforum)** Nebraska Forum on Digital Ethnic Studies, University of Nebraska, Lincoln, NE
+October 25-26, 2018 - **Keynote Speaker,** ["On Academic Insurgency and Mobilizing the Humanities,"](https://cdrh.unl.edu/neforum) Nebraska Forum on Digital Ethnic Studies, University of Nebraska, Lincoln, NE
 
-October 19, 2018 - **[Genealogies of the Digital Black Atlantic Roundtable,](https://www.conftool.pro/aadhum2018/sessions.php)** Intentionally Digital, Intentionally Black Conference, University of Maryland, College Park, MD
+October 19, 2018 - [Genealogies of the Digital Black Atlantic Roundtable,](https://www.conftool.pro/aadhum2018/sessions.php) Intentionally Digital, Intentionally Black Conference, University of Maryland, College Park, MD
 
-September 22, 2018 - **Keynote Speaker, [“Why Wait? Social Justice Digital Humanities for the End Times,”](https://www.ohio.edu/instructional-innovation/ctl/programs-and-events/thatcamp.html)**
+September 22, 2018 - **Keynote Speaker,** [“Why Wait? Social Justice Digital Humanities for the End Times,”](https://www.ohio.edu/instructional-innovation/ctl/programs-and-events/thatcamp.html)
 THATCamp Ohio 2018, Athens, OH
 
-September 21, 2018 - **Invited Speaker, ["Historicizing the College Color Line: Digital Humanities, Activism, and the Campus Climate,"](https://digitalhumanities.wlu.edu/blog/2018/09/08/dh-speaker-series-roopika-risam/)** Washington and Lee University, Lexington, VA
+September 21, 2018 - **Invited Speaker,** ["Historicizing the College Color Line: Digital Humanities, Activism, and the Campus Climate,"](https://digitalhumanities.wlu.edu/blog/2018/09/08/dh-speaker-series-roopika-risam/) Washington and Lee University, Lexington, VA
 
-September 17, 2018 - **TEDx Talk, ["Digital Homes,"](https://www.salemstate.edu/tedxsalemstateuniversity)** TEDxSalemState University, Salem State University, Salem, MA
+September 17, 2018 - **TEDx Talk,** ["Digital Homes,"](https://www.salemstate.edu/tedxsalemstateuniversity) TEDxSalemState University, Salem State University, Salem, MA
 
-August 8, 2018 - **Invited Speaker, ["Mapping Torn Apart/Separados,"](https://dbsymposium2018.com/schedule/)** Digital Bridges Symposium, University of Iowa, Iowa City, IA
+August 8, 2018 - **Invited Speaker,** ["Mapping Torn Apart/Separados,"](https://dbsymposium2018.com/schedule/) Digital Bridges Symposium, University of Iowa, Iowa City, IA
 
-June 29, 2018 - **[Justice-Based Digital Humanities, Practice, and Communities Roundtable,](https://dh2018.adho.org/en/justice-based-dh-practice-and-communities/)**
+June 29, 2018 - [Justice-Based Digital Humanities, Practice, and Communities Roundtable,](https://dh2018.adho.org/en/justice-based-dh-practice-and-communities/)
 Digital Humanities 2018, Mexico City, Mexico
 
-June 28, 2018 - **[Digital Humanities in Middle and High School: Case Studies and Pedagogical Approaches Roundtable](https://dh2018.adho.org/en/digital-humanities-in-middle-and-high-school-case-studies-and-pedagogical-approaches/)** Digital Humanities 2018, Mexico City, Mexico
+June 28, 2018 - [Digital Humanities in Middle and High School: Case Studies and Pedagogical Approaches Roundtable,](https://dh2018.adho.org/en/digital-humanities-in-middle-and-high-school-case-studies-and-pedagogical-approaches/) Digital Humanities 2018, Mexico City, Mexico
 
-May 28, 2018 - **[“Ada and Affective Labor,”](https://skycroeser.net/2018/05/28/ica18-day-4-labour-in-the-gig-economy-resistant-media-feminist-peer-review-love-sex-and-friendship/)** International Communication Association Conference, Prague, Czech Republic
+May 28, 2018 - [“Ada and Affective Labor,”](https://skycroeser.net/2018/05/28/ica18-day-4-labour-in-the-gig-economy-resistant-media-feminist-peer-review-love-sex-and-friendship/) International Communication Association Conference, Prague, Czech Republic
 
-May 17, 2018 - **Invited Speaker, ["Another (Digital) World Is Possible: The Stakes of Postcolonial Digital Humanities,"](https://artepublicopress.com/recovery-project/2018/01/18/5906/)** US Latina/o Digital Humanities Research Center, University of Houston, Houston, TX
+May 17, 2018 - **Invited Speaker,** ["Another (Digital) World Is Possible: The Stakes of Postcolonial Digital Humanities,"](https://artepublicopress.com/recovery-project/2018/01/18/5906/) US Latina/o Digital Humanities Research Center, University of Houston, Houston, TX
 
-April 10, 2018 - **[Invited Speaker, “Cartographies of the Living and the Dead: Mapping Global Migration,”](http://heymancenter.org/events/migration-in-a-digital-age-paradoxes-of-connectivity-and-belonging/)**
-Migrants and Mobility in a Digital Age Conference, Columbia University, New York, NY
+April 10, 2018 - **Invited Speaker,** [“Cartographies of the Living and the Dead: Mapping Global Migration,”](http://heymancenter.org/events/migration-in-a-digital-age-paradoxes-of-connectivity-and-belonging/) Migrants and Mobility in a Digital Age Conference, Columbia University, New York, NY
 
-April 7, 2018 - **[Invited Speaker, “Knowing Your (Intersectional) History: A Jigsaw Approach to Undergraduate Digital Humanities Research,”](https://www.wellesley.edu/lts/bli/shifting-boundaries-symposium/speakers)** Shifting (the) Boundaries: Blended Learning, Digital Humanities and the Liberal Arts Symposium, Wellesley College, Wellesley, MA
+April 7, 2018 - **Invited Speaker,** [“Knowing Your (Intersectional) History: A Jigsaw Approach to Undergraduate Digital Humanities Research,”](https://www.wellesley.edu/lts/bli/shifting-boundaries-symposium/speakers) Shifting (the) Boundaries: Blended Learning, Digital Humanities and the Liberal Arts Symposium, Wellesley College, Wellesley, MA
 
-March 20, 2018 - **Invited Speaker, “Digital Humanities at the Small Scale,”** Massachusetts College of Liberal Arts, North Adams, MA
+March 20, 2018 - **Invited Speaker,** “Digital Humanities at the Small Scale,” Massachusetts College of Liberal Arts, North Adams, MA
 
-March 8, 2018 - **Invited Speaker, ["Visualizing Du Bois: The Politics of Literary Recovery,"](https://mith.umd.edu/roopika-risam/)** Maryland Institute for Technology in the Humanities and Department of Women’s Studies, University of Maryland, College Park, MD
+March 8, 2018 - **Invited Speaker,** ["Visualizing Du Bois: The Politics of Literary Recovery,"](https://mith.umd.edu/roopika-risam/) Maryland Institute for Technology in the Humanities and Department of Women’s Studies, University of Maryland, College Park, MD
 
-March 8, 2018 - **Keynote Speaker, [“Digital Humanities and Difference in Research and Teaching,”](https://my3.my.umbc.edu/groups/dreshercenter/events/57932)**
+March 8, 2018 - **Keynote Speaker,** [“Digital Humanities and Difference in Research and Teaching,”](https://my3.my.umbc.edu/groups/dreshercenter/events/57932)
 The Dresher Center for the Humanities, University of Maryland, Baltimore County, Baltimore, MD
 
-March 6, 2018 - **Invited Workshop, ["Digital Humanities in Translation: Communicating Your Scholarship to Multiple Publics,"](https://cdh.princeton.edu/events/2018/03/digital-humanities-translation-communicating-your-scholarship-multiple-publics/)** Princeton University, Princeton, NJ
+March 6, 2018 - **Invited Workshop,** ["Digital Humanities in Translation: Communicating Your Scholarship to Multiple Publics,"](https://cdh.princeton.edu/events/2018/03/digital-humanities-translation-communicating-your-scholarship-multiple-publics/) Princeton University, Princeton, NJ
 
-March 5, 2018 - **Invited Speaker, ["Recovering the Global Dimensions of W.E.B. Du Bois's Career,"](https://cdh.princeton.edu/events/2018/03/recovering-global-dimensions-web-du-boiss-career/)** Center for Digital Humanities, Princeton University, Princeton, NJ
+March 5, 2018 - **Invited Speaker,** ["Recovering the Global Dimensions of W.E.B. Du Bois's Career,"](https://cdh.princeton.edu/events/2018/03/recovering-global-dimensions-web-du-boiss-career/) Center for Digital Humanities, Princeton University, Princeton, NJ
 
-January 5, 2018, **[“Digital Humanities with a View: Beyond Research, Teaching, and Service,”](https://mla.confex.com/mla/2018/meetingapp.cgi/Person/10645)** Modern Language Association Convention, New York, NY
+January 5, 2018, [“Digital Humanities with a View: Beyond Research, Teaching, and Service,”](https://mla.confex.com/mla/2018/meetingapp.cgi/Person/10645) Modern Language Association Convention, New York, NY
 
 ## 2017
 
