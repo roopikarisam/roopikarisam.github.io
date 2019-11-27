@@ -51,21 +51,20 @@ April 28, 2019 - **Invited Speaker, Rethinking Digital Humanities Through the Co
 
 April 8, 2019 - **Invited Speaker,** ["Insurgents of Academe: Historicizing Public Humanities in the African Diaspora"](https://news.psu.edu/story/566846/2019/04/02/campus-life/comparative-literature-luncheon-series-features-talk-roopika), Comparative Literature Luncheon Series, Pennsylvania State University, State College, PA
 
-April 4, 2019 - **Invited Speaker,** Digital Humanities Series, Massachusetts Institute of Technology,  
-Cambridge, MA
+April 4, 2019 - **Invited Speaker,** Digital Humanities Series, Massachusetts Institute of Technology, Cambridge, MA
 
 March 27, 2019 - **Invited Speaker,** ["Mobilizing the Humanities: Or, How the Torn Apart/Separados Team Built a Digital Humanities Project in One Week with No Money"](https://news.okstate.edu/articles/communications/2019/osu_to_host_2_events_on_digital_humanities_studies.html), Oklahoma State University, Stillwater, OK
 
-March 21, 2019, **Invited Speaker, [Digital Public Humanities Panel**](https://web.northeastern.edu/nulab/digital-public-humanities-panel/), Northeastern University, Boston, MA
+March 21, 2019, **Invited Speaker,** [Digital Public Humanities Panel](https://web.northeastern.edu/nulab/digital-public-humanities-panel/), Northeastern University, Boston, MA
 
-March 4, 2019 - **Invited Speaker, [Reframing Landscapes: Digital Practices and Place-based Learning Symposium**](https://cdsc.libraries.wsu.edu/2019-spring-symposium/), Washington State University, Pullman, WA
+March 4, 2019 - **Invited Speaker,** [Reframing Landscapes: Digital Practices and Place-based Learning Symposium](https://cdsc.libraries.wsu.edu/2019-spring-symposium/), Washington State University, Pullman, WA
 
-February 4, 2019 - **Invited Speaker, ["Digital Humanities in a Crisis: The Case of Torn Apart/Separados"](https://tischcollege.tufts.edu/events/roopika-risam-digital-humanities-crisis-case-torn-apart-separados)**, Tisch College of Civic Life, Tufts University, Medford, MA
+February 4, 2019 - **Invited Speaker,** ["Digital Humanities in a Crisis: The Case of Torn Apart/Separados"](https://tischcollege.tufts.edu/events/roopika-risam-digital-humanities-crisis-case-torn-apart-separados), Tisch College of Civic Life, Tufts University, Medford, MA
 
-January 4, 2019 - **["The _Dark Princess_ Effect: Insights on Scholarly Citation from W.E.B. Du Bois's Novels"](https://mla19.org/event/member/522648)**, Modern Language Association Convention,  
+January 4, 2019 - ["The _Dark Princess_ Effect: Insights on Scholarly Citation from W.E.B. Du Bois's Novels"](https://mla19.org/event/member/522648), Modern Language Association Convention,  
 Chicago, IL
 
-January 3, 2019 - **[The Digital Futures of Graduate Study in the Humanities Roundtable](https://mla19.org/event/member/522722)**, Modern Language Association Convention, Chicago, IL
+January 3, 2019 - [The Digital Futures of Graduate Study in the Humanities Roundtable](https://mla19.org/event/member/522722), Modern Language Association Convention, Chicago, IL
 
 ## 2018
 
