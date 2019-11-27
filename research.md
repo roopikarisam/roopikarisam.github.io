@@ -74,7 +74,7 @@ feature_row3:
 
 My research agenda focuses on scholarly communications, digital pedagogy, and humanities knowledge infrastructures, through postcolonial and intersectional feminist lenses. Digital humanities, the interdisciplinary area of study in which I situate my work, connotes a set of practices for using digital tools for humanistic inquiry and using humanities methods to understand digital media and technologies. At the heart of my work is the concern that while digital knowledge production has accelerated rapidly in the last few decades, the exclusions and biases that have characterized print culture - products of colonialism, racism, and patriarchy - are being reproduced and amplified in the digital cultural memory of humanity. The broader goal of my research is to call attention to these issues and to work collaboratively with colleagues to redress them.
 
-A copy of my CV is available here.
+A copy of my CV is available [here](../RisamCVNovember2019.pdf).
 
 ## Current Projects
 

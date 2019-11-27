@@ -16,4 +16,4 @@ Risam is currently developing [_The Global Du Bois_](../global-du-bois), a data 
 
 A former member of the Global Outlook::Digital Humanities (GO::DH) and Association for Computers and the Humanities (ACH) executive boards, Risam was the co-chair of the [ACH 2019](http://ach2019.ach.org/) conference. She also received the Massachusetts Library Association's inaugural [Civil Liberties Champion Award](https://www.bostonglobe.com/metro/globelocal/2018/10/05/salem-state-researcher-champion-social-justice/hD19GIS2zRIY1di09Fr0NI/story.html) for her work promoting equity and justice in the digital cultural record.
 
-Risam's CV is available here.
+Risam's CV is available [here](../RisamCVNovember2019.pdf).
