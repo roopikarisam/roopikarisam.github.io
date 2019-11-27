@@ -46,7 +46,7 @@ The emergence of digital humanities has been heralded for its commitment to open
 
 ## Adoptions
 
-_New Digital Worlds_ has been taught in classes at universities including Stanford University, University of Pittsburgh, CUNY, Northeastern University, McGill University, Texas A&M University, University of Nebraska, Bates College, Birbeck University of London, SUNY - Cortland, San Jose State University, University of Southern California, Bowling Green State University, University of Tulsa, and College of William and Mary.
+_New Digital Worlds_ has been taught at universities including Stanford University, University of Pittsburgh, CUNY, Northeastern University, McGill University, Texas A&M University, University of Nebraska, Bates College, Birbeck University of London, SUNY - Cortland, San Jose State University, University of Southern California, Bowling Green State University, University of Tulsa, and College of William and Mary.
 
 If you adopt the book for a class, drop me an email and I’d be happy to arrange for a Skype visit with your class. Use the promo code NUP19 for 25% off _New Digital Worlds_ when ordering from [Northwestern University Press](http://www.nupress.northwestern.edu/content/new-digital-worlds).
 

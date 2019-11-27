@@ -6,7 +6,7 @@ author_profile: true
 
 Roopika Risam is an Associate Professor of Secondary and Higher Education and English at Salem State University. She also serves as the Faculty Fellow for Digital Library Initiatives, Coordinator of the Graduate Certificate in Digital Studies, and Coordinator of the Combined B.A./M.Ed. in English Education.
 
-Her research interests lie at the intersections of postcolonial and African diaspora studies; humanities knowledge infrastructures; and digital humanities.
+Her research interests lie at the intersections of postcolonial and African diaspora studies, humanities knowledge infrastructures, and digital humanities.
 
 Risam's first monograph, [_New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_](../ndw) was published by Northwestern University Press in 2018. She is the co-editor of [_Intersectionality in Digital Humanities_](../intersectionality) (Arc Humanities/Amsterdam University Press, 2019). Risam's co-edited collection [_The Digital Black Atlantic_](../dba) for the Debates in the Digital Humanities series (University of Minnesota Press) is forthcoming in 2020. Her current book project, ["Insurgent Academics: A Radical Account of Public Humanities,"](../insurgent-academics) traces a new history of public humanities through the emergence of ethnic studies.
 
