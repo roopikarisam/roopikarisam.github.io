@@ -9,7 +9,7 @@ I'm a frequent speaker on race, difference, and the digital; globalization and t
 
 ## Upcoming Events
 
-December 6, 2019 - [**Invited Speaker, The Caribbean Digital VI**](http://caribbeandigitalnyc.net/2019/), Barnard College, New York, NY
+December 6, 2019 - **Invited Speaker, [The Caribbean Digital VI**](http://caribbeandigitalnyc.net/2019/), Barnard College, New York, NY
 
 January 9, 2020 - [**Digital Scholarship in Tenure and Promotion Roundtable**](https://mla20.org/event/member/629639), Modern Language Association Convention, Seattle, WA
 
@@ -21,11 +21,11 @@ March 9-10, 2020 - **Invited Speaker, Digital Infrastructure Symposium**, Univer
 
 April 13-14, 2020 - **Invited Speaker, Higher Ed/Higher Ground Speaker Series**, Westfield State University, Westfield, MA
 
-June 1-5, 2020 - [**Keynote Speaker, Digital Humanities Summer Institute**](https://dhsi.org/), University of Victoria, Victoria, Canada
+June 1-5, 2020 - **Keynote Speaker, [Digital Humanities Summer Institute**](https://dhsi.org/), University of Victoria, Victoria, Canada
 
-July 26-August 7, 2020 - [**Faculty, New Storytellers: The Research Institute in Digital Ethnic Studies**](https://digitalethnicstudies.unl.edu/), University of Nebraska, Lincoln, NE
+July 26-August 7, 2020 - **Faculty, [New Storytellers: The Research Institute in Digital Ethnic Studies**](https://digitalethnicstudies.unl.edu/), University of Nebraska, Lincoln, NE
 
-August 12-14, 2020 - [**Invited Participant, After(Life) Narratives of #MeToo**](http://blog.hawaii.edu/cbrhawaii/files/2019/06/CFP-MeToo.jpg), University of Hawai'i at Mānoa, Honolulu, HI
+August 12-14, 2020 - **Invited Participant, [After(Life) Narratives of #MeToo**](http://blog.hawaii.edu/cbrhawaii/files/2019/06/CFP-MeToo.jpg), University of Hawai'i at Mānoa, Honolulu, HI
 
 ## Previous Events
 
