@@ -47,7 +47,7 @@ June 4, 2019 - **Invited Speaker,** [Revisiting Collections: Strategies for Teac
 
 May 18, 2019 - [Torn Apart/Separados: Mobilizing a Technopoetic Humanities Beyond Borders Roundtable](http://revisitingcollections.de/en/), HASTAC 2019, University of British Columbia, Vancouver, Canada
 
-April 28, 2019 - **Invited Speaker, Rethinking Digital Humanities Through the Comparative Insights**, Nanjing University, Nanjing, China
+April 28, 2019 - **Invited Speaker,** Rethinking Digital Humanities Through the Comparative Insights, Nanjing University, Nanjing, China
 
 April 8, 2019 - **Invited Speaker,** ["Insurgents of Academe: Historicizing Public Humanities in the African Diaspora"](https://news.psu.edu/story/566846/2019/04/02/campus-life/comparative-literature-luncheon-series-features-talk-roopika), Comparative Literature Luncheon Series, Pennsylvania State University, State College, PA
 
@@ -155,50 +155,50 @@ January 8, 2017 - [Local Digital Humanities Roundtable,](https://apps.mla.org/co
 
 ## 2016
 
-December 16, 2016 - **Invited Speaker, [“Now You See Them: Self-representation and the Refugee Selfie,”](https://www.knaw.nl/en/news/calendar/academy-colloquium-connected-migrants)** Academy Colloquium, Connected Migrants: Encapsulation and Cosmopolitanism, Royal Netherlands Academy of Arts and Sciences, Amsterdam, Netherlands
+December 16, 2016 - **Invited Speaker,** [“Now You See Them: Self-representation and the Refugee Selfie,”](https://www.knaw.nl/en/news/calendar/academy-colloquium-connected-migrants) Academy Colloquium, Connected Migrants: Encapsulation and Cosmopolitanism, Royal Netherlands Academy of Arts and Sciences, Amsterdam, Netherlands
 
-December 14, 2016 - **Invited Masterclass, [“Digital Humanities for Social Justice,"](https://www.knaw.nl/en/news/calendar/connected-migrants-encapsulation-or-cosmopolitanism)** Academy Colloquium, Connected Migrants: Encapsulation and Cosmopolitanism, Royal Netherlands Academy of Arts and Sciences, Amsterdam, Netherlands
+December 14, 2016 - **Invited Masterclass,** [“Digital Humanities for Social Justice,"](https://www.knaw.nl/en/news/calendar/connected-migrants-encapsulation-or-cosmopolitanism) Academy Colloquium, Connected Migrants: Encapsulation and Cosmopolitanism, Royal Netherlands Academy of Arts and Sciences, Amsterdam, Netherlands
 
-November 12, 2016 - **[Keynote Speaker, “For the Love of Students:
-Why Digital Humanities Needs Community Colleges,”](http://www.cchumanities.org/wp-content/uploads/2016/05/PW-Program.pdf)** Community Colleges Humanities Association
+November 12, 2016 - **Keynote Speaker,** [“For the Love of Students:
+Why Digital Humanities Needs Community Colleges,”](http://www.cchumanities.org/wp-content/uploads/2016/05/PW-Program.pdf) Community Colleges Humanities Association
 Pacific-Western Division Conference, Portland, OR
 
-October 26, 2016 - **Invited Speaker, Digital Humanities/Pedagogies Roundtable,** Bridgewater State University, Bridgewater, MA
+October 26, 2016 - **Invited Speaker,** Digital Humanities/Pedagogies Roundtable, Bridgewater State University, Bridgewater, MA
 
-October 25, 2016 - **Invited Workshop, [“Omeka for Social Justice,”](https://www.wm.edu/offices/apel/elearning-around-campus/archive/roopika-risams-omeka-workshop.php)** College of William and Mary, Williamsburg, VA
+October 25, 2016 - **Invited Workshop,** [“Omeka for Social Justice,”](https://www.wm.edu/offices/apel/elearning-around-campus/archive/roopika-risams-omeka-workshop.php) College of William and Mary, Williamsburg, VA
 
-October 24, 2016 - **Invited Speaker, [“The (Digital) Souls of Black Folk:
-Race, Memory, and the Digital Humanities,”](http://dh.blogs.wm.edu/2017/04/03/roopika-risam-digital-humanities-social-justice/)** College of William and Mary, Williamsburg, VA
+October 24, 2016 - **Invited Speaker,** [“The (Digital) Souls of Black Folk:
+Race, Memory, and the Digital Humanities,”](http://dh.blogs.wm.edu/2017/04/03/roopika-risam-digital-humanities-social-justice/) College of William and Mary, Williamsburg, VA
 
-October 1, 2016 - **Keynote Speaker, [“Digital Humanities in (Other) Contexts:
-Locating Place as Method for Intersectional Praxis,”](https://idrh.ku.edu/dhforum2016)** KU Digital Humanities Forum, University of Kansas, Lawrence, KS
+October 1, 2016 - **Keynote Speaker,** [“Digital Humanities in (Other) Contexts:
+Locating Place as Method for Intersectional Praxis,”](https://idrh.ku.edu/dhforum2016) KU Digital Humanities Forum, University of Kansas, Lawrence, KS
 
-September 22, 2016 - **Keynote Speaker, [“Burning Down the Tent: New Futures for Social Justice and Digital Humanities,”](https://digital-frontiers.org/past-events/df16/)** Digital Frontiers 2016, Rice University, Houston, TX
+September 22, 2016 - **Keynote Speaker,** [“Burning Down the Tent: New Futures for Social Justice and Digital Humanities,”](https://digital-frontiers.org/past-events/df16/) Digital Frontiers 2016, Rice University, Houston, TX
 
-September 16, 2016 - **Plenary Speaker, [“Beyond ‘Add and Stir’:
-Intersectional Digital Humanities in Practice,”](https://www.arts.kuleuven.be/digitalhumanities/intersectionality)** Intersectionality in Digital Humanities Symposium, The Katholieke Universiteit, Leuven, Belgium
+September 16, 2016 - **Plenary Speaker,** [“Beyond ‘Add and Stir’:
+Intersectional Digital Humanities in Practice,”](https://www.arts.kuleuven.be/digitalhumanities/intersectionality) Intersectionality in Digital Humanities Symposium, The Katholieke Universiteit, Leuven, Belgium
 
-September 13, 2016 - **Invited Workshop, ["Scalar for Social Justice,"](https://www.arts.kuleuven.be/digitalhumanities/summer_school)** Digital Humanities Summer School, The Katholieke Universiteit, Leuven, Belgium
+September 13, 2016 - **Invited Workshop,** ["Scalar for Social Justice,"](https://www.arts.kuleuven.be/digitalhumanities/summer_school) Digital Humanities Summer School, The Katholieke Universiteit, Leuven, Belgium
 
-July 14, 2016 - **[Representing Justice in Digital Archiving Practice Roundtable,](http://dhhistory.blogspot.com/2016/06/inclusive-dh2016-papers-and-posters.html)** Digital Humanities 2016, Krakow, Poland
+July 14, 2016 - [Representing Justice in Digital Archiving Practice Roundtable,](http://dhhistory.blogspot.com/2016/06/inclusive-dh2016-papers-and-posters.html) Digital Humanities 2016, Krakow, Poland
 
-July 13, 2016 - **[Quality Matters: Diversity and the Digital Humanities in 2016 Roundtable,](http://dh2016.adho.org/abstracts/14)** Digital Humanities 2016, Krakow, Poland
+July 13, 2016 - [Quality Matters: Diversity and the Digital Humanities in 2016 Roundtable,](http://dh2016.adho.org/abstracts/14) Digital Humanities 2016, Krakow, Poland
 
-June 22, 2016 - **Keynote Speaker, [“Only Collaborate!
-Postcolonial Imperatives for Community in the Digital Humanities,”](http://keystonedh.network/2016/)** Keystone Digital Humanities Conference 2016, Pittsburgh, PA
+June 22, 2016 - **Keynote Speaker,** [“Only Collaborate!
+Postcolonial Imperatives for Community in the Digital Humanities,”](http://keystonedh.network/2016/) Keystone Digital Humanities Conference 2016, Pittsburgh, PA
 
-March 12, 2016 - **Invited Workshop: [“Digital Humanities Pedagogies for Social Justice,”](http://magazine.grinnell.edu/event/roopika-risam-workshop-digital-humanities-pedagogies-social-justice)** Grinnell College, Grinnell, IA
+March 12, 2016 - **Invited Workshop,** [“Digital Humanities Pedagogies for Social Justice,”](http://magazine.grinnell.edu/event/roopika-risam-workshop-digital-humanities-pedagogies-social-justice) Grinnell College, Grinnell, IA
 
-March 11, 2016 - **Invited Speaker, [“Decolonizing Digital Humanities:
-Towards New Communities of Practice,”](https://www.grinnell.edu/news/roopika-risam-visits-grinnell-college)** Grinnell College, Grinnell, IA
+March 11, 2016 - **Invited Speaker,** [“Decolonizing Digital Humanities:
+Towards New Communities of Practice,”](https://www.grinnell.edu/news/roopika-risam-visits-grinnell-college) Grinnell College, Grinnell, IA
 
-March 4, 2016 - **Invited Workshop, “Digital Humanities Pedagogies,”** Networks of Culture, Theory, and Practice: A Symposium on the Digital Humanities, University of Houston, Houston, TX
+March 4, 2016 - **Invited Workshop,** “Digital Humanities Pedagogies,” Networks of Culture, Theory, and Practice: A Symposium on the Digital Humanities, University of Houston, Houston, TX
 
-March 3, 2016 - **Invited Speaker, [“Digital Humanities in Practice,”](http://www.uh.edu/class/english/_docs/2016/FINAL%20Symposium%20Poster.pdf)** Networks of Culture, Theory, and Practice: A Symposium on the Digital Humanities, University of Houston, Houston, TX
+March 3, 2016 - **Invited Speaker,** [“Digital Humanities in Practice,”](http://www.uh.edu/class/english/_docs/2016/FINAL%20Symposium%20Poster.pdf) Networks of Culture, Theory, and Practice: A Symposium on the Digital Humanities, University of Houston, Houston, TX
 
-January 28-29, 2016 - **Invited Speaker and Trainer, [Digital Humanities Bootcamp,](https://digitalhumanities.group.ufl.edu/dh-uf/dh-projects/dh-bootcamp-january-2016/)** University of Florida, Gainesville, FL
+January 28-29, 2016 - **Invited Speaker and Trainer,** [Digital Humanities Bootcamp,](https://digitalhumanities.group.ufl.edu/dh-uf/dh-projects/dh-bootcamp-january-2016/) University of Florida, Gainesville, FL
 
-January 7, 2016 - **[Where Is the Nation in Digital Humanities? Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=188&year=2016)** Modern Language Association Convention, Austin, TX
+January 7, 2016 - [Where Is the Nation in Digital Humanities? Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=188&year=2016) Modern Language Association Convention, Austin, TX
 
 ## 2015
 
