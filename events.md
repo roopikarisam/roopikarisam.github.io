@@ -202,89 +202,88 @@ January 7, 2016 - [Where Is the Nation in Digital Humanities? Roundtable,](https
 
 ## 2015
 
-November 15, 2015 - **Invited Speaker, [“Digital Knowledge Production in a Globalized Era,”](https://news.drake.edu/2015/11/04/new-art-exhibit-asks-are-we-global-yet/)** The Ethics of New Media Symposium, Drake University, Des Moines, IA
+November 15, 2015 - **Invited Speaker,** [“Digital Knowledge Production in a Globalized Era,”](https://news.drake.edu/2015/11/04/new-art-exhibit-asks-are-we-global-yet/) The Ethics of New Media Symposium, Drake University, Des Moines, IA
 
-October 27, 2015 - **Invited Speaker, [Careers in Digital Humanities and Social Sciences Roundtable,](https://mindbytes.uchicago.edu/2015/digital_careers.html)** University of Chicago, Chicago, IL
+October 27, 2015 - **Invited Speaker,** [Careers in Digital Humanities and Social Sciences Roundtable,](https://mindbytes.uchicago.edu/2015/digital_careers.html) University of Chicago, Chicago, IL
 
-September 4, 2015 - **Keynote Speaker, ["Digital Humanities After #Ferguson: Stakes and Challenges for Digital Scholarship in the New Civil Rights Movement,"](https://sites.psu.edu/lasts/)** Liberal Arts Scholarship and Technology Summit 2015, Pennsylvania State University, State College, PA
+September 4, 2015 - **Keynote Speaker,** ["Digital Humanities After #Ferguson: Stakes and Challenges for Digital Scholarship in the New Civil Rights Movement,"](https://sites.psu.edu/lasts/) Liberal Arts Scholarship and Technology Summit 2015, Pennsylvania State University, State College, PA
 
-July 27-31, 2015 - **Invited Faculty, [HILT 2015, De/Post/Colonial Digital Humanities,](https://dhtraining.org/hilt/course/depostcolonial-digital-humanities/)** Indiana University Purdue University Indianapolis, Indianapolis, IN
+July 27-31, 2015 - **Invited Faculty,** [HILT 2015, De/Post/Colonial Digital Humanities,](https://dhtraining.org/hilt/course/depostcolonial-digital-humanities/) Indiana University Purdue University Indianapolis, Indianapolis, IN
 
-July 13-17, 2015 - **Invited Faculty, [NEH Institute for Community College Digital Humanists
-Beyond Pockets of Innovation, Toward a Community of Practice,](https://www.neh.gov/divisions/odh/institutes/institute-community-college-digital-humanists-beyond-pockets-innovation-tow)** Lane Community College, Eugene, OR
+July 13-17, 2015 - **Invited Faculty,** [NEH Institute for Community College Digital Humanists
+Beyond Pockets of Innovation, Toward a Community of Practice,](https://www.neh.gov/divisions/odh/institutes/institute-community-college-digital-humanists-beyond-pockets-innovation-tow) Lane Community College, Eugene, OR
 
-June 3, 2015 - **“Remaking the Atlas, Unmaking the World:
-Towards a Cultural Atlas of Global Blackness,”** Joint CSDH/SCHN-ACH Digital Humanities Conference 2015, University of Ottawa, Ottawa, Canada
+June 3, 2015 - “Remaking the Atlas, Unmaking the World:
+Towards a Cultural Atlas of Global Blackness,” Joint CSDH/SCHN-ACH Digital Humanities Conference 2015, University of Ottawa, Ottawa, Canada
 
-May 29, 2015 - **Keynote Speaker, [“Across Two (Imperial) Cultures: A Ballad of Digital Humanities and the Global South,”](http://www.cal.msu.edu/news/hastac)** HASTAC 2015, Michigan State University, East Lansing, MI
+May 29, 2015 - **Keynote Speaker,** [“Across Two (Imperial) Cultures: A Ballad of Digital Humanities and the Global South,”](http://www.cal.msu.edu/news/hastac) HASTAC 2015, Michigan State University, East Lansing, MI
 
-May 7, 2015 - **Plenary Speaker, [“On Diverse Voices in Digital Studies,”](http://archive.artsrn.ualberta.ca/digitaldiversity2015/featured-speakers-2/index.html)** Digital Diversity 2015, Edmonton, Canada
+May 7, 2015 - **Plenary Speaker,** [“On Diverse Voices in Digital Studies,”](http://archive.artsrn.ualberta.ca/digitaldiversity2015/featured-speakers-2/index.html) Digital Diversity 2015, Edmonton, Canada
 
-March 23, 2015 - **Invited Speaker, [“The Human Text,”](https://library.temple.edu/watchpastprograms/show/837db05d-9f7d-4bc3-b55c-0fcb4f2110f5)** Temple University, Philadelphia, PA
+March 23, 2015 - **Invited Speaker,** [“The Human Text,”](https://library.temple.edu/watchpastprograms/show/837db05d-9f7d-4bc3-b55c-0fcb4f2110f5) Temple University, Philadelphia, PA
 
-February 19, 2015 - **Invited Speaker, [“Is Critical Digital Humanities Possible?,”](http://5colldh.org/event/roopika-risam/)**
+February 19, 2015 - **Invited Speaker,** [“Is Critical Digital Humanities Possible?,”](http://5colldh.org/event/roopika-risam/)
 Five College Digital Humanities Speaker Series, Amherst College, Amherst, MA
 
-January 30, 2015 - **Invited Speaker, [“Towards a Postcolonial Digital Pedagogy,”](http://gwenglish.blogspot.com/2015/02/gwdh15-disrupting-dh-symposium-at-gw.html)**
+January 30, 2015 - **Invited Speaker,** [“Towards a Postcolonial Digital Pedagogy,”](http://gwenglish.blogspot.com/2015/02/gwdh15-disrupting-dh-symposium-at-gw.html)
 Disrupting DH Symposium, George Washington University, Washington, DC
 
-January 10, 2015 - **[Disrupting the Digital Humanities Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=448&year=2015)** Modern Language Association Convention
+January 10, 2015 - [Disrupting the Digital Humanities Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=448&year=2015) Modern Language Association Convention
 Vancouver, Canada
 
-January 8, 2015 - **[Postcolonial Digital Humanities: Praxis Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=14&year=2015)** Modern Language Association Convention, Vancouver, Canada
+January 8, 2015 - [Postcolonial Digital Humanities: Praxis Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=14&year=2015) Modern Language Association Convention, Vancouver, Canada
 
 ## 2014
 
-October 27, 2014 - **Invited Speaker, ["Postcolonial Digital Humanities:
-A Conversation with Roopika Risam and Al Filreis,"](http://writing.upenn.edu/wh/calendar/1014.php)** Kelly Writers House, University of Pennsylvania, Philadelphia, PA
+October 27, 2014 - **Invited Speaker,** ["Postcolonial Digital Humanities:
+A Conversation with Roopika Risam and Al Filreis,"](http://writing.upenn.edu/wh/calendar/1014.php) Kelly Writers House, University of Pennsylvania, Philadelphia, PA
 
-October 3, 2014 - **Invited Workshop, “If You Build It: Engaging Your Inner Entrepreneur as a Junior Faculty Member,"** Massachusetts Cross-Sector Partnership, Marlborough, MA
+October 3, 2014 - **Invited Workshop,** “If You Build It: Engaging Your Inner Entrepreneur as a Junior Faculty Member," Teaching at Teaching-Intensive Institutions, Marlborough, MA
 
-September 27, 2014 - **Invited Speaker, ["The Race for Digitality: Connectivity as Diasporic Identity,"](http://english.gradstudies.yorku.ca/event/african-diaspora-2-0-oral-sources-and-digital-humanities/)** African Diaspora 2.0, Harriet Tubman Institute, York University, Toronto, Canada
+September 27, 2014 - **Invited Speaker,** ["The Race for Digitality: Connectivity as Diasporic Identity,"](http://english.gradstudies.yorku.ca/event/african-diaspora-2-0-oral-sources-and-digital-humanities/) African Diaspora 2.0, Harriet Tubman Institute, York University, Toronto, Canada
 
-July 9, 2014 - **[“Other Worlds, Other DHs,”](http://dharchive.org/paper/DH2014/Panel-795.xml)** Global Outlook::Digital Humanities: Promoting Digital Humanities Research Across Disciplines, Regions, and Cultures Panel, Digital Humanities 2014,
-Lausanne, Switzerland
+July 9, 2014 - [“Other Worlds, Other DHs,”](http://dharchive.org/paper/DH2014/Panel-795.xml) Global Outlook::Digital Humanities: Promoting Digital Humanities Research Across Disciplines, Regions, and Cultures Panel, Digital Humanities 2014,Lausanne, Switzerland
 
-May 29, 2014 - **Invited Speaker, "Getting Started with Digital Humanities,"** Women’s Studies Summer Technology Institute, University of Maryland, College Park, MD
+May 29, 2014 - **Invited Speaker,** "Getting Started with Digital Humanities," Women’s Studies Summer Technology Institute, University of Maryland, College Park, MD
 
-May 28, 2014 - **[Microsteps to Advance the Digital Humanities Roundtable,](https://www.ideas-idees.ca/sites/default/files/sites/default/uploads/congress/Congress2014/programs/255-csdh-schn-2014-04-30.pdf)** CSDH/SCHN 2014 Conference, Brock University, St. Catherine’s, Canada
+May 28, 2014 - [Microsteps to Advance the Digital Humanities Roundtable,](https://www.ideas-idees.ca/sites/default/files/sites/default/uploads/congress/Congress2014/programs/255-csdh-schn-2014-04-30.pdf) CSDH/SCHN 2014 Conference, Brock University, St. Catherine’s, Canada
 
-May 3, 2014 - **Invited Speaker, [“Professionalizing via Digital Humanities,”](https://american-studies.williams.edu/files/ProfessionalRealitiesInsideandOutsidetheAcademy.pdf)** Professional Realities Inside and Outside the Academy, NEASA Spring Colloquium, University of Massachusetts, Boston, MA
+May 3, 2014 - **Invited Speaker,** [“Professionalizing via Digital Humanities,”](https://american-studies.williams.edu/files/ProfessionalRealitiesInsideandOutsidetheAcademy.pdf) Professional Realities Inside and Outside the Academy, NEASA Spring Colloquium, University of Massachusetts, Boston, MA
 
-April 26, 2014 - **“We’ve Got 99 Problems and the Digital Is One:
-Composing in the Digital Milieu,”** Engaging Practices: A Conference on the Teaching of Composition, University of Massachusetts, Boston, MA
+April 26, 2014 - “We’ve Got 99 Problems and the Digital Is One:
+Composing in the Digital Milieu,” Engaging Practices: A Conference on the Teaching of Composition, University of Massachusetts, Boston, MA
 
-March 18, 2014 - **Invited Speaker, “The Search for the Global Du Bois, 1896-1911,”** Postcolonial and Minority Discourses Series, Emory University, Atlanta, GA
+March 18, 2014 - **Invited Speaker,** “The Search for the Global Du Bois, 1896-1911,” Postcolonial and Minority Discourses Series, Emory University, Atlanta, GA
 
-March 18, 2014 - **Invited Workshop, ["Global Women Wikipedia Write-In,"](https://news.emory.edu/stories/2014/03/upress_women_wikipedia_writein/index.html)** Center for Women and Center for Faculty Development and Excellence, Emory University, Atlanta, GA
+March 18, 2014 - **Invited Workshop,** ["Global Women Wikipedia Write-In,"](https://news.emory.edu/stories/2014/03/upress_women_wikipedia_writein/index.html) Center for Women and Center for Faculty Development and Excellence, Emory University, Atlanta, GA
 
 March 17, 2014 - **Invited Speaker, [“Scholarly Writing in the Digital Milieu,”](http://cfde.emory.edu/programs/research-scholarship/workshopsevents/pastevents.html)** Center for Faculty Development and Excellence, Emory University, Atlanta, GA
 
-March 13, 2014 - **Invited Speaker, [“Toxic WOCs: Constructing Race and Gender in Digital Spaces,”](http://www.diva-portal.org/smash/get/diva2:717358/FULLTEXT03)**
+March 13, 2014 - **Invited Speaker,** [“Toxic WOCs: Constructing Race and Gender in Digital Spaces,”](http://www.diva-portal.org/smash/get/diva2:717358/FULLTEXT03)
 HumLab, Umeå University, Umeå, Sweden
 
-February 7, 2014 - **Invited Speaker, “Breaking or Building: The Curious Case of Postcolonial Digital Humanities,”** UNH Critical Race and Gender Studies Working Group, University of New Hampshire, Durham, NH
+February 7, 2014 - **Invited Speaker,** “Breaking or Building: The Curious Case of Postcolonial Digital Humanities,” UNH Critical Race and Gender Studies Working Group, University of New Hampshire, Durham, NH
 
-January 31, 2014 - **Invited Speaker, [“Theories and Practices of Postcolonial Digital Humanities,”](http://scholarslab.org/blog/dh-speaker-series-presents-adeline-koh-roopika-risam/)**
+January 31, 2014 - **Invited Speaker,** [“Theories and Practices of Postcolonial Digital Humanities,”](http://scholarslab.org/blog/dh-speaker-series-presents-adeline-koh-roopika-risam/)
 Scholars’ Lab Digital Humanities Series, University of Virginia, Charlottesville, VA
 
-January 12, 2014 - **[Decolonizing DH: Theories and Practices of Postcolonial Digital Humanities Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=679&year=2014)** Modern Language Association Convention, Chicago, IL
+January 12, 2014 - [Decolonizing DH: Theories and Practices of Postcolonial Digital Humanities Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=679&year=2014) Modern Language Association Convention, Chicago, IL
 
-January 9, 2014 - **[Teaching Outside the Classroom Through Digital Humanities: Alt-Academic Feminism Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=187&year=2014)** Modern Language Association Convention, Chicago, IL
+January 9, 2014 - [Teaching Outside the Classroom Through Digital Humanities: Alt-Academic Feminism Roundtable,](https://apps.mla.org/conv_listings_detail?prog_id=187&year=2014) Modern Language Association Convention, Chicago, IL
 
 ### 2013
 
-September 24, 2013 - **Invited Speaker, “A #dhpoco Afternoon,”** Studio@Butler, Columbia University, New York, NY
+September 24, 2013 - **Invited Speaker,** “A #dhpoco Afternoon,” Studio@Butler, Columbia University, New York, NY
 
-September 24, 2013 - **Invited Speaker, [“Social Media and the #dhpoco Lifecycle,”](https://academiccommons.columbia.edu/doi/10.7916/D8BV7DQS)** Research Without Borders Series, Columbia University, New York, NY
+September 24, 2013 - **Invited Speaker,** [“Social Media and the #dhpoco Lifecycle,”](https://academiccommons.columbia.edu/doi/10.7916/D8BV7DQS) Research Without Borders Series, Columbia University, New York, NY
 
-July 16-19, 2013 - **[“Digital Humanities: Egalitarian or New Elite?,”](http://dh2013.unl.edu/abstracts/ab-214.html)** Digital Humanities 2013, Lincoln, NE
+July 16-19, 2013 - [“Digital Humanities: Egalitarian or New Elite?,”](http://dh2013.unl.edu/abstracts/ab-214.html) Digital Humanities 2013, Lincoln, NE
 
-March 29, 2013 - **Invited Speaker, Symposium on Gyan Pandey’s A History of Prejudice
-Emory University,** Atlanta, GA
+March 29, 2013 - **Invited Speaker,** Symposium on Gyan Pandey’s A History of Prejudice
+Emory University, Atlanta, GA
 
-March 26, 2013 - **Invited Speaker, [Social Media and Public Scholarship Panel,](http://news.emory.edu/stories/2013/03/er_take_note_social_media_scholarship_workshop/campus.html)** Emory University, Atlanta, GA
+March 26, 2013 - **Invited Speaker,** [Social Media and Public Scholarship Panel,](http://news.emory.edu/stories/2013/03/er_take_note_social_media_scholarship_workshop/campus.html) Emory University, Atlanta, GA
 
-February 20, 2013 - **[“Du Bois as Postcolonial Progenitor,”](http://webcache.googleusercontent.com/search?q=cache:UcaWn6SrKQQJ:cauduboislegacy.net/2013_Conference.html+&cd=1&hl=en&ct=clnk&gl=us&client=firefox-b-1)** W.E.B. Du Bois and the Wings of Atlanta: A Commemorative Conference, Clark Atlanta University, Atlanta, GA
+February 20, 2013 - [“Du Bois as Postcolonial Progenitor,”](http://webcache.googleusercontent.com/search?q=cache:UcaWn6SrKQQJ:cauduboislegacy.net/2013_Conference.html+&cd=1&hl=en&ct=clnk&gl=us&client=firefox-b-1) W.E.B. Du Bois and the Wings of Atlanta: A Commemorative Conference, Clark Atlanta University, Atlanta, GA
 
-January 4, 2013 - **“Postcolonial Du Bois and the Worlds of Color,”** Modern Language Association Convention, Boston, MA
+January 4, 2013 - “Postcolonial Du Bois and the Worlds of Color,” Modern Language Association Convention, Boston, MA
