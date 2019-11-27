@@ -93,7 +93,9 @@ A copy of my CV is available [here](../RisamCVNovember2019.pdf).
 
 [_The Harlem Shadows Project_](http://harlemshadows.org), which I direct with Chris Forster, is an open access critical edition of Claude McKay's 1922 poetry collection _Harlem Shadows_. The project seeks to aggregates the most comprehensive set of documents related to the collection and make them available to readers of McKay.
 
-## Special issues
+## Editorial Work
+
+[_Reviews in Digital Humanities_](../reviews) is a peer-reviewed journal for digital scholarship that I co-edit with Jennifer Guiliano. The journal was launched in 2019.
 
 ["Digital Humanities and South Asian Studies"](https://www.tandfonline.com/toc/rsoa20/40/3?nav=tocList) is a special issue of _South Asian Review_ that I co-edited with Rahul Gairola. The issue was published in 2019.
 
