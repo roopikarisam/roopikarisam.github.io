@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 classes: wide
-permalink: /reanimate/
+permalink: /reanimate-pub/
 title: "*Reanimate*"
 ---
 

@@ -23,7 +23,7 @@ feature_row1:
   - image_path: /assets/images/reanimate.jpg
     title: "Reanimate"
     excerpt: "An intersectional feminist publishing collective producing digital editions of little-known writing by women in media industries"
-    url: "/reanimate"
+    url: "/reanimate-pub"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
