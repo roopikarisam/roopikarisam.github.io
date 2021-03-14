@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 ---
 
-Roopika Risam is Chair of Secondary and Higher Education and an Associate Professor of Education and English at Salem State University. She also serves as the Faculty Fellow for Digital Library Initiatives, Coordinator of the Graduate Certificate in Digital Studies, and Coordinator of the Combined B.A./M.Ed. in English Education.
+Roopika Risam is Chair of Secondary and Higher Education and Associate Professor of Education and English at Salem State University. She also serves as the Faculty Fellow for Digital Library Initiatives, Coordinator of the Graduate Certificate in Digital Studies, and Coordinator of the Combined B.A./M.Ed. in English Education.
 
 Her research interests lie at the intersections of postcolonial and African diaspora studies, humanities knowledge infrastructures, and digital humanities.
 
