@@ -12,8 +12,10 @@ Risam's first monograph, [_New Digital Worlds: Postcolonial Digital Humanities i
 
 Her scholarship has appeared in _Digital Scholarship in the Humanities_, _Digital Humanities Quarterly_, _Debates in the Digital Humanities_, _First Monday_, _Popular Communications_, and _College and Undergraduate Libraries_, among other journals and volumes.
 
-Risam is currently developing [_The Global Du Bois_](../global-du-bois), a data visualization project on W.E.B. Du Bois. She also co-directs [_Reanimate_](../reanimate-pub), an intersectional feminist publishing collective that recovers archival writing by women in media industries, and co-hosts [_Rocking the Academy_](../rta), a podcast featuring conversations with the very best truth tellers, who are formulating a new vision of higher education. She is also a founding member of [_The Data-Sitters Club_](../dsc) and co-editor of [_Reviews in Digital Humanities_](../reviews).
+Risam's work building humanities knowledge infrastructures has been supported by over $500,000 in grants from the Andrew W. Mellon Foundation, National Endowment from the Humanities, Institute for Museum and Library Services, Mass Humanities, and the Massachusetts Department of Higher Education.
+
+She is currently developing [_The Global Du Bois_](../global-du-bois), a data visualization project on W.E.B. Du Bois. She also co-directs [_Reanimate_](../reanimate-pub), an intersectional feminist publishing collective that recovers archival writing by women in media industries, and co-hosts [_Rocking the Academy_](../rta), a podcast featuring conversations with the very best truth tellers, who are formulating a new vision of higher education. She is also a founding member of [_The Data-Sitters Club_](../dsc) and co-editor of [_Reviews in Digital Humanities_](../reviews).
 
 Currently co-vice president of the Association for Computers and the Humanities and co-chair of the [ACH 2021](https://ach2021.ach.org/) conference, Risam previously served as a founding board member of Global Outlook::Digital Humanities (GO::DH) and co-chair of the [ACH 2019](http://ach2019.ach.org/) conference. She also received the Massachusetts Library Association's inaugural [Civil Liberties Champion Award](https://www.bostonglobe.com/metro/globelocal/2018/10/05/salem-state-researcher-champion-social-justice/hD19GIS2zRIY1di09Fr0NI/story.html) for her work promoting equity and justice in the digital cultural record.
 
-Risam's CV is available [here](../RisamCVNovember2019.pdf).
+Her CV is available [here](../RisamCVMarch2021.pdf).
