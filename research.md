@@ -64,7 +64,7 @@ feature_row3:
     url: "/intersectionality"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/dba-small.jpg
+  - image_path: /assets/images/dba.png
     title: "The Digital Black Atlantic"
     excerpt: "A collection for the Debates in Digital Humanities series shedding light on African diasporic approaches to digital humanities forthcoming from University of Minnesota Press in 2020"
     url: "/dba"
