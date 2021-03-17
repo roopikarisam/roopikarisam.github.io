@@ -10,27 +10,81 @@ I am a frequent speaker on race, difference, and the digital; globalization and 
 
 ## Upcoming Events
 
-December 6, 2019 - **Invited Speaker,** [The Caribbean Digital VI,](http://caribbeandigitalnyc.net/2019/) Barnard College, New York, NY
+March 24, 2021 - **Invited Speaker,** [Digital Humanities Series](https://www.csuchico.edu/humanitiescenter/index.shtml), California State University, Chico, Chico, California
 
-January 9, 2020 - [Digital Scholarship in Tenure and Promotion Roundtable,](https://mla20.org/event/member/629639) Modern Language Association Convention, Seattle, WA
+April 26, 2021 - **Invited Speaker,** [Digital Humanities Virtual Book Talks](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds), San Diego State University, San Diego, CA
 
-January 12, 2020 - [Mobilizing the Humanities: Building the Supercommons Roundtable,](https://mla20.org/event/member/629831) Modern Language Association, Seattle, WA
+April 6, 2021 - **Invited Panelist,** "Surveillance and Mapping of Police Violence," Dartmouth College, Hanover, NH
 
-January 13-14, 2020 - **Invited Workshop,** Digital Humanities Professional Development, Spelman College, Atlanta, GA
+April 7, 2021 - **Invited Speaker,** Digital Humanities Series, Drew University, Madison, NJ
 
-March 9-10, 2020 - **Invited Speaker,** Digital Infrastructure Symposium, University of California, Los Angeles, Los Angeles, CA
+May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
 
-April 13-14, 2020 - **Invited Speaker,** Higher Ed/Higher Ground Speaker Series, Westfield State University, Westfield, MA
+June 7-11, 2021 - **Keynote Speaker,** [Digital Humanities Summer Institute,](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/) University of Victoria, Victoria, Canada
 
-June 1-5, 2020 - **Keynote Speaker,** [Digital Humanities Summer Institute,](https://dhsi.org/) University of Victoria, Victoria, Canada
-
-July 26-August 7, 2020 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
-
-August 12-14, 2020 - **Invited Participant,** [After(Life) Narratives of #MeToo,](http://blog.hawaii.edu/cbrhawaii/files/2019/06/CFP-MeToo.jpg) University of Hawai'i at Mānoa, Honolulu, HI
+June 24-27, 2021 - **Keynote Speaker,** [Association for Documentary Editing Annual Meeting](https://www.documentaryediting.org/wordpress/?page_id=5691), Boston, MA
 
 ## Previous Events
 
+### 2021
+
+March 11, 2021 - **Invited Panelist,** [The Center for Children's Books Speaker Series](https://ischool.illinois.edu/news-events/events/2021/03/11/ccb-speaker-series-data-sitters-club), University of Illinois Urbana-Champaign, Urbana, IL
+
+March 8, 2021 - **Invited Panelist,** [The Iconocast](https://www.iconocast.org), Southeastern Louisiana University, Hammond, LA
+
+February 26, 2021 - **Invited Panelist,** [Refresh-Reset-Reformat: Giving Voice to the Past in the Digital Age Symposium](https://www.bgc.bard.edu/events/1202/26-feb-2021-symposium-refresh), Bard Graduate Center, New York, NY
+
+February 25, 2021 - **Invited Speaker,** [Information Studies Colloquium](https://is.gseis.ucla.edu/research/colloquium/), University of California, Los Angeles, Los Angeles, CA
+
+February 25, 2021 - **Invited Speaker,** [Digital Storytelling Colloquium](https://calendar.ku.edu/event/digital_storytelling_colloquium_roopika_risam), University of Kansas, Lawrence KS
+
+February 23, 2021 - **Invited Panelist,** [Digital Access, Inclusion, and the Humanities](https://london.ac.uk/events/digital-access-inclusion-and-humanities), University of London, London, UK
+
+February 18, 2021 - **Invited Panelist,** Stanford Literary Lab, Stanford University, Palo Alto, CA
+
+January 30, 2021 - **Invited Workshop,** "Teaching with Data Visualization," Digital Humanities Professional Development, Spelman College, Atlanta, GA
+
+January 25, 2021 - **Invited Speaker,** [Animating Text Series](https://research.ncl.ac.uk/atnu/news/atnuiesvirtualspeakerseries202020215.html), University of Newcastle, Newcastle, UK
+
+January 10, 2021 - [Antiracist Practices for Administrative Work in Higher Education Roundtable](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10065), Modern Language Associaiton Convention, Toronto, CA
+
+January 8, 2021 - [Online Learning in the Humanities: Lessons Learned Roundtable](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10415), Modern Language Association Convention, Toronto, CA
+
+### 2020
+
+December 22, 2020 - **Keynote Speaker,** [Confronting the "Global," Exploring the "Local": Digital Apprehensions of Poetics in Indian Literature(s) Conference](https://networks.h-net.org/node/73374/announcements/6795669/online-conference-confronting-global-exploring-local-digital), Jamia Millia Islamia, New Delhi, India
+
+December 4, 2020 - **Invited Panelist,** [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/), Barnard College, New York, NY
+
+December 3, 2020 - **Invited Panelist,** [Digital Forays: Rewind, Repeat, Rehash: History, Materiality and Digital Colonialism](https://as.nyu.edu/content/nyu-as/as/research-centers/neareaststudies/events/spring-20201/digital-forays--rewind--repeat--rehash--history--materiality-and.html), New York University, New York, NY
+
+November 6, 2020 - **Invited Panelist,** [Leading During the Pandemic: A Professional Development Series](https://connect.chronicle.com/CS-TK-2020-10-DeptChairWorkshop_LP---Symposia-Specific.html?CID=CSCHEEMOCT08E5), The Chronicle of Higher Education, Washington, DC
+
+October 29, 2020 - **Invited Speaker,** ["W.E.B. Du Bois and the Origins of Public Humanities"](https://humanitiesctr.cas.lehigh.edu/content/virtual-web-du-bois-and-origins-public-humanities), Lehigh University, Bethlehem, PA
+
+October 28, 2020 - [The Data-Sitters Club: A Colloquial, Comprehensive, Collaborative Guide to Computational Textual Analysis Roundtable](http://dhconference.sites.olt.ubc.ca/conference-info/program/day-1/), University of British Columbia Digital Humanities Conference, Vancouver, BC, Canada
+
+October 23, 2020 - **Invited Panelist,** [Digital Archvies in South Asian Studies: Towards Decolonisation](https://www.unstablearchives.com/events), Oxford University, Oxford, UK
+
+September 21, 2020 - **Invited Panelist,** [Advancing Equity through Publicly Engaged Scholarship Symposium](https://events.compact.org/advancing_equity_through_publicly_engaged_scholarship), Campus Compact Southern New England, Worcester, MA
+
+September 18, 2020 - **Invited Workshop,** Recruiting and Retaining ALANA/BIPOC Faculty: A Cross-Campus Conversation on Examples, Goals, and Tenure & Promotion, Worcester State University, Worcester, MA
+
+September 17, 2020 - **Invited Speaker,** [Spectrums of DH Series](https://twitter.com/mcgilldigihum/status/1301174621983715328), McGill University, Montreal, CA
+
+July 27, 2020 - **Keynote Speaker,** [CLIR Capacity Assessment of Latin American and Caribbean Partners Symposium](https://lacclirsymposium2020.github.io), Florida International University, Miami, FL
+
+March 9-10, 2020 - **Invited Speaker,** Digital Infrastructure Symposium, University of California, Los Angeles, Los Angeles, CA
+
+January 13-14, 2020 - **Invited Workshop,** "Teaching with Digital Humanities," Digital Humanities Professional Development, Spelman College, Atlanta, GA
+
+January 12, 2020 - [Mobilizing the Humanities: Building the Supercommons Roundtable,](https://mla20.org/event/member/629831) Modern Language Association, Seattle, WA
+
+January 9, 2020 - [Digital Scholarship in Tenure and Promotion Roundtable,](https://mla20.org/event/member/629639) Modern Language Association Convention, Seattle, WA
+
 ### 2019
+
+December 6, 2019 - **Invited Speaker,** [The Caribbean Digital VI,](http://caribbeandigitalnyc.net/2019/) Barnard College, New York, NY
 
 November 10, 2019 - **Keynote Speaker,** [Chicago Colloquium on Digital Humanities and Computer Science 2019,](https://voices.uchicago.edu/dhcs2019/program/) University of Chicago, Chicago, IL
 
