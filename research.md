@@ -52,7 +52,7 @@ feature_row3:
   - image_path: /assets/images/insurgent-academics.jpg
     alt: "placeholder image 1"
     title: "Insurgent Academics"
-    excerpt: "A book recovering the leading role that African diaspora, Latinx, indigenous, Asian American, and postcolonial scholars played in the rise of public humanities"
+    excerpt: "A book recovering the leading role that African diaspora, Latinx, Indigenous, Asian American, and postcolonial scholars played in the rise of public humanities"
     url: "/insurgent-academics"
     btn_label: "Read More"
     btn_class: "btn--inverse"
