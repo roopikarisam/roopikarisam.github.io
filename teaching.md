@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 permalink: /teaching/
 title: "Teaching"
+classes: wide
 ---
 
 My decisions as a teacher in both Secondary and Higher Education and English departments reflect my commitment to the relationship between social justice and digital humanities and my belief in the vital importance of engaging students in these areas. These experiences have shaped my teaching philosophy, which emphasizes the value of blending humanities knowledge and technology to empower students to participate in the ongoing struggle for social justice and equity. I model reflective teaching practice for my students, many of whom are pre-service or in-service teachers, through course design that puts students at the center of inquiry. In this vein, my courses emphasize the interplay between reading, hands-on experimentation, and reflection.

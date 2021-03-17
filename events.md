@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 permalink: /events/
 title: "Events"
+classes: wide
 ---
 
 I am a frequent speaker on race, difference, and the digital; globalization and technology; migration and media; pedagogy and technology; and social media and public scholarship. In addition to formal talks, I regularly offer workshops and masterclasses on integrating social justice, intersectional feminist, and postcolonial digital humanities methods into research and teaching for faculty and graduate students. Selected videos are available [here](../video). I love the opportunity to connect with new colleagues, so please don't hesitate to drop me an [email](../contact).
