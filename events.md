@@ -12,11 +12,11 @@ I am a frequent speaker on race, difference, and the digital; globalization and 
 
 March 24, 2021 - **Invited Speaker,** [Digital Humanities Series](https://www.csuchico.edu/humanitiescenter/index.shtml), California State University, Chico, Chico, California
 
-April 26, 2021 - **Invited Speaker,** [Digital Humanities Virtual Book Talks](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds), San Diego State University, San Diego, CA
-
 April 6, 2021 - **Invited Panelist,** "Surveillance and Mapping of Police Violence," Dartmouth College, Hanover, NH
 
 April 7, 2021 - **Invited Speaker,** Digital Humanities Series, Drew University, Madison, NJ
+
+April 26, 2021 - **Invited Speaker,** [Digital Humanities Virtual Book Talks](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds), San Diego State University, San Diego, CA
 
 May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
 
