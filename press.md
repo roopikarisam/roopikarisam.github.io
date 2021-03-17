@@ -6,6 +6,30 @@ classes: wide
 title: "Press"
 ---
 
+["Massachusetts Public Colleges & Universities Report $7M in Textbook Savings for Students,"](https://www.mass.edu/about/newsreleases/nr-20210302.asp) _Massachusetts Department of Higher Education,_ Katy Abel (3/2/2021)
+
+["JMI Organizes Online International Conference on 'Confronting the Global, Exploring the Local,'"](https://indiaeducationdiary.in/jmi-organizes-online-international-conference-on-confronting-the-global-exploring-the-local-digital-apprehensions-of-poetics-and-indian-literatures/) _India Education Diary_ (12/24/2020)
+
+["A Generation Hit By Three Soul-Crushing Crises,"](https://www.cnn.com/2020/06/25/opinions/coronavirus-pandemic-racism-generation-resilient-fredrick/index.html) _CNN_, Yaffa Fredrick (7/7/2020)
+
+["US Universities Accused of 'Magical Thinking' on Reopening Plans,"](https://www.timeshighereducation.com/news/us-universities-accused-magical-thinking-reopening-plans) _Times Higher Education_, Paul Basken (7/7/2020)
+
+["Donald Trump Invites Fear to the Party,"](https://www.cnn.com/2020/07/05/opinions/trump-invites-fear-to-the-party-opinion-weekly-column-galant/index.html) _CNN_, Richard Gallant (7/5/2020)
+
+["Reopening Schools Safely Can't Happen without Racial Equity,"](https://www.cnn.com/2020/07/02/opinions/covid-19-colleges-racial-equality-risam/index.html) _CNN_, Roopika Risam (7/2/2020)
+
+["Inside the Collaborative Effort in Massachusetts to Advance OER,"](https://sparcopen.org/news/2020/inside-the-collaborative-effort-in-massachusetts-to-advance-oer/) _SPARC_ (5/12/2020)
+
+["The New Tenured Radicals,"](https://www.chronicle.com/article/the-new-tenured-radicals/) _The Chronicle of Higher Education_, Emma Pettit (4/23/2020)
+
+["The Data-Sitters Club,"](https://www.insidehighered.com/news/2020/04/15/we-need-fun-more-ever-digital-humanities-meets-baby-sitters-club-books) _Inside Higher Education_, Elizabeth Redden (4/14/2020)
+
+["Separate but Equal at the MLA?"](https://www.insidehighered.com/news/2020/03/04/separate-equal-mla) _Inside Higher Education_, Colleen Flaherty (3/4/2020)
+
+["Mass. Is Exemplar of Getting Free Stuff for Colleges,"](https://www.cnn.com/2020/06/25/opinions/coronavirus-pandemic-racism-generation-resilient-fredrick/index.html) _New England Diary,_ Patricia A. Marshall (11/7/2019)
+
+["A History Lecture, Affordable Textbooks, and a Mobile Sustainability Lab,"](https://www.bostonglobe.com/metro/globelocal/2018/11/16/history-lecture-affordable-textbooks-and-mobile-sustainability-lab/8iUZsuOFzs1FfBwBRFsIGN/story.html) _Boston Globe_, Morgan Hughes (11/16/2018)
+
 ["Salem State Researcher a 'Champion' of Social Justice,"](https://www.bostonglobe.com/metro/globelocal/2018/10/05/salem-state-researcher-champion-social-justice/hD19GIS2zRIY1di09Fr0NI/story.html) _Boston Globe_, Morgan Hughes (10/5/2018)
 
 ["How to do Rapid Response Research,"](https://www.chronicle.com/blogs/profhacker/how-to-do-rapid-response-research/65691) _Chronicle of Higher Education,_ Jason B. Jones (8/29/2018)
@@ -31,6 +55,8 @@ title: "Press"
 ["Postcolonial DH: An Interview with Roopika Risam,"](https://www.youtube.com/watch?v=VQ1lIb-CNOo) _HASTAC,_ Sylvia Fernandez (6/14/2018)
 
 ["Horace Mann? Bowditch? Neither? What to Name Salem's Relocated School is No Easy Task,"](https://www.salemnews.com/news/local_news/horace-mann-bowditch-neither/article_bfa19533-8ed5-57ae-9d47-62bd7150099f.html) _Salem News,_ Dustin Luca (5/28/2018)
+
+["Salem State to Create Digital Humanities Network,"](https://www.bostonglobe.com/metro/regionals/north/2018/01/04/salem-state-create-digital-humanities-network/bc0SW1QjsFjPdNs61F28IL/story.html) _Boston Globe_, John Laidler (1/4/2018)
 
 ["Interview with Roopika Risam,"](http://connectingeuropeproject.eu/2017/01/17/interview-with-roopika-risam-contributor-colloquium-connected-migrants-encapsulation-or-cosmopolitanism/) _Connecting Europe Project_ (1/17/2017)
 

@@ -8,6 +8,20 @@ classes: wide
 
 ## Selected Press
 
+["Massachusetts Public Colleges & Universities Report $7M in Textbook Savings for Students,"](https://www.mass.edu/about/newsreleases/nr-20210302.asp) _Massachusetts Department of Higher Education,_ Katy Abel (3/2/2021)
+
+["A Generation Hit By Three Soul-Crushing Crises,"](https://www.cnn.com/2020/06/25/opinions/coronavirus-pandemic-racism-generation-resilient-fredrick/index.html) _CNN_, Yaffa Fredrick (7/7/2020)
+
+["US Universities Accused of 'Magical Thinking' on Reopening Plans,"](https://www.timeshighereducation.com/news/us-universities-accused-magical-thinking-reopening-plans) _Times Higher Education_, Paul Basken (7/7/2020)
+
+["Reopening Schools Safely Can't Happen without Racial Equity,"](https://www.cnn.com/2020/07/02/opinions/covid-19-colleges-racial-equality-risam/index.html) _CNN_, Roopika Risam (7/2/2020)
+
+["The New Tenured Radicals,"](https://www.chronicle.com/article/the-new-tenured-radicals/) _The Chronicle of Higher Education_, Emma Pettit (4/23/2020)
+
+["Mass. Is Exemplar of Getting Free Stuff for Colleges,"](https://www.cnn.com/2020/06/25/opinions/coronavirus-pandemic-racism-generation-resilient-fredrick/index.html) _New England Diary,_ Patricia A. Marshall (11/7/2019)
+
+["A History Lecture, Affordable Textbooks, and a Mobile Sustainability Lab,"](https://www.bostonglobe.com/metro/globelocal/2018/11/16/history-lecture-affordable-textbooks-and-mobile-sustainability-lab/8iUZsuOFzs1FfBwBRFsIGN/story.html) _Boston Globe_, Morgan Hughes (11/16/2018)
+
 ["Salem State Researcher a 'Champion' of Social Justice,"](https://www.bostonglobe.com/metro/globelocal/2018/10/05/salem-state-researcher-champion-social-justice/hD19GIS2zRIY1di09Fr0NI/story.html) _Boston Globe_, Morgan Hughes (10/5/2018)
 
 ["How to do Rapid Response Research,"](https://www.chronicle.com/blogs/profhacker/how-to-do-rapid-response-research/65691) _Chronicle of Higher Education,_ Jason B. Jones (8/29/2018)
