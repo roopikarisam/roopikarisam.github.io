@@ -6,6 +6,49 @@ title: "Research"
 classes: wide
 
 feature_row1:
+  - image_path: /assets/images/ndw.jpg
+    alt: "placeholder image 1"
+    title: "New Digital Worlds"
+    excerpt: "A book examining the inequalities in digital knowledge production and how to address them through digital humanities methods (Northwestern University Press, 2018)"
+    url: "https://nupress.northwestern.edu/9780810138858/new-digital-worlds/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/dba.png
+    title: "The Digital Black Atlantic"
+    excerpt: "A volume at the intersections of digital humanities and the African diaspora, in the Debates in the Digital Humanities series (University of Minnesota Press, 2021)"
+    url: "https://www.upress.umn.edu/book-division/books/the-digital-black-atlantic"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"  
+  - image_path: /assets/images/sadh.png
+    title: "South Asian DH"
+    excerpt: "A volume exploring the possibilities of postcolonial digital humanities for creating social justice scholarship in South Asian studies (Routledge, 2020)"
+    url: "https://www.routledge.com/South-Asian-Digital-Humanities-Postcolonial-Mediations-across-Technologys/Risam-Gairola/p/book/9780367504052"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+feature_row2:
+  - image_path: /assets/images/keywords.png
+    alt: "placeholder image 1"
+    title: "Caribbean Keywords"
+    excerpt: "A digital project featuring critical terms for research and pedagogy in Caribbean studies, comprised of short essays accommpanied by curated lists of digital objects"
+    url: "https://caribbeandigitalnyc.net/keywords/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/global-du-bois.jpg
+    alt: "placeholder image 1"
+    title: "The Global Du Bois"
+    excerpt: "A series of data visualizations that challenge the intransigent biographical narrative that W.E.B. Du Bois's investment in decolonization was a later development in his intellectual trajectory"
+    url: "/global-du-bois"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/harlem-shadows.png
+    title: "Additional Contributions"
+    excerpt: "A compendium of my other scholarship focusing primarily on the practices and stakes of digital ethnic studies across multiple genres of scholarly communications"
+    url: "/more-digital-ethnic"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+feature_row3:
   - image_path: /assets/images/insurgent-academics.jpg
     alt: "placeholder image 1"
     title: "Insurgent Academics"
@@ -13,122 +56,132 @@ feature_row1:
     url: "/insurgent-academics"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/settler-u.png
+    title: "Settler Colonial U"
+    excerpt: "A series of collaborations investigating universities' ongoing complicity in Indigenous dispossession and genocide and conversations for reparative work"
+    url: "/settler-colonial-u"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/labor.jpg
+    alt: "placeholder image 1"
+    title: "Labor in the Academy"
+    excerpt: "A collection of publications exploring the challenges of labor in higher education and articulating new visions for collaboration that decenter faculty \"expertise\""
+    url: "/more-labor"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+feature_row4:
   - image_path: /assets/images/rta.jpg
     alt: "placeholder image 2"
     title: "Rocking the Academy"
-    excerpt: "A podcast bringing listeners conversations with the very best truth tellers who are formulating a new vision for the future of higher education"
-    url: "/rta"
+    excerpt: "A podcast bringing listeners conversations with the very best truth tellers who are formulating a new vision for the future of higher education in the 21st century"
+    url: "https://rocking-the-academy.simplecast.com/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/reanimate.jpg
-    title: "Reanimate"
-    excerpt: "An intersectional feminist publishing collective producing digital editions of little-known writing by women in media industries"
-    url: "/reanimate-pub"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-
-feature_row2:
-  - image_path: /assets/images/global-du-bois.jpg
-    alt: "placeholder image 1"
-    title: "The Global Du Bois"
-    excerpt: "A series of data visualizations challenging the idea that W.E.B. Du Bois's investment in decolonization is a later development in his intellectual trajectory"
-    url: "/global-du-bois"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/dsc.jpg
+    btn_class: "btn--inverse"  
+  - image_path: /assets/images/community.jpg
     alt: "placeholder image 2"
-    title: "The Data-Sitters Club"
-    excerpt: "A group of *Baby-Sitters Club* book connoisseurs assembling a comprehensive, colloquial guide to computational textual analysis"
-    url: "/dsc"
+    title: "Community Engagement"
+    excerpt: "A series of grant-funded projects focused on developing ethical practices for community-based collaborations and reimagining faculty reward structures"
+    url: "/community-engagement"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/more-cus.jpg
+    title: "Additional Contributions"
+    excerpt: "A compendium of my other scholarship focusing primarily on critical university studies and changing practices in higher education that affect minoritized people"
+    url: "/more-cus"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"  
+
+feature_row5:
+  - image_path: /assets/images/reviews.png
+    alt: "placeholder image 1"
+    title: "Reviews in DH"
+    excerpt: "A journal offering peer review for digital scholarship, with emphasis on critical ethnic, African diaspora, Indigenous, Latinx, Asian, and postcolonial studies"
+    url: "https://reviewsindh.pubpub.org/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/min-comp-small.jpg
-    title: "Minimal Computing Issue"
-    excerpt: "A special issue of *Digital Humanities Quarterly* exploring the promises and limitations of minimal computing in digital humanities"
+    title: "Minimal Computing"
+    excerpt: "A special issue of *Digital Humanities Quarterly* exploring the promises and limits of minimal computing, which focuses on doing what we can with what we have "
     url: "/min-comp"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/schol-comm.jpg
+    title: "Additional Contributions"
+    excerpt: "A collection of my other scholarship on scholarly communications, with an emphasis on social justice practices, citational politics, and peer review"
+    url: "/more-schol-comms"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"  
 
-feature_row3:
-  - image_path: /assets/images/ndw.jpg
-    alt: "placeholder image 1"
-    title: "New Digital Worlds"
-    excerpt: "A book examining the inequalities in digital knowledge production and how to address them in digital humanities methods published by Northwestern University Press in 2018"
-    url: "/ndw"
+feature_row6:
+  - image_path: /assets/images/reanimate.jpg
+    title: "Reanimate"
+    excerpt: "An intersectional feminist publishing collective producing digital editions of little-known writing by women in media industries, including Fredi Washington and Josefina Niggli "
+    url: "/reanimate-pub"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/intersectionality-small.jpg
     alt: "placeholder image 2"
     title: "Intersectionality in DH"
-    excerpt: "A volume considering the compunding effects of race, class, gender, sexuality, and nation on digital data, archives, and methodologies published by Arc Humanities Press in 2019"
-    url: "/intersectionality"
+    excerpt: "A volume considering the compounded harm of race, class, gender, sexuality, and nation on digital data, archives, and methodologies published by Arc Humanities Press in 2019"
+    url: "https://www.aup.nl/en/book/9781641890502/intersectionality-in-digital-humanities"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/dba.png
-    title: "The Digital Black Atlantic"
-    excerpt: "A collection for the Debates in Digital Humanities series shedding light on African diasporic approaches to digital humanities forthcoming from University of Minnesota Press in 2020"
-    url: "/dba"
+  - image_path: /assets/images/more-media.jpg
+    title: "Additional Contributions"
+    excerpt: "A compendium of my other scholarship in intersectional feminist media, including digital humanities, social media, gender and digital labor, and gender and globalization"
+    url: "/more-fem-media"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"  
+
+feature_row7:
+  - image_path: /assets/images/tas.jpg
+    title: "Torn Apart/Separados"
+    excerpt: "A data visualization project responding to the 2018 family separation policy instituted by the U.S. government and turning the gaze of migration data visualization on the carceral state"
+    url: "http://xpmethod.columbia.edu/torn-apart/volume/1/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/passport.jpg
+    alt: "placeholder image 2"
+    title: "Visualizing Migration"
+    excerpt: "A series of articles that examine the relationship between data visualization and migration and consider the ethics of data visualization when working with vulnerable populations"
+    url: "/visualizing-migration"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/visualizing-migration.jpg
+    title: "Additional Contributions"
+    excerpt: "A collection of my other scholarship addressesing the relationship between media and migration, including selfie-taking practices of migrants and using social media for advocacy and activism"
+    url: "/more-media-migration"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
 ---
 
 The common thread that runs throughout my research agenda is my commitment to creating and sustaining humanities knowledge infrastructures that foreground Black, brown, and Indigenous voices. As the humanities and higher education face an uncertain future, I draw on my background in African diaspora studies, ethnic studies, postcolonial studies, and intersectional feminism to explore multi-faceted approaches that allow us to imagine new futures grounded in reciprocal and redistributive relationships with our communities. We find glimpses of this future at the confluences of digital humanities, public humanities, and community-engaged scholarship.
 
-At the heart of my research is the concern that while digital knowledge production has accelerated rapidly in the last few decades, the exclusions and biases that have long shaped print culture — products of colonialism, racism, and patriarchy — are being reproduced and amplified as we construct the digital cultural record of humanity. Representation alone will not address these issues. Therefore, my scholarship examines the methodologies, reward structures, labor models, and ethics of research necessary for more fully realizing the promise of knowledge production in the digital age. Questions I explore include: How do we facilitate ethical humanities collaborations that transcend boundaries between "university" and community"? How do we reframe humanities "knowledge" and "expertise" in ways that recognize that they are not the sole domain of faculty but are distributed throughout communities within and beyond academia? How do we ensure faculty reward systems value interdisciplinary and engaged scholarship and recognize that humanities outputs need not be limited to the monograph, journal article, or book chapter? And how do we best plan for the long-term survival of the humanities in case we can't rely on the fragile institutions that sustain them?
+At the heart of my research is the concern that while digital knowledge production has accelerated rapidly in the last few decades, the exclusions and biases that have long shaped print culture — products of colonialism, racism, and patriarchy — are being reproduced and amplified as we construct the digital cultural record of humanity. Representation alone will not address these issues. Therefore, my scholarship examines the methodologies, reward structures, labor models, and ethics of research necessary for more fully realizing the promise of knowledge production in the digital age. Questions I explore include: How do we facilitate ethical humanities collaborations that transcend boundaries between "university" and community"? How do we reframe humanities "knowledge" and "expertise" in ways that recognize that they are not the sole domain of faculty but are distributed throughout communities within and beyond academia? How do we ensure faculty reward systems value interdisciplinary and engaged scholarship and recognize that humanities outputs need not be limited to the monograph, journal article, or book chapter? And how do we best plan for the long-term survival of the humanities in case we can't rely on the fragile institutions that sustain them? This institution-building work naturally traverses boundaries between research, teaching, and service.
 
-My research agenda is perhaps best understood through five interconnected strands where I explore these questions: digital ethnic studies, critical university studies, intersectional feminist media, scholarly communications, and media and migration. As my books, articles, and digital projects nimbly cross over these categories, together they comprise a series of investigations — at both large and small scales, in multiple genres — of how to build humanities knowledge infrastructures based not on rehearsing the dominant white epistemologies of the Global North but on putting Black, brown, and Indigenous people at the center.
+My research agenda is perhaps best understood through five interconnected strands where I explore these questions: [digital ethnic studies](../research#digital-ethnic-studies), [critical university studies](../research#critical-university-studies), [scholarly communications](../research#scholarly-communications), [intersectional feminist media](../research#intersectional-feminist-media), and [media and migration](../research#media-and-migration). As my books, articles, and digital projects nimbly cross over these categories, together they comprise a series of investigations — at both large and small scales, in multiple genres — of how to build humanities knowledge infrastructures based not on rehearsing the dominant white epistemologies of the Global North but on putting Black, brown, and Indigenous people at the center.
 
 A copy of my CV is available [here](../RisamCVMarch2021.pdf).
 
-## Current Projects
+## Digital Ethnic Studies
 
 {% include feature_row id="feature_row1" %}
 {% include feature_row id="feature_row2" %}
 
-## Books
+## Critical University Studies
 
 {% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row4" %}
 
-## Digital Scholarship
+## Scholarly Communications
 
-[_Torn Apart/Separados_](http://xpmethod.plaintext.in/torn-apart/volume/2/index) was developed in collaboration with the Group for Experimental Methods in Humanistic Research (Manan Ahmed, Alex Gil, Roopika Risam, Moacir P. de Sá Pereira), Borderlands Archives Cartography (Sylvia Fernández, Maira Álvarez), Merisa Martinez, Linda M. Rodriguez, and Rachel Hendery, and presents data visualizations of the geographical and financial landscape of Immigration and Customs Enforcement (ICE) in the United States.
+{% include feature_row id="feature_row5" %}
 
-[_Social Justice and the Digital Humanities_](http://criticaldh.roopikarisam.com) was created as the culminating project in the HILT 2015 De/Post/Colonial Digital Humanities course I taught with micha cárdenas. Designed as an invitation to discuss and implement digital humanities methods that put justice and equity at the center of digital scholarship, the project offers users a series of creative and critical precepts for project design around access, material conditions, method, and ontologies and epistemologies for scholarship.
+## Intersectional Feminist Media
 
-[_The Harlem Shadows Project_](http://harlemshadows.org), which I direct with Chris Forster, is an open access critical edition of Claude McKay's 1922 poetry collection _Harlem Shadows_. The project seeks to aggregates the most comprehensive set of documents related to the collection and make them available to readers of McKay.
+{% include feature_row id="feature_row6" %}
 
-## Editorial Work
+## Media and Migration
 
-[_Reviews in Digital Humanities_](../reviews) is a peer-reviewed journal for digital scholarship that I co-edit with Jennifer Guiliano. The journal was launched in 2019.
-
-["Digital Humanities and South Asian Studies"](https://www.tandfonline.com/toc/rsoa20/40/3?nav=tocList) is a special issue of _South Asian Review_ that I co-edited with Rahul Gairola. The issue was published in 2019.
-
-["Gender and Digital Labor"](http://firstmonday.org/ojs/index.php/fm/issue/view/590) is a special issue of _First Monday_ that I co-edited with Carolyn Elerding and Radhika Gajjala. The issue was published in 2018.
-
-["Gender, Globalization, and the Digital Humanities"](https://adanewmedia.org/issues/issue-archives/issue8/) is a special issue of _Ada: A Journal of Gender, New Media, and Technology_ that I edited. The issue was published in 2015.
-
-## Selected Articles and Book Chapters
-
-“Telling Untold Stories: Digital Textual Recovery Methods.” _Research Methods for Digital Humanities_, edited by Lewis Levenberg, David Rheams, and Tai Neilson, Palgrave MacMillan, 2018, pp. 309-18. [[Link]](https://www.palgrave.com/us/book/9783319967127)
-
-“Decolonizing Digital Humanities in Theory and Praxis.” _Routledge Companion to New Media and Digital Humanities_, edited by Jentery Sayers, Routledge, 2018, pp. 78-86. [[Link]](https://digitalcommons.salemstate.edu/english_facpub/7)
-
-“Diversity Work and Digital Carework in Higher Education.” _First Monday_, vol. 23, no. 3, 2018. [[Link]](http://firstmonday.org/ojs/index.php/fm/article/view/8241)
-
-“Transforming the Landscape of Labor at Universities through Digital Humanities” (with Susan M. Edwards). _Digital Humanities, Libraries, and Partnerships_, edited by Robin Kear and Kate Joranson, Chandos, 2018, pp. 3-17. [[Link]](https://digitalcommons.salemstate.edu/library_facpub/2/)
-
-“Now You See Them: Self-representation and the Migrant Selfie.” _Popular Communications_, vol. 16, no. 1, 2018, pp. 58-71. [[Link]](https://www.tandfonline.com/doi/abs/10.1080/15405702.2017.1413191)
-
-“Postcolonial Studies in the Digital Age.” _The Bloomsbury Introduction to Postcolonial Writing: New Contexts, New Narratives, New Debates_, edited by Jenni Ramone, Bloomsbury, 2017, pp. 105-24. [[Link]](https://www.bloomsbury.com/uk/the-bloomsbury-introduction-to-postcolonial-writing-9781474240109/)
-
-“Building an Ethical Digital Humanities Community: Librarian, Faculty, and Student Collaboration” (with Justin Snow and Susan M. Edwards). _College and Undergraduate Libraries_, vol. 24, no. 2-4, 2017, pp. 337-49. [[Link]](https://digitalcommons.salemstate.edu/library_facpub/1/)
-
-“Other Worlds, Other DHs.” _Digital Scholarship in the Humanities_, vol. 32, no. 2, 2017, pp. 377-84. [[Link]](https://academic.oup.com/dsh/article-abstract/32/2/377/2669630?redirectedFrom=fulltext)
-
-“Navigating the Global Digital Humanities: Insights from Black Feminism.” _Debates in the Digital Humanities_, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016, pp. 359-67. [[Link]](http://dhdebates.gc.cuny.edu/debates/text/80)
-
-“Beyond the Margins: Intersectionality and the Digital Humanities.” _Digital Humanities Quarterly_, vol. 9, no. 2, 2015. [[Link]](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html)
-
-“Toxic Femininity 4.0.” _First Monday_, vol. 20, no. 4, 2015. [[Link]](http://firstmonday.org/ojs/index.php/fm/article/view/5896/4417)
-
-“Rethinking Peer Review in the Age of Digital Humanities.” _Ada: A Journal of Gender, New Media, and Technology_, vol. 4, 2014. [[Link]](http://adanewmedia.org/2014/04/issue4-risam/)
+{% include feature_row id="feature_row7" %}
