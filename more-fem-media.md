@@ -8,7 +8,7 @@ title: "Additional Contributions: Intersectional Feminist Media"
 
 ## **"Indigenizing Decolonial Feminist Media Theory: The Case of Missing and Murdered Indigenous Women." _Feminist Media Histories_, forthcoming.**
 
-This article examines how issues of Indigenous dispossession and genocide in settler colonial states like the U.S. are subordinated to analyses of decoloniality in the Global South. Taking up this problem, it argues that decolonial feminist media theory must necessarily foreground Indigenity and models what such an intervention might look like through a case study analyzing the mobilization of media to address the phenomenon of missing and murdered Indigenous women and demand accountability for them.
+This article examines how issues of Indigenous dispossession and genocide in settler colonial states like the U.S. are subordinated to analyses of the Global South in decolonial feminist media theory. Taking up this problem, it argues that decolonial feminist media theory must necessarily foreground Indigenity and models what such an intervention might look like through a case study analyzing the mobilization of media to address the phenomenon of missing and murdered Indigenous women and demand accountability for them.
 
 ## **The Data-Sitters Club [[Link]](https://datasittersclub.github.io/site/)**
 
@@ -20,7 +20,7 @@ Co-written with Quinn Dombrowski, Katia Bowers, Maria Cecire, Anouk Lang, and Le
 
 ## **"Intersectionality." _Digital Pedagogy in the Humanities: Concepts, Models, and Experiments_, edited by Rebecca Frost Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers. Modern Language Association, 2019. [[Link]](https://digitalpedagogy.hcommons.org)**
 
-_Digital Pedagogy in the Humanities_ is a peer-reviewed, curated collection of reusable and remixable resources for teaching and research. "Intersectionalty" is a collection of digital humanities projects and digital pedagogy assignments that encourage students to think beyond narrow binaries that overdetermine contemporary discourses of identity and power. The artifacts in the collection facilitate a range of approaches to digital pedagogy that take into account the compounded harm of race, class, gender, sexuality, nation, and other axes of oppression.
+_Digital Pedagogy in the Humanities_ is a peer-reviewed, curated collection of reusable and remixable resources for teaching and research. "Intersectionality" is a collection of digital humanities projects and digital pedagogy assignments that encourage students to think beyond narrow binaries that overdetermine contemporary discourses of identity and power. The artifacts in the collection facilitate a range of approaches to digital pedagogy that take into account the compounded harm of race, class, gender, sexuality, nation, and other axes of oppression.
 
 ## **"What Passes for Human? Undermining the Universal Subject in Digital Humanities Praxis." _Bodies of Information: Intersectional Feminism and Digital Humanities_, edited by Jacqueline Wernimont and Elizabeth Losh. University of Minnesota Press, 2018, pp. 39-56. [[Link]](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/34d51cdb-2a89-4e4b-9762-bf6461cf0bb7)**
 
