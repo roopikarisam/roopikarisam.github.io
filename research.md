@@ -30,7 +30,7 @@ feature_row2:
   - image_path: /assets/images/keywords.png
     alt: "placeholder image 1"
     title: "Caribbean Keywords"
-    excerpt: "A digital project featuring critical terms for research and pedagogy in Caribbean studies, comprised of short essays accommpanied by curated lists of digital objects"
+    excerpt: "A digital project featuring critical terms for research and pedagogy in Caribbean studies, comprised of short essays accompanied by curated lists of digital objects"
     url: "https://caribbeandigitalnyc.net/keywords/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -150,7 +150,7 @@ feature_row7:
     btn_class: "btn--inverse"
   - image_path: /assets/images/visualizing-migration.jpg
     title: "Additional Contributions"
-    excerpt: "A collection of my other scholarship addressesing the relationship between media and migration, including selfie-taking practices of migrants and using social media for advocacy and activism"
+    excerpt: "A collection of my other scholarship addressing the relationship between media and migration, including the situated nature of migration data and selfie-taking practices of refugees"
     url: "/more-media-migration"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
