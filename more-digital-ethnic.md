@@ -20,7 +20,7 @@ This chapter discusses how digital humanities methods can be used to teach Amita
 
 ## **The Harlem Shadows Project [[Link]](http://harlemshadows.org)**
 
-This project, which I direct with Chris Forster, is an open access critical edition of Claude McKay's 1922 poetry collection _Harlem Shadows_. The edition seeks to aggregates the most comprehensive set of documents related to the collection and make them available to readers of McKay.
+This project, which I direct with Chris Forster, is an open access critical edition of Claude McKay's 1922 poetry collection _Harlem Shadows_. The edition seeks to aggregate the most comprehensive set of documents related to the collection and make them available to readers of McKay.
 
 ## **“Telling Untold Stories: Digital Textual Recovery Methods.” _Research Methods for Digital Humanities_, edited by Lewis Levenberg, David Rheams, and Tai Neilson, Palgrave MacMillan, 2018, pp. 309-18. [[Link]](https://www.palgrave.com/us/book/9783319967127)**
 
