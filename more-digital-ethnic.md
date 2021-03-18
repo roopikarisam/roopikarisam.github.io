@@ -6,7 +6,7 @@ permalink: /more-digital-ethnic/
 title: "Additional Contributions: Digital Ethnic Studies"
 ---
 
-## **"Double and Tripe Binds: The Barriers to Computational Ethnic Studies." _Computational Humanities,_ edited by Jessica M. Johnson, David Mimno, and Lauren Tilton, University of Minnesota Press, forthcoming. [[Link]](https://dhdebates.gc.cuny.edu/projects/computational-humanities)**
+## **"Double and Triple Binds: The Barriers to Computational Ethnic Studies." _Computational Humanities,_ edited by Jessica M. Johnson, David Mimno, and Lauren Tilton, University of Minnesota Press, forthcoming. [[Link]](https://dhdebates.gc.cuny.edu/projects/computational-humanities)**
 
 This chapter considers what I term the double and triple binds that serve as barriers to the development of computational ethnic studies scholarship. The double bind, in this case, is the challenge of undertaking scholarship using methods that are misunderstood within academic disciplines, while the triple bind references the additional lack of support for ethnic studies within higher education. The essay further offers suggestions for how we might better support the growth of computational approaches to ethnic studies.
 
@@ -20,13 +20,13 @@ This chapter discusses how digital humanities methods can be used to teach Amita
 
 ## **The Harlem Shadows Project [[Link]](http://harlemshadows.org)**
 
-This project, which I direct with Chris Forster, is an open access critical edition of Claude McKay's 1922 poetry collection _Harlem Shadows_. The edition seeks to aggregates the most comprehensive set of documents related to the collection and make them available to readers of McKay.
+This project, which I direct with Chris Forster, is an open access critical edition of Claude McKay's 1922 poetry collection _Harlem Shadows_. The edition seeks to aggregate the most comprehensive set of documents related to the collection and make them available to readers of McKay.
 
-## **“Telling Untold Stories: Digital Textual Recovery Methods.” _Research Methods for Digital Humanities_, edited by Lewis Levenberg, David Rheams, and Tai Neilson, Palgrave MacMillan, 2018, pp. 309-18. [[Link]](https://www.palgrave.com/us/book/9783319967127)**
+## **“Telling Untold Stories: Digital Textual Recovery Methods.” _Research Methods for Digital Humanities_, edited by Lewis Levenberg, David Rheams, and Tai Neilson, Palgrave, 2018, pp. 309-18. [[Link]](https://www.palgrave.com/us/book/9783319967127)**
 
 This chapter explores the use of the Text Encoding Initiative markup language to create digital editions that participate in textual recovery, based on my experience creating a critical digital edition of Claude McKay's _Harlem Shadows_.
 
-## **“Decolonizing Digital Humanities in Theory & Praxis.” _Routledge Companion to New Media and Digital Humanities_, edited by Jentery Sayers, Routledge, 2018, pp. 78-86. [[Link]](https://digitalcommons.salemstate.edu/english_facpub/7)**
+## **“Decolonizing Digital Humanities in Theory & Practice.” _Routledge Companion to New Media and Digital Humanities_, edited by Jentery Sayers, Routledge, 2018, pp. 78-86. [[Link]](https://digitalcommons.salemstate.edu/english_facpub/7)**
 
 This chapter examines the critical task of addressing the hallmarks of colonialism in the digital cultural record while raising concern about the limits of discursive approaches to "decolonization," particularly in settler colonial states like the U.S.
 
