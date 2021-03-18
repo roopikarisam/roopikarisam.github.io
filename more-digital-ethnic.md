@@ -6,7 +6,7 @@ permalink: /more-digital-ethnic/
 title: "Additional Contributions: Digital Ethnic Studies"
 ---
 
-## **"Double and Tripe Binds: The Barriers to Computational Ethnic Studies." _Computational Humanities,_ edited by Jessica M. Johnson, David Mimno, and Lauren Tilton, University of Minnesota Press, forthcoming. [[Link]](https://dhdebates.gc.cuny.edu/projects/computational-humanities)**
+## **"Double and Triple Binds: The Barriers to Computational Ethnic Studies." _Computational Humanities,_ edited by Jessica M. Johnson, David Mimno, and Lauren Tilton, University of Minnesota Press, forthcoming. [[Link]](https://dhdebates.gc.cuny.edu/projects/computational-humanities)**
 
 This chapter considers what I term the double and triple binds that serve as barriers to the development of computational ethnic studies scholarship. The double bind, in this case, is the challenge of undertaking scholarship using methods that are misunderstood within academic disciplines, while the triple bind references the additional lack of support for ethnic studies within higher education. The essay further offers suggestions for how we might better support the growth of computational approaches to ethnic studies.
 
