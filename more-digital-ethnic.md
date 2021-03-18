@@ -26,7 +26,7 @@ This project, which I direct with Chris Forster, is an open access critical edit
 
 This chapter explores the use of the Text Encoding Initiative markup language to create digital editions that participate in textual recovery, based on my experience creating a critical digital edition of Claude McKay's _Harlem Shadows_.
 
-## **“Decolonizing Digital Humanities in Theory & Praxis.” _Routledge Companion to New Media and Digital Humanities_, edited by Jentery Sayers, Routledge, 2018, pp. 78-86. [[Link]](https://digitalcommons.salemstate.edu/english_facpub/7)**
+## **“Decolonizing Digital Humanities in Theory & Practice.” _Routledge Companion to New Media and Digital Humanities_, edited by Jentery Sayers, Routledge, 2018, pp. 78-86. [[Link]](https://digitalcommons.salemstate.edu/english_facpub/7)**
 
 This chapter examines the critical task of addressing the hallmarks of colonialism in the digital cultural record while raising concern about the limits of discursive approaches to "decolonization," particularly in settler colonial states like the U.S.
 
