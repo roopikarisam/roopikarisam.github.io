@@ -22,7 +22,7 @@ This chapter discusses how digital humanities methods can be used to teach Amita
 
 This project, which I direct with Chris Forster, is an open access critical edition of Claude McKay's 1922 poetry collection _Harlem Shadows_. The edition seeks to aggregate the most comprehensive set of documents related to the collection and make them available to readers of McKay.
 
-## **“Telling Untold Stories: Digital Textual Recovery Methods.” _Research Methods for Digital Humanities_, edited by Lewis Levenberg, David Rheams, and Tai Neilson, Palgrave MacMillan, 2018, pp. 309-18. [[Link]](https://www.palgrave.com/us/book/9783319967127)**
+## **“Telling Untold Stories: Digital Textual Recovery Methods.” _Research Methods for Digital Humanities_, edited by Lewis Levenberg, David Rheams, and Tai Neilson, Palgrave, 2018, pp. 309-18. [[Link]](https://www.palgrave.com/us/book/9783319967127)**
 
 This chapter explores the use of the Text Encoding Initiative markup language to create digital editions that participate in textual recovery, based on my experience creating a critical digital edition of Claude McKay's _Harlem Shadows_.
 
