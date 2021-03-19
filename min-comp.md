@@ -6,7 +6,7 @@ permalink: /min-comp/
 title: "Minimal Computing Special Issues"
 ---
 
-[![Photo of the logo from the Minimal Computing website](../assets/images/min-comp.jpg){:style="float: right; margin-left: 3px;"}](http://go-dh.github.io/mincomp/blog/2019/11/12/cfp-dhq/) I am co-editing a special issue of _Digital Humanities Quarterly_ on Minimal Computing with Alex Gil. The multilingual call for papers is available [here](http://go-dh.github.io/mincomp/blog/2019/11/12/cfp-dhq/).
+I am co-editing a special issue of _Digital Humanities Quarterly_ on Minimal Computing with Alex Gil. The multilingual call for papers is available [here](http://go-dh.github.io/mincomp/blog/2019/11/12/cfp-dhq/).
 
 This issue will bring together essays and case studies on the promises and limitations of minimal computing from historical, practical, and theoretical perspectives, as well as within the context of specific research projects and their environments.
 
