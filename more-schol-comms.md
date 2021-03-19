@@ -24,4 +24,4 @@ Drawing on postcolonial and linguistic theories of language, this article examin
 
 ## **“Rethinking Peer Review in the Age of Digital Humanities.” _Ada: A Journal of Gender, New Media, and Technology_, vol. 4, 2014. [[Link]](http://adanewmedia.org/2014/04/issue4-risam/)**
 
-This article explores the challenges of evaluating digital scholarship and examines a new approach for validating it on the basis of its emphasis on collaboration, phased approach to development, and public access. It makes the cases for moving away from reproducing the hierarchies and values of print knowledge and away from traditional notions of what academic work looks like.
+This article explores the challenges of evaluating digital scholarship and examines a new approach for validating it on the basis of its emphasis on collaboration, phased approach to development, and public access. It makes the case for moving away from reproducing the hierarchies and values of print knowledge and away from traditional notions of what academic work looks like.
