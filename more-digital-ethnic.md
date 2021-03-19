@@ -10,6 +10,10 @@ title: "Additional Contributions: Digital Ethnic Studies"
 
 This chapter considers what I term the double and triple binds that serve as barriers to the development of computational ethnic studies scholarship. The double bind, in this case, is the challenge of undertaking scholarship using methods that are misunderstood within academic disciplines, while the triple bind references the additional lack of support for ethnic studies within higher education. The essay further offers suggestions for how we might better support the growth of computational approaches to ethnic studies.
 
+## **"Digital Humanities." _Uncertain Archives: Critical Keywords for Big Data,_ edited by Nanna Bond Tylstrup, Daniela Agostinho, Annie Ring, Catherine D'Ignazio, and Kristin Veel, MIT Press, 2021, pp. 161-170. [[Link]](https://mitpress.mit.edu/books/uncertain-archives)**
+
+This chapter argues that the core responsibility of digital humanities is building an equitable digital cultural record. It raises the issues inherent in that task for minoritized communities, details scholarly initiatives that have successfully been working to remediate these issues, and examines future work that still needs to be done.
+
 ## **"Data Fail: Teaching Data Literacy with African Diaspora Digital Humanities." _Journal of Interactive Technology and Pedagogy_ 18, 2020. [[Link]](https://jitp.commons.gc.cuny.edu/data-fail-teaching-data-literacy-with-african-diaspora-digital-humanities/)**
 
 This article, written in collaboration with my undergraduate students Jennifer Mahoney and Hibba Nassereddine at Salem State University, explores our work creating data visualizations of pan-Africanist events held between 1900 and 1959. While our plans for data visualization did not pan out as we had imagined, the experience offered us the opportunity to examine the hows (and whys) of teaching data literacy in the context of African diaspora studies.
