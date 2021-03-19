@@ -8,7 +8,7 @@ title: "Additional Contributions: Critical University Studies"
 
 ## **"Don't Save the University — Transform It." _Public Books,_ forthcoming**
 
-This essay argues that the long-term future of the university depends on an openness to reframing and rethinking the work that the humanities does in the world. Communicating the sense of possibility of the humanities to students and broader publics, as well as addressing the racial disparities of workload, it suggests, are integral to sustaining the liberal arts - and the university itself.
+This essay argues that the long-term future of the university depends on an openness to reframing and rethinking the work that the humanities do in the world. Communicating the sense of possibility of the humanities to students and broader publics, as well as addressing the racial disparities of workload, it suggests, are integral to sustaining the liberal arts - and the university itself.
 
 ## **"Reimagining Impact with Public Humanities." _ADE Bulletin,_ forthcoming**
 
