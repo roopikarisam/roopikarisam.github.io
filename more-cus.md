@@ -16,7 +16,7 @@ This article reframes the notion of "impact" for humanities scholarship, arguing
 
 ## **"Reopening Schools Safely Can't Happen without Racial Equity." _CNN_, July 2, 2020. [[Link]](https://www.cnn.com/2020/07/02/opinions/covid-19-colleges-racial-equality-risam/index.html)**
 
-This CNN op-ed challenged U.S. universities approaches to reopening campuses in Fall 2020 during the COVID-19 pandemic. As universities reckon with their complicity with racism towards and exclusion of Black, brown, and Indigenous students, faculty, staff, and administration, the piece argues, their policies must protect their most vulnerable students and employees or their stated commitments to equity are nothing more than empty statements.
+This CNN op-ed challenged U.S. universities' approaches to reopening campuses in Fall 2020 during the COVID-19 pandemic. As universities reckon with their complicity with racism towards and exclusion of Black, brown, and Indigenous students, faculty, staff, and administration, the piece argues, their policies must protect their most vulnerable students and employees or their stated commitments to equity are nothing more than empty statements.
 
 ## **"Ethnic Studies Now." _Ethnic Studies Rise,_ December 19, 2019. [[Link]](https://ethnicrise.github.io/roundtable/ethnic-studies-now/)**
 
