@@ -46,7 +46,7 @@ January 30, 2021 - **Invited Workshop,** "Teaching with Data Visualization," Dig
 
 January 25, 2021 - **Invited Speaker,** [Animating Text Series](https://research.ncl.ac.uk/atnu/news/atnuiesvirtualspeakerseries202020215.html), University of Newcastle, Newcastle, UK
 
-January 10, 2021 - [Antiracist Practices for Administrative Work in Higher Education Roundtable](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10065), Modern Language Associaiton Convention, Toronto, CA
+January 10, 2021 - [Antiracist Practices for Administrative Work in Higher Education Roundtable](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10065), Modern Language Association Convention, Toronto, CA
 
 January 8, 2021 - [Online Learning in the Humanities: Lessons Learned Roundtable](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10415), Modern Language Association Convention, Toronto, CA
 
@@ -64,7 +64,7 @@ October 29, 2020 - **Invited Speaker,** ["W.E.B. Du Bois and the Origins of Publ
 
 October 28, 2020 - [The Data-Sitters Club: A Colloquial, Comprehensive, Collaborative Guide to Computational Textual Analysis Roundtable](http://dhconference.sites.olt.ubc.ca/conference-info/program/day-1/), University of British Columbia Digital Humanities Conference, Vancouver, BC, Canada
 
-October 23, 2020 - **Invited Panelist,** [Digital Archvies in South Asian Studies: Towards Decolonisation](https://www.unstablearchives.com/events), Oxford University, Oxford, UK
+October 23, 2020 - **Invited Panelist,** [Digital Archives in South Asian Studies: Towards Decolonisation](https://www.unstablearchives.com/events), Oxford University, Oxford, UK
 
 September 21, 2020 - **Invited Panelist,** [Advancing Equity through Publicly Engaged Scholarship Symposium](https://events.compact.org/advancing_equity_through_publicly_engaged_scholarship), Campus Compact Southern New England, Worcester, MA
 
