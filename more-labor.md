@@ -12,7 +12,7 @@ This chapter offers a critique of the use of crowdsourced labor in digital human
 
 ## **“Transforming the Landscape of Labor at Universities through Digital Humanities." _Digital Humanities, Libraries, and Partnerships_, edited by Robin Kear and Kate Joranson, Chandos, 2018, pp. 3-17. [[Link]](https://digitalcommons.salemstate.edu/library_facpub/2/)**
 
-Co-authored with Susan Edwards, this chapter outlines common obstacles to librarian-faculty partnerships at regional comprehensive universities, including the lack of models for this digital humanities work and the difficulty of fostering ethical collaboration. It further describes lessons learned and suggestions for others undertaking this work.
+Co-authored with Susan Edwards, this chapter outlines common obstacles to librarian-faculty partnerships at regional comprehensive universities, including the lack of models for this digital humanities work and the difficulty of fostering ethical collaboration. It further describes lessons learned and offers suggestions for others undertaking this work.
 
 ## **“Building an Ethical Digital Humanities Community: Librarian, Faculty & Student Collaboration.” _College & Undergraduate Libraries_, vol. 24, no. 2, 2017, pp. 337-49. [[Link]](https://digitalcommons.salemstate.edu/library_facpub/1/)**
 
