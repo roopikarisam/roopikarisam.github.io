@@ -36,7 +36,7 @@ February 26, 2021 - **Invited Panelist,** ["Giving Voice to the Past in the Digi
 
 February 25, 2021 - **Invited Speaker,** ["Connecting the Dots: Data Narratives of Migration,"](https://is.gseis.ucla.edu/research/colloquium/) Information Studies Colloquium, University of California, Los Angeles, Los Angeles, CA
 
-February 25, 2021 - **Invited Speaker,** ["Beyond the Dots: Data Stories of Migration,"](https://calendar.ku.edu/event/digital_storytelling_colloquium_roopika_risam) Digital Storytelling Colloquium, University of Kansas, Lawrence KS
+February 25, 2021 - **Invited Speaker,** ["Beyond the Dots: Data Stories of Migration,"](https://calendar.ku.edu/event/digital_storytelling_colloquium_roopika_risam) Digital Storytelling Colloquium, University of Kansas, Lawrence, KS
 
 February 23, 2021 - **Invited Panelist,** [Digital Access, Inclusion, and the Humanities](https://london.ac.uk/events/digital-access-inclusion-and-humanities), University of London, London, UK
 
