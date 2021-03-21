@@ -20,23 +20,23 @@ April 26, 2021 - **Invited Speaker,** [Digital Humanities Virtual Book Talks](ht
 
 May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
 
-June 7-11, 2021 - **Keynote Speaker,** [Digital Humanities Summer Institute,](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/) University of Victoria, Victoria, Canada
+June 7-11, 2021 - **Keynote Speaker,** ["Insurgent Pasts, Resurgent Futures: A New Genealogy of Digital Humanities"](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/), Digital Humanities Summer Institute, University of Victoria, Victoria, Canada
 
-June 24-27, 2021 - **Keynote Speaker,** [Association for Documentary Editing Annual Meeting](https://www.documentaryediting.org/wordpress/?page_id=5691), Boston, MA
+June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Intersectional Feminist Media Histories"](https://www.documentaryediting.org/wordpress/?page_id=5691), Association for Documentary Editing Annual Meeting, Boston, MA
 
 ## Previous Events
 
 ### 2021
 
-March 11, 2021 - **Invited Panelist,** [The Center for Children's Books Speaker Series](https://ischool.illinois.edu/news-events/events/2021/03/11/ccb-speaker-series-data-sitters-club), University of Illinois Urbana-Champaign, Urbana, IL
+March 11, 2021 - **Invited Panelist,** ["Tropes and Tribulations: Exploring Computational Textual Analysis with the Data-Sitters Club"](https://ischool.illinois.edu/news-events/events/2021/03/11/ccb-speaker-series-data-sitters-club), Center for Children's Books Speaker Series, University of Illinois Urbana-Champaign, Urbana, IL
 
-March 8, 2021 - **Invited Panelist,** [The Iconocast](https://www.iconocast.org), Southeastern Louisiana University, Hammond, LA
+March 8, 2021 - **Invited Panelist,** [The Iconocast: Roopika Risam](https://www.iconocast.org), Southeastern Louisiana University, Hammond, LA
 
-February 26, 2021 - **Invited Panelist,** [Refresh-Reset-Reformat: Giving Voice to the Past in the Digital Age Symposium](https://www.bgc.bard.edu/events/1202/26-feb-2021-symposium-refresh), Bard Graduate Center, New York, NY
+February 26, 2021 - **Invited Panelist,** ["Giving Voice to the Past in the Digital Age"](https://www.bgc.bard.edu/events/1202/26-feb-2021-symposium-refresh), Refresh-Reset-Reformat Symposium, Bard Graduate Center, New York, NY
 
 February 25, 2021 - **Invited Speaker,** [Information Studies Colloquium](https://is.gseis.ucla.edu/research/colloquium/), University of California, Los Angeles, Los Angeles, CA
 
-February 25, 2021 - **Invited Speaker,** [Digital Storytelling Colloquium](https://calendar.ku.edu/event/digital_storytelling_colloquium_roopika_risam), University of Kansas, Lawrence KS
+February 25, 2021 - **Invited Speaker,** ["Beyond the Dots: Data Stories of Migration"](https://calendar.ku.edu/event/digital_storytelling_colloquium_roopika_risam), Digital Storytelling Colloquium, University of Kansas, Lawrence KS
 
 February 23, 2021 - **Invited Panelist,** [Digital Access, Inclusion, and the Humanities](https://london.ac.uk/events/digital-access-inclusion-and-humanities), University of London, London, UK
 
@@ -52,7 +52,7 @@ January 8, 2021 - [Online Learning in the Humanities: Lessons Learned Roundtable
 
 ### 2020
 
-December 22, 2020 - **Keynote Speaker,** [Confronting the "Global," Exploring the "Local": Digital Apprehensions of Poetics in Indian Literature(s) Conference](https://networks.h-net.org/node/73374/announcements/6795669/online-conference-confronting-global-exploring-local-digital), Jamia Millia Islamia, New Delhi, India
+December 22, 2020 - **Keynote Speaker,** "Rethinking Digital Colonialisms: The Limits of Postcolonial Digital Humanities," [Confronting the "Global," Exploring the "Local": Digital Apprehensions of Poetics in Indian Literature(s) Conference](https://networks.h-net.org/node/73374/announcements/6795669/online-conference-confronting-global-exploring-local-digital), Jamia Millia Islamia, New Delhi, India
 
 December 4, 2020 - **Invited Panelist,** [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/), Barnard College, New York, NY
 
@@ -72,7 +72,7 @@ September 18, 2020 - **Invited Workshop,** Recruiting and Retaining ALANA/BIPOC 
 
 September 17, 2020 - **Invited Speaker,** [Spectrums of DH Series](https://twitter.com/mcgilldigihum/status/1301174621983715328), McGill University, Montreal, CA
 
-July 27, 2020 - **Keynote Speaker,** [CLIR Capacity Assessment of Latin American and Caribbean Partners Symposium](https://lacclirsymposium2020.github.io), Florida International University, Miami, FL
+July 27, 2020 - **Keynote Speaker,** "Postcolonial Approaches to Digital Pedagogy: Teaching for Social Justice," [CLIR Capacity Assessment of Latin American and Caribbean Partners Symposium](https://lacclirsymposium2020.github.io), Florida International University, Miami, FL
 
 March 9-10, 2020 - **Invited Speaker,** Digital Infrastructure Symposium, University of California, Los Angeles, Los Angeles, CA
 
@@ -86,7 +86,7 @@ January 9, 2020 - [Digital Scholarship in Tenure and Promotion Roundtable,](http
 
 December 6, 2019 - **Invited Speaker,** [The Caribbean Digital VI,](http://caribbeandigitalnyc.net/2019/) Barnard College, New York, NY
 
-November 10, 2019 - **Keynote Speaker,** [Chicago Colloquium on Digital Humanities and Computer Science 2019,](https://voices.uchicago.edu/dhcs2019/program/) University of Chicago, Chicago, IL
+November 10, 2019 - **Keynote Speaker,** "Academic Insurgency: A New Genealogy of Digital Humanities Scholarship," [Chicago Colloquium on Digital Humanities and Computer Science 2019,](https://voices.uchicago.edu/dhcs2019/program/) University of Chicago, Chicago, IL
 
 October 24, 2019 - **Inaugural Speaker,** [Uncommon Digital Humanities Critic Lecture,](https://news.unl.edu/newsrooms/today/article/risam-to-deliver-inaugural-uncommon-critic-lecture-0/) University of Nebraska, Lincoln, NE
 
@@ -94,9 +94,9 @@ October 11, 2019 - **Invited Speaker,** [Digital Scholarship: Opportunities and 
 
 September 2-3, 2019 - **Invited Speaker,** [ARTECH Seminar Series,](https://www.kit.ntnu.no/en/content/ntnu-artec-seminar-series-mobilized-humanities-technology-arts) Norwegian University of Science and Technology, Trondheim, Norway
 
-July 18, 2019 - **Keynote Speaker,** [Humanities Commons Twitter Conference,](https://conference.hcommons.org/schedule/) The Twitterverse
+July 18, 2019 - **Keynote Speaker,** "Twitter, Equity, and Justice in the Humanities," [Humanities Commons Twitter Conference,](https://conference.hcommons.org/schedule/) The Twitterverse
 
-June 6, 2019 - **Keynote Speaker,** [Digital Diasporas Conference,](https://modernlanguages.sas.ac.uk/events/event/19830) University of London, London, UK
+June 6, 2019 - **Keynote Speaker,** "Mobilizing New Digital Worlds: The Stakes of Postcolonial Digital Humanities," [Digital Diasporas Conference,](https://modernlanguages.sas.ac.uk/events/event/19830) University of London, London, UK
 
 June 4, 2019 - **Invited Speaker,** [Revisiting Collections: Strategies for Teaching Tangible and Intangible Cultural Heritage in a Digitized World Symposium,](http://revisitingcollections.de/en/) Einstein Center Digital Future, Berlin, Germany
 
