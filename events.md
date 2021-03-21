@@ -34,17 +34,17 @@ March 8, 2021 - **Invited Panelist,** [The Iconocast: Roopika Risam](https://www
 
 February 26, 2021 - **Invited Panelist,** ["Giving Voice to the Past in the Digital Age"](https://www.bgc.bard.edu/events/1202/26-feb-2021-symposium-refresh), Refresh-Reset-Reformat Symposium, Bard Graduate Center, New York, NY
 
-February 25, 2021 - **Invited Speaker,** [Information Studies Colloquium](https://is.gseis.ucla.edu/research/colloquium/), University of California, Los Angeles, Los Angeles, CA
+February 25, 2021 - **Invited Speaker,** ["Connecting the Dots: Data Narratives of Migration"](https://is.gseis.ucla.edu/research/colloquium/), Information Studies Colloquium, University of California, Los Angeles, Los Angeles, CA
 
 February 25, 2021 - **Invited Speaker,** ["Beyond the Dots: Data Stories of Migration"](https://calendar.ku.edu/event/digital_storytelling_colloquium_roopika_risam), Digital Storytelling Colloquium, University of Kansas, Lawrence KS
 
 February 23, 2021 - **Invited Panelist,** [Digital Access, Inclusion, and the Humanities](https://london.ac.uk/events/digital-access-inclusion-and-humanities), University of London, London, UK
 
-February 18, 2021 - **Invited Panelist,** Stanford Literary Lab, Stanford University, Palo Alto, CA
+February 18, 2021 - **Invited Panelist,** "The Data-Sitters Club," Stanford Literary Lab, Stanford University, Palo Alto, CA
 
 January 30, 2021 - **Invited Workshop,** "Teaching with Data Visualization," Digital Humanities Professional Development, Spelman College, Atlanta, GA
 
-January 25, 2021 - **Invited Speaker,** [Animating Text Series](https://research.ncl.ac.uk/atnu/news/atnuiesvirtualspeakerseries202020215.html), University of Newcastle, Newcastle, UK
+January 25, 2021 - **Invited Speaker,** ["The Digital Black Atlantic"](https://research.ncl.ac.uk/atnu/news/atnuiesvirtualspeakerseries202020215.html), Animating Text Series, University of Newcastle, Newcastle, UK
 
 January 10, 2021 - [Antiracist Practices for Administrative Work in Higher Education Roundtable](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10065), Modern Language Association Convention, Toronto, CA
 
@@ -54,27 +54,27 @@ January 8, 2021 - [Online Learning in the Humanities: Lessons Learned Roundtable
 
 December 22, 2020 - **Keynote Speaker,** "Rethinking Digital Colonialisms: The Limits of Postcolonial Digital Humanities," [Confronting the "Global," Exploring the "Local": Digital Apprehensions of Poetics in Indian Literature(s) Conference](https://networks.h-net.org/node/73374/announcements/6795669/online-conference-confronting-global-exploring-local-digital), Jamia Millia Islamia, New Delhi, India
 
-December 4, 2020 - **Invited Panelist,** [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/), Barnard College, New York, NY
+December 4, 2020 - **Invited Panelist,** ["CariDiScho2020: A Directory of Caribbean Digital Scholarship"](http://caribbeandigitalnyc.net/2020/), The Caribbean Digital VII, Barnard College, New York, NY
 
-December 3, 2020 - **Invited Panelist,** [Digital Forays: Rewind, Repeat, Rehash: History, Materiality and Digital Colonialism](https://as.nyu.edu/content/nyu-as/as/research-centers/neareaststudies/events/spring-20201/digital-forays--rewind--repeat--rehash--history--materiality-and.html), New York University, New York, NY
+December 3, 2020 - **Invited Panelist,** ["Rewind, Repeat, Rehash: History, Materiality and Digital Colonialism"](https://as.nyu.edu/content/nyu-as/as/research-centers/neareaststudies/events/spring-20201/digital-forays--rewind--repeat--rehash--history--materiality-and.html), Digital Forays in Middle Eastern Studies Series, New York University, New York, NY
 
-November 6, 2020 - **Invited Panelist,** [Leading During the Pandemic: A Professional Development Series](https://connect.chronicle.com/CS-TK-2020-10-DeptChairWorkshop_LP---Symposia-Specific.html?CID=CSCHEEMOCT08E5), The Chronicle of Higher Education, Washington, DC
+November 6, 2020 - **Invited Panelist,** ["Students and Learning"](https://connect.chronicle.com/CS-TK-2020-10-DeptChairWorkshop_LP---Symposia-Specific.html?CID=CSCHEEMOCT08E5), Leading During the Pandemic: A Professional Development Series, The Chronicle of Higher Education, Washington, DC
 
 October 29, 2020 - **Invited Speaker,** ["W.E.B. Du Bois and the Origins of Public Humanities"](https://humanitiesctr.cas.lehigh.edu/content/virtual-web-du-bois-and-origins-public-humanities), Lehigh University, Bethlehem, PA
 
 October 28, 2020 - [The Data-Sitters Club: A Colloquial, Comprehensive, Collaborative Guide to Computational Textual Analysis Roundtable](http://dhconference.sites.olt.ubc.ca/conference-info/program/day-1/), University of British Columbia Digital Humanities Conference, Vancouver, BC, Canada
 
-October 23, 2020 - **Invited Panelist,** [Digital Archives in South Asian Studies: Towards Decolonisation](https://www.unstablearchives.com/events), Oxford University, Oxford, UK
+October 23, 2020 - **Invited Panelist,** ["Digital Archives in South Asian Studies: Towards Decolonisation"](https://www.unstablearchives.com/events), Unstable Archives Series, Oxford University, Oxford, UK
 
-September 21, 2020 - **Invited Panelist,** [Advancing Equity through Publicly Engaged Scholarship Symposium](https://events.compact.org/advancing_equity_through_publicly_engaged_scholarship), Campus Compact Southern New England, Worcester, MA
+September 21, 2020 - **Invited Panelist,** ["Guiding Your Institution Toward Equity: Re-envisioning Policy, Practice, and Culture in Faculty Reward Systems"](https://events.compact.org/advancing_equity_through_publicly_engaged_scholarship), Advancing Equity through Publicly Engaged Scholarship Symposium, Campus Compact Southern New England, Worcester, MA
 
 September 18, 2020 - **Invited Workshop,** Recruiting and Retaining ALANA/BIPOC Faculty: A Cross-Campus Conversation on Examples, Goals, and Tenure & Promotion, Worcester State University, Worcester, MA
 
-September 17, 2020 - **Invited Speaker,** [Spectrums of DH Series](https://twitter.com/mcgilldigihum/status/1301174621983715328), McGill University, Montreal, CA
+September 17, 2020 - **Invited Speaker,** ["Abolitionist Digital Pedagogies: Beyond 'Decolonizing' the Classroom"](https://twitter.com/mcgilldigihum/status/1301174621983715328), Spectrums of DH Series, McGill University, Montreal, CA
 
 July 27, 2020 - **Keynote Speaker,** "Postcolonial Approaches to Digital Pedagogy: Teaching for Social Justice," [CLIR Capacity Assessment of Latin American and Caribbean Partners Symposium](https://lacclirsymposium2020.github.io), Florida International University, Miami, FL
 
-March 9-10, 2020 - **Invited Speaker,** Digital Infrastructure Symposium, University of California, Los Angeles, Los Angeles, CA
+March 9-10, 2020 - **Invited Speaker,** "Insurgent Academics," Digital Infrastructure Symposium, University of California, Los Angeles, Los Angeles, CA
 
 January 13-14, 2020 - **Invited Workshop,** "Teaching with Digital Humanities," Digital Humanities Professional Development, Spelman College, Atlanta, GA
 
@@ -84,7 +84,7 @@ January 9, 2020 - [Digital Scholarship in Tenure and Promotion Roundtable,](http
 
 ### 2019
 
-December 6, 2019 - **Invited Speaker,** [The Caribbean Digital VI,](http://caribbeandigitalnyc.net/2019/) Barnard College, New York, NY
+December 6, 2019 - **Invited Speaker,** ["Networking the Intersections of Caribbean and Black Studies"](http://caribbeandigitalnyc.net/2019/), The Caribbean Digital VI, Barnard College, New York, NY
 
 November 10, 2019 - **Keynote Speaker,** "Academic Insurgency: A New Genealogy of Digital Humanities Scholarship," [Chicago Colloquium on Digital Humanities and Computer Science 2019,](https://voices.uchicago.edu/dhcs2019/program/) University of Chicago, Chicago, IL
 
