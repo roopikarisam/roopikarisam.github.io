@@ -10,13 +10,13 @@ I am a frequent speaker on race, difference, and the digital; globalization and 
 
 ## Upcoming Events
 
-March 24, 2021 - **Invited Speaker,** [Digital Humanities Series](https://www.csuchico.edu/humanitiescenter/index.shtml), California State University, Chico, Chico, California
+March 24, 2021 - **Invited Speaker,** [Digital Humanities Series,](https://www.csuchico.edu/humanitiescenter/index.shtml) California State University, Chico, Chico, California
 
 April 6, 2021 - **Invited Panelist,** "Surveillance and Mapping of Police Violence," Dartmouth College, Hanover, NH
 
 April 7, 2021 - **Invited Speaker,** Digital Humanities Series, Drew University, Madison, NJ
 
-April 26, 2021 - **Invited Speaker,** [Digital Humanities Virtual Book Talks](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds), San Diego State University, San Diego, CA
+April 26, 2021 - **Invited Speaker,** [Digital Humanities Virtual Book Talks,](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) San Diego State University, San Diego, CA
 
 May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
 
@@ -38,7 +38,7 @@ February 25, 2021 - **Invited Speaker,** ["Connecting the Dots: Data Narratives 
 
 February 25, 2021 - **Invited Speaker,** ["Beyond the Dots: Data Stories of Migration,"](https://calendar.ku.edu/event/digital_storytelling_colloquium_roopika_risam) Digital Storytelling Colloquium, University of Kansas, Lawrence, KS
 
-February 23, 2021 - **Invited Panelist,** [Digital Access, Inclusion, and the Humanities](https://london.ac.uk/events/digital-access-inclusion-and-humanities), University of London, London, UK
+February 23, 2021 - **Invited Panelist,** [Digital Access, Inclusion, and the Humanities,](https://london.ac.uk/events/digital-access-inclusion-and-humanities) University of London, London, UK
 
 February 18, 2021 - **Invited Panelist,** "The Data-Sitters Club," Stanford Literary Lab, Stanford University, Palo Alto, CA
 
@@ -46,9 +46,9 @@ January 30, 2021 - **Invited Workshop,** "Teaching with Data Visualization," Dig
 
 January 25, 2021 - **Invited Speaker,** ["The Digital Black Atlantic,"](https://research.ncl.ac.uk/atnu/news/atnuiesvirtualspeakerseries202020215.html) Animating Text Series, University of Newcastle, Newcastle, UK
 
-January 10, 2021 - [Antiracist Practices for Administrative Work in Higher Education Roundtable](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10065), Modern Language Association Convention, Toronto, CA
+January 10, 2021 - [Antiracist Practices for Administrative Work in Higher Education Roundtable,](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10065) Modern Language Association Convention, Toronto, CA
 
-January 8, 2021 - [Online Learning in the Humanities: Lessons Learned Roundtable](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10415), Modern Language Association Convention, Toronto, CA
+January 8, 2021 - [Online Learning in the Humanities: Lessons Learned Roundtable,](https://mla.confex.com/mla/2021/meetingapp.cgi/Session/10415) Modern Language Association Convention, Toronto, CA
 
 ### 2020
 
@@ -62,7 +62,7 @@ November 6, 2020 - **Invited Panelist,** ["Students and Learning,"](https://conn
 
 October 29, 2020 - **Invited Speaker,** ["W.E.B. Du Bois and the Origins of Public Humanities,"](https://humanitiesctr.cas.lehigh.edu/content/virtual-web-du-bois-and-origins-public-humanities) Lehigh University, Bethlehem, PA
 
-October 28, 2020 - [The Data-Sitters Club: A Colloquial, Comprehensive, Collaborative Guide to Computational Textual Analysis Roundtable](http://dhconference.sites.olt.ubc.ca/conference-info/program/day-1/), University of British Columbia Digital Humanities Conference, Vancouver, BC, Canada
+October 28, 2020 - [The Data-Sitters Club: A Colloquial, Comprehensive, Collaborative Guide to Computational Textual Analysis Roundtable,](http://dhconference.sites.olt.ubc.ca/conference-info/program/day-1/) University of British Columbia Digital Humanities Conference, Vancouver, BC, Canada
 
 October 23, 2020 - **Invited Panelist,** ["Digital Archives in South Asian Studies: Towards Decolonisation,"](https://www.unstablearchives.com/events) Unstable Archives Series, Oxford University, Oxford, UK
 
@@ -312,7 +312,7 @@ March 18, 2014 - **Invited Speaker,** “The Search for the Global Du Bois, 1896
 
 March 18, 2014 - **Invited Workshop,** ["Global Women Wikipedia Write-In,"](https://news.emory.edu/stories/2014/03/upress_women_wikipedia_writein/index.html) Center for Women and Center for Faculty Development and Excellence, Emory University, Atlanta, GA
 
-March 17, 2014 - **Invited Speaker, [“Scholarly Writing in the Digital Milieu,”](http://cfde.emory.edu/programs/research-scholarship/workshopsevents/pastevents.html)** Center for Faculty Development and Excellence, Emory University, Atlanta, GA
+March 17, 2014 - **Invited Speaker,** [“Scholarly Writing in the Digital Milieu,”](http://cfde.emory.edu/programs/research-scholarship/workshopsevents/pastevents.html)\*\* Center for Faculty Development and Excellence, Emory University, Atlanta, GA
 
 March 13, 2014 - **Invited Speaker,** [“Toxic WOCs: Constructing Race and Gender in Digital Spaces,”](http://www.diva-portal.org/smash/get/diva2:717358/FULLTEXT03)
 HumLab, Umeå University, Umeå, Sweden
