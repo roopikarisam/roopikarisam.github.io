@@ -18,7 +18,7 @@ Co-written with Amy Earhart and Matthew Bruno, this article uses citation analys
 
 Social Justice and the Digital Humanities was created as the culminating project in the HILT 2015 De/Post/Colonial Digital Humanities course I taught with micha cárdenas. Designed as an invitation to discuss and implement digital humanities methods that put justice and equity at the center of digital scholarship, the project offers users a series of creative and critical precepts for project design around access, material conditions, method, and ontologies and epistemologies for scholarship.
 
-## **“Other Worlds, Other DHs.” _Digital Scholarship in the Humanities_, vol. 32, no. 2, 2017, pp. 377-84. [[Link]](https://academic.oup.com/dsh/article-abstract/32/2/377/2669630?redirectedFrom=fulltext)**
+## **“Other Worlds, Other DHs: Notes Towards a DH Accent.” _Digital Scholarship in the Humanities_, vol. 32, no. 2, 2017, pp. 377-84. [[Link]](https://academic.oup.com/dsh/article-abstract/32/2/377/2669630?redirectedFrom=fulltext)**
 
 Drawing on postcolonial and linguistic theories of language, this article examines the challenges of understanding and interpreting local contexts for scholarly communications. It proposes that the concept of the "DH accent" provides a lens for mediating between local and global definitions of digital humanities scholarship and can help resolve the ethical challenges of misrecognition.
 
