@@ -116,8 +116,7 @@ March 4, 2019 - **Invited Speaker,** ["Mapping Migration: Beyond the Migrant 'Pr
 
 February 4, 2019 - **Invited Speaker,** ["Digital Humanities in a Crisis: The Case of Torn Apart/Separados,"](https://tischcollege.tufts.edu/events/roopika-risam-digital-humanities-crisis-case-torn-apart-separados) Tisch College of Civic Life, Tufts University, Medford, MA
 
-January 4, 2019 - ["The _Dark Princess_ Effect: Insights on Scholarly Citation from W.E.B. Du Bois's Novels,"](https://mla19.org/event/member/522648) Modern Language Association Convention,  
-Chicago, IL
+January 4, 2019 - ["The _Dark Princess_ Effect: Insights on Scholarly Citation from W.E.B. Du Bois's Novels,"](https://mla19.org/event/member/522648) Modern Language Association Convention, Chicago, IL
 
 January 3, 2019 - [The Digital Futures of Graduate Study in the Humanities Roundtable,](https://mla19.org/event/member/522722) Modern Language Association Convention, Chicago, IL
 
@@ -164,7 +163,7 @@ March 8, 2018 - **Invited Speaker,** ["Visualizing Du Bois: The Politics of Lite
 March 8, 2018 - **Keynote Speaker,** [“Digital Humanities and Difference in Research and Teaching,”](https://my3.my.umbc.edu/groups/dreshercenter/events/57932)
 The Dresher Center for the Humanities, University of Maryland, Baltimore County, Baltimore, MD
 
-March 6, 2018 - **Invited Workshop,** ["Digital Humanities in Translation: Communicating Your Scholarship to Multiple Publics,"](https://cdh.princeton.edu/events/2018/03/digital-humanities-translation-communicating-your-scholarship-multiple-publics/) Princeton University, Princeton, NJ
+March 6, 2018 - **Invited Workshop,** ["Digital Humanities in Translation: Communicating Your Scholarship to Multiple Publics,"](https://cdh.princeton.edu/events/2018/03/digital-humanities-translation-communicating-your-scholarship-multiple-publics/) Center for Digital Humanities, Princeton University, Princeton, NJ
 
 March 5, 2018 - **Invited Speaker,** ["Recovering the Global Dimensions of W.E.B. Du Bois's Career,"](https://cdh.princeton.edu/events/2018/03/recovering-global-dimensions-web-du-boiss-career/) Center for Digital Humanities, Princeton University, Princeton, NJ
 
