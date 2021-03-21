@@ -30,7 +30,7 @@ June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Inte
 
 March 11, 2021 - **Invited Panelist,** ["Tropes and Tribulations: Exploring Computational Textual Analysis with the Data-Sitters Club,"](https://ischool.illinois.edu/news-events/events/2021/03/11/ccb-speaker-series-data-sitters-club) Center for Children's Books Speaker Series, University of Illinois Urbana-Champaign, Urbana, IL
 
-March 8, 2021 - **Invited Panelist,** ["The Iconocast: Roopika Risam"](https://www.iconocast.org), English Colloquium, Southeastern Louisiana University, Hammond, LA
+March 8, 2021 - **Invited Panelist,** ["The Iconocast: Roopika Risam,"](https://www.iconocast.org) English Colloquium, Southeastern Louisiana University, Hammond, LA
 
 February 26, 2021 - **Invited Panelist,** ["Giving Voice to the Past in the Digital Age,"](https://www.bgc.bard.edu/events/1202/26-feb-2021-symposium-refresh) Refresh-Reset-Reformat Symposium, Bard Graduate Center, New York, NY
 
