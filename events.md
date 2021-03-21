@@ -30,7 +30,7 @@ June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Inte
 
 March 11, 2021 - **Invited Panelist,** ["Tropes and Tribulations: Exploring Computational Textual Analysis with the Data-Sitters Club,"](https://ischool.illinois.edu/news-events/events/2021/03/11/ccb-speaker-series-data-sitters-club) Center for Children's Books Speaker Series, University of Illinois Urbana-Champaign, Urbana, IL
 
-March 8, 2021 - **Invited Panelist,** [The Iconocast: Roopika Risam](https://www.iconocast.org), Southeastern Louisiana University, Hammond, LA
+March 8, 2021 - **Invited Panelist,** ["The Iconocast: Roopika Risam"](https://www.iconocast.org), English Colloquium, Southeastern Louisiana University, Hammond, LA
 
 February 26, 2021 - **Invited Panelist,** ["Giving Voice to the Past in the Digital Age,"](https://www.bgc.bard.edu/events/1202/26-feb-2021-symposium-refresh) Refresh-Reset-Reformat Symposium, Bard Graduate Center, New York, NY
 
@@ -72,7 +72,7 @@ September 18, 2020 - **Invited Workshop,** Recruiting and Retaining ALANA/BIPOC 
 
 September 17, 2020 - **Invited Speaker,** ["Abolitionist Digital Pedagogies: Beyond 'Decolonizing' the Classroom,"](https://twitter.com/mcgilldigihum/status/1301174621983715328) Spectrums of DH Series, McGill University, Montreal, CA
 
-July 27, 2020 - **Keynote Speaker,** "Postcolonial Approaches to Digital Pedagogy: Teaching for Social Justice," [CLIR Capacity Assessment of Latin American and Caribbean Partners Symposium](https://lacclirsymposium2020.github.io), Florida International University, Miami, FL
+July 27, 2020 - **Keynote Speaker,** ["Postcolonial Approaches to Digital Pedagogy: Teaching for Social Justice,"](https://lacclirsymposium2020.github.io) CLIR Capacity Assessment of Latin American and Caribbean Partners Symposium, Florida International University, Miami, FL
 
 March 9-10, 2020 - **Invited Speaker,** "Insurgent Academics," Digital Infrastructure Symposium, University of California, Los Angeles, Los Angeles, CA
 
@@ -86,19 +86,19 @@ January 9, 2020 - [Digital Scholarship in Tenure and Promotion Roundtable,](http
 
 December 6, 2019 - **Invited Speaker,** ["Networking the Intersections of Caribbean and Black Studies"](http://caribbeandigitalnyc.net/2019/), The Caribbean Digital VI, Barnard College, New York, NY
 
-November 10, 2019 - **Keynote Speaker,** "Academic Insurgency: A New Genealogy of Digital Humanities Scholarship," [Chicago Colloquium on Digital Humanities and Computer Science 2019,](https://voices.uchicago.edu/dhcs2019/program/) University of Chicago, Chicago, IL
+November 10, 2019 - **Keynote Speaker,** ["Academic Insurgency: A New Genealogy of Digital Humanities Scholarship,"](https://voices.uchicago.edu/dhcs2019/program/) Chicago Colloquium on Digital Humanities and Computer Science 2019, University of Chicago, Chicago, IL
 
-October 24, 2019 - **Inaugural Speaker,** [Uncommon Digital Humanities Critic Lecture,](https://news.unl.edu/newsrooms/today/article/risam-to-deliver-inaugural-uncommon-critic-lecture-0/) University of Nebraska, Lincoln, NE
+October 24, 2019 - **Inaugural Speaker,** ["Lessons from _The Digital Black Atlantic_: Amplifying Equity and Justice in Public Humanities,"](https://news.unl.edu/newsrooms/today/article/risam-to-deliver-inaugural-uncommon-critic-lecture-0/) Uncommon Digital Humanities Critic Lecture, University of Nebraska, Lincoln, NE
 
-October 11, 2019 - **Invited Speaker,** [Digital Scholarship: Opportunities and Challenges,](https://scholarsarchive.library.albany.edu/dsconf/) SUNY Albany, Albany, NY
+October 11, 2019 - **Invited Speaker,** ["Key Issues Involved in Creating and Disseminating Digital Scholarship,"](https://scholarsarchive.library.albany.edu/dsconf/) Digital Scholarship: Opportunities and Challenges, SUNY Albany, Albany, NY
 
-September 2-3, 2019 - **Invited Speaker,** [ARTECH Seminar Series,](https://www.kit.ntnu.no/en/content/ntnu-artec-seminar-series-mobilized-humanities-technology-arts) Norwegian University of Science and Technology, Trondheim, Norway
+September 2-3, 2019 - **Invited Speaker,** ["Mobilized Humanities, Technology, and the Arts,"](https://www.kit.ntnu.no/en/content/ntnu-artec-seminar-series-mobilized-humanities-technology-arts) ARTECH Seminar Series, Norwegian University of Science and Technology, Trondheim, Norway
 
-July 18, 2019 - **Keynote Speaker,** "Twitter, Equity, and Justice in the Humanities," [Humanities Commons Twitter Conference,](https://conference.hcommons.org/schedule/) The Twitterverse
+July 18, 2019 - **Keynote Speaker,** ["Twitter, Equity, and Justice in the Humanities,"](https://conference.hcommons.org/schedule/) Humanities Commons Twitter Conference, The Twitterverse
 
-June 6, 2019 - **Keynote Speaker,** "Mobilizing New Digital Worlds: The Stakes of Postcolonial Digital Humanities," [Digital Diasporas Conference,](https://modernlanguages.sas.ac.uk/events/event/19830) University of London, London, UK
+June 6, 2019 - **Keynote Speaker,** ["Mobilizing New Digital Worlds: The Stakes of Postcolonial Digital Humanities,"](https://modernlanguages.sas.ac.uk/events/event/19830) Digital Diasporas Conference, University of London, London, UK
 
-June 4, 2019 - **Invited Speaker,** [Revisiting Collections: Strategies for Teaching Tangible and Intangible Cultural Heritage in a Digitized World Symposium,](http://revisitingcollections.de/en/) Einstein Center Digital Future, Berlin, Germany
+June 4, 2019 - **Invited Speaker,** ["Designing New Digital Worlds: Postcolonial Approaches to Digital Humanities," (http://revisitingcollections.de/en/) Revisiting Collections: Strategies for Teaching Tangible and Intangible Cultural Heritage in a Digitized World Symposium, Einstein Center Digital Future, Berlin, Germany
 
 May 18, 2019 - [Torn Apart/Separados: Mobilizing a Technopoetic Humanities Beyond Borders Roundtable,](http://revisitingcollections.de/en/) HASTAC 2019, University of British Columbia, Vancouver, Canada
 
