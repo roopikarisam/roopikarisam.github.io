@@ -84,7 +84,7 @@ January 9, 2020 - [Digital Scholarship in Tenure and Promotion Roundtable,](http
 
 ### 2019
 
-December 6, 2019 - **Invited Speaker,** ["Networking the Intersections of Caribbean and Black Studies"](http://caribbeandigitalnyc.net/2019/), The Caribbean Digital VI, Barnard College, New York, NY
+December 6, 2019 - **Invited Speaker,** ["Networking the Intersections of Caribbean and Black Studies,"](http://caribbeandigitalnyc.net/2019/) The Caribbean Digital VI, Barnard College, New York, NY
 
 November 10, 2019 - **Keynote Speaker,** ["Academic Insurgency: A New Genealogy of Digital Humanities Scholarship,"](https://voices.uchicago.edu/dhcs2019/program/) Chicago Colloquium on Digital Humanities and Computer Science 2019, University of Chicago, Chicago, IL
 
