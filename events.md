@@ -10,6 +10,8 @@ I am a frequent speaker on race, difference, and the digital; globalization and 
 
 ## Upcoming Events
 
+April 21, 2021 - **Keynote Speaker,** ["Digital Humanities for Social Justice,"](https://digitalhumanities.berkeley.edu/dh-fair-2021) Berkeley Digital Humanities Fair, University of California, Berkeley, Berkeley, CA
+
 April 26, 2021 - **Invited Speaker,** ["Book Talk: _New Digital Worlds_ and _The Digital Black Atlantic,_"](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) Digital Humanities Virtual Book Talks, San Diego State University, San Diego, CA
 
 May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
@@ -21,6 +23,8 @@ June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Inte
 ## Previous Events
 
 ### 2021
+
+April 13, 2021 - **Invited Speaker,** "Migrant Data Stories: The Aesthetics and Ethics of Migration Data Visualization," New Media Aesthetics of Migration Workshop, University of British Columbia, Vancouver, Canada
 
 April 7, 2021 - **Invited Speaker,** ["Building New Digital Worlds: Postcolonial Digital Humanities in Practice,"](https://www.drew.edu/digital-humanities/about-us/calendar/) Digital Humanities Series, Drew University, Madison, NJ
 
