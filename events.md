@@ -10,13 +10,7 @@ I am a frequent speaker on race, difference, and the digital; globalization and 
 
 ## Upcoming Events
 
-March 24, 2021 - **Invited Speaker,** [Digital Humanities Series,](https://www.csuchico.edu/humanitiescenter/index.shtml) California State University, Chico, Chico, California
-
-April 6, 2021 - **Invited Panelist,** "Surveillance and Mapping of Police Violence," Dartmouth College, Hanover, NH
-
-April 7, 2021 - **Invited Speaker,** Digital Humanities Series, Drew University, Madison, NJ
-
-April 26, 2021 - **Invited Speaker,** [Digital Humanities Virtual Book Talks,](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) San Diego State University, San Diego, CA
+April 26, 2021 - **Invited Speaker,** ["Book Talk: _New Digital Worlds_ and _The Digital Black Atlantic,_"](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) Digital Humanities Virtual Book Talks, San Diego State University, San Diego, CA
 
 May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
 
@@ -27,6 +21,12 @@ June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Inte
 ## Previous Events
 
 ### 2021
+
+April 7, 2021 - **Invited Speaker,** ["Building New Digital Worlds: Postcolonial Digital Humanities in Practice,"](https://www.drew.edu/digital-humanities/about-us/calendar/) Digital Humanities Series, Drew University, Madison, NJ
+
+April 6, 2021 - **Invited Panelist,** "Surveillance and Mapping of Police Violence," Dartmouth College, Hanover, NH
+
+March 24, 2021 - **Invited Speaker,** ["Beyond the Migrant 'Problem': The Ethics of Data Visualization,"](https://www.csuchico.edu/humanitiescenter/index.shtml) Digital Humanities Series, California State University, Chico, CA
 
 March 11, 2021 - **Invited Panelist,** ["Tropes and Tribulations: Exploring Computational Textual Analysis with the Data-Sitters Club,"](https://ischool.illinois.edu/news-events/events/2021/03/11/ccb-speaker-series-data-sitters-club) Center for Children's Books Speaker Series, University of Illinois Urbana-Champaign, Urbana, IL
 
