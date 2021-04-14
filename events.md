@@ -20,6 +20,8 @@ June 7-11, 2021 - **Keynote Speaker,** ["Insurgent Pasts, Resurgent Futures: A N
 
 June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Intersectional Feminist Media Histories,"](https://www.documentaryediting.org/wordpress/?page_id=5691) Association for Documentary Editing Annual Meeting, Boston, MA
 
+November 17, 2021 - **Keynote Speaker,** Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Umeå, Sweden
+
 ## Previous Events
 
 ### 2021
