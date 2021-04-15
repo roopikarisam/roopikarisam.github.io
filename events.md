@@ -26,7 +26,7 @@ November 17, 2021 - **Keynote Speaker,** Digital Transformations: The Humanities
 
 ### 2021
 
-April 15, 2021 - **Invited Panelist,** ["Leaders Learning Live: Department Chair Reflections,"](https://sunysail.org/) SAIL Institute, SUNY, Albany, NY
+April 15, 2021 - **Invited Panelist,** ["Leaders Learning Live: Department Chair Reflections,"](https://sunysail.org/) SAIL Institute, State University of New York, Albany, NY
 
 April 13, 2021 - **Invited Speaker,** "Migrant Data Stories: The Aesthetics and Ethics of Migration Data Visualization," New Media Aesthetics of Migration Workshop, University of British Columbia, Vancouver, Canada
 
