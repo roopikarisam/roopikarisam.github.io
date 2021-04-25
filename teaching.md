@@ -17,8 +17,8 @@ My courses are unified by my investment in using technology to enhance my teachi
 | Postcolonial Literature                          | Introduction to Graduate Studies in Literature |
 | World Literature                                 | The Digital Black Atlantic                     |
 | African American Literature                      | Digital Humanities                             |
-| Contemporary American Literature                 | Digital Writing                                |
-| Young Adult Literature                           | American Digital Literary Studies              |
+| Contemporary Literature of the Americas          | Digital Writing                                |
+| Young Adult Literature                           | Digital Literary Studies of the Americas       |
 | Global Blackness and the Black Radical Tradition | Young Adult Literature                         |
 | Race and Cyberspace                              | Feminist Theory                                |
 | Our Monsters Ourselves                           | Postcolonial Theory                            |
