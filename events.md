@@ -10,21 +10,40 @@ I am a frequent speaker on race, difference, and the digital; globalization and 
 
 ## Upcoming Events
 
-April 21, 2021 - **Keynote Speaker,** ["Digital Humanities for Social Justice,"](https://digitalhumanities.berkeley.edu/dh-fair-2021) Berkeley Digital Humanities Fair, University of California, Berkeley, Berkeley, CA
+April 4, 2022 - **Invited Speaker,** ["Mapping," DH @ Yale,](https://dhlab.yale.edu/events/2022-04-04-digital-praxis-mapping.html) Yale University
 
-April 26, 2021 - **Invited Speaker,** ["Book Talk: _New Digital Worlds_ and _The Digital Black Atlantic,_"](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) Digital Humanities Virtual Book Talks, San Diego State University, San Diego, CA
+April 14, 2022 - **Invited Speaker,** "The Digital Black Atlantic," Vanderbilt University
 
-May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
+May 5, 2022 - **Invited Speaker,** [The Digital Humanities Longview Series,](https://cestastanford.github.io/) University College London and Stanford University
 
-June 7-11, 2021 - **Keynote Speaker,** ["Insurgent Pasts, Resurgent Futures: A New Genealogy of Digital Humanities,"](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/) Digital Humanities Summer Institute, University of Victoria, Victoria, Canada
+May 5, 2022 - **Invited Speaker,** Bard College  
 
-June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Intersectional Feminist Media Histories,"](https://www.documentaryediting.org/wordpress/?page_id=5691) Association for Documentary Editing Annual Meeting, Boston, MA
+June 16-17, 2022 - **Keynote Speaker,** [Hong Kong Association for Educational Communications and Technology International Conference 2022](http://www.hkaect.org/hkaect2022/#speaker), University of Hong Kong
 
-November 17, 2021 - **Keynote Speaker,** Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Umeå, Sweden
+July 11-12, 2022 - **Invited Speaker,** Texas Humanities  
+
+August 9-10, 2022 - **Keynote Speaker,** [Digital Pedagogy Institute,](https://uwaterloo.ca/digital-pedagogy-institute/2022-keynotes) University of Waterloo
+
+September 23-24, 2022 - **Keynote Speaker,** Multiethnic Digital Humanities Conference, University of Chicago - Illinois 
+
+October 17-30, 2022 - **Visiting Fellow**, [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/news/professor-roopika-risam), Cambridge University 
+
 
 ## Previous Events
 
-### 2021
+### 2021  
+
+November 17, 2021 - **Keynote Speaker,** Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Umeå, Sweden
+
+June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Intersectional Feminist Media Histories,"](https://www.documentaryediting.org/wordpress/?page_id=5691) Association for Documentary Editing Annual Meeting, Boston, MA
+
+June 7-11, 2021 - **Keynote Speaker,** ["Insurgent Pasts, Resurgent Futures: A New Genealogy of Digital Humanities,"](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/) Digital Humanities Summer Institute, University of Victoria, Victoria, Canada
+
+May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
+
+April 26, 2021 - **Invited Speaker,** ["Book Talk: _New Digital Worlds_ and _The Digital Black Atlantic,_"](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) Digital Humanities Virtual Book Talks, San Diego State University, San Diego, CA
+
+April 21, 2021 - **Keynote Speaker,** ["Digital Humanities for Social Justice,"](https://digitalhumanities.berkeley.edu/dh-fair-2021) Berkeley Digital Humanities Fair, University of California, Berkeley, Berkeley, CA  
 
 April 15, 2021 - **Invited Panelist,** ["Leaders Learning Live: Department Chair Reflections,"](https://sunysail.org/) SAIL Institute, State University of New York, Albany, NY
 
