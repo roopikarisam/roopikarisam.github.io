@@ -59,35 +59,35 @@ January 7, 2022 - [Valuing Work in the Public Humanities Roundtable](https://mla
 
 ### 2021  
 
-November 17, 2021 - **Keynote Speaker,** "Envisioning a Postcolonial Digital Humanities in Theory and Praxis," Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Sweden
+November 17, 2021 - **Keynote Speaker,** ["Envisioning a Postcolonial Digital Humanities in Theory and Praxis,"](https://www.umu.se/en/humlab/digital-transformations/keynotes/) Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Sweden
 
 November 10, 2021 - **Invited Speaker,** "Data Storytelling for Social Justice," Digital Collaboratory, William Paterson University
 
-October 20, 2021 - **Keynote Speaker,** Bucknell University Digital Scholarship Conference, Bucknell University
+October 20, 2021 - **Keynote Speaker,** ["If You Love It, Set It Free: Affect and the End(s) of Digital Humanities Projects,"](https://budsc.scholar.bucknell.edu/) Bucknell University Digital Scholarship Conference, Bucknell University
 
-October 12, 2021 - **Keynote Speaker,** Digital Art History - Methods, Practices, Epistemologies Conference, University of Zagreb, Croatia  
+October 12, 2021 - **Keynote Speaker,** ["Disrupting the Digital Cultural Record,"](https://www.ipu.hr/article/en/1123/digital-art-history-iii) Digital Art History - Methods, Practices, Epistemologies Conference, University of Zagreb, Croatia  
 
-October 4, 2021 - **Invited Speaker,** ["Book Talk: _New Digital Worlds_ and _The Digital Black Atlantic,_"](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) Digital Humanities Virtual Book Talks, San Diego State University
+October 4, 2021 - **Invited Speaker,** ["Book Talk: _New Digital Worlds_ and _The Digital Black Atlantic,_"](https://dh.sdsu.edu/docs/fall-2021/roopika-risam.pdf) Digital Humanities Virtual Book Talks, San Diego State University
 
-September 22, 2021 - **Invited Speaker,** "Isabel Wilkerson's *Caste*," National Book Festival Near You, Boston, MA
+September 22, 2021 - **Invited Speaker,** ["Isabel Wilkerson's *Caste*,"](https://mblc.state.ma.us/programs-and-support/promotion/toolkit-nbf-conversation.php) National Book Festival Near You, Boston, MA
 
 September 10, 2021 - **Invited Speaker,** "Anti-racist Teaching Strategies," Central Oregon Community College
 
-August 30, 2021 - **Masterclass,** "Borders, Boundaries, and the Politics of Belonging: Feminist Cartographies," NOISE: Network of Interdisciplinary Women's Studies in Europe Summer School, University of Utrecht, Netherlands 
+August 30, 2021 - **Masterclass,** ["Borders, Boundaries, and the Politics of Belonging: Feminist Cartographies,"](https://graduategenderstudies.nl/wp-content/uploads/sites/324/2021/05/NOISE-2021-flyer.pdf) NOISE: Network of Interdisciplinary Women's Studies in Europe Summer School, University of Utrecht, Netherlands 
 
 August 12, 2021 - **Invited Panelist,** Public Humanities Workshop, Emory University
 
-August 4, 2021 - **Invited Speaker,** International Trends in Higher Education Roundtable, *Chronicle of Higher Education,* Washington, DC 
+August 4, 2021 - **Invited Speaker,** [International Trends in Higher Education Roundtable](https://store.chronicle.com/products/international-trends-in-higher-education), *Chronicle of Higher Education,* Washington, DC 
 
-July 14, 2021 - **Keynote Speaker,** "Digital Mapping for Social Justice," Digital Geographies Symposium, University of Birmingham, UK  
+July 14, 2021 - **Keynote Speaker,** ["Digital Mapping for Social Justice,"](https://digitalgeographiesrg.org/wp-content/uploads/2021/07/DGRG-Symposium-Booklet-1.pdf) Digital Geographies Symposium, University of Birmingham, UK  
 
-July 13, 2021 - **Invited Speaker,** "Data Visualization for Social Justice: The Case of Torn Apart/Separados," Digital Humanities Summer Speaker Series, Gettysburg College 
+July 13, 2021 - **Invited Speaker,** ["Data Visualization for Social Justice: The Case of Torn Apart/Separados,"](https://dssf.musselmanlibrary.org/2021/dh-summer-speaker-series/) Digital Humanities Summer Speaker Series, Gettysburg College 
 
 June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Intersectional Feminist Media Histories,"](https://www.documentaryediting.org/wordpress/?page_id=5691) Association for Documentary Editing Annual Meeting, Boston, MA  
 
-June 22, 2021 - **Invited Panelist,** Curriculum and Campus Transformation for Justice Roundtable, Summer Institute for Equity in the Academic Experience, Georgetown University
+June 22, 2021 - **Invited Panelist,** [Curriculum and Campus Transformation for Justice Roundtable,](https://thehub.georgetown.domains/realhub/si/) Summer Institute for Equity in the Academic Experience, Georgetown University
 
-June 16, 2021 - **Invited Speaker,** "The Digital Black Atlantic," Digital Americas, University of Graz, Austria
+June 16, 2021 - **Invited Speaker,** ["The Digital Black Atlantic,"](https://interamerikanistik.uni-graz.at/en/news/detail/article/digital-black-atlantic-roopika-risam/) Digital Americas, University of Graz, Austria
 
 June 16, 2021 - **Invited Speaker,** "Postcolonial Digital Humanities Reconsidered," IUPUI
 
@@ -97,7 +97,7 @@ June 10, 2021 - **Plenary Panelist,** "(Re)Defining the Value of Public Humaniti
 
 June 7, 2021 - **Keynote Speaker,** ["Insurgent Pasts, Resurgent Futures: A New Genealogy of Digital Humanities,"](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/) Digital Humanities Summer Institute, University of Victoria, Canada
 
-June 3, 2021 - **Invited Panelist,** "*Reviews in Digital Humanities* Borderlands Special Issue," United Fronteras Symposium, University of Kansas
+June 3, 2021 - **Invited Panelist,** ["*Reviews in Digital Humanities* Borderlands Special Issue,"](https://unitedfronteras.github.io/projects/) United Fronteras Symposium, University of Kansas
 
 May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska
 
