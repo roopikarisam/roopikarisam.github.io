@@ -33,33 +33,33 @@ October 17-30, 2022 - **Visiting Fellow**, [Cambridge Digital Humanities](https:
 
 ### 2022
 
-March 31, 2022 - **Invited Speaker,** "Teaching from the Digital Black Atlantic," 7th Annual Distinguished Lecture, University of West Indies - Mona, Jamaica
+March 31, 2022 - **Invited Speaker,** ["Teaching from the Digital Black Atlantic,"](https://www.youtube.com/watch?v=vwRwhN5FxS4) 7th Annual Distinguished Lecture, University of West Indies - Mona, Jamaica
 
-March 24, 2022 - **Invited Speaker,** "Experimental Publishing as Academic Insurgency," Experimental Publishing VI - Critique, Intervention & Speculation, Conventry University, UK
+March 24, 2022 - **Invited Speaker,** ["Experimental Publishing as Academic Insurgency,"](https://www.youtube.com/watch?v=vwRwhN5FxS4) Experimental Publishing VI - Critique, Intervention & Speculation, Conventry University, UK
 
 March 18, 2022 - **Invited Speaker,** "Reviews in Digital Humanities," Institute for Museum and Library Services Digital Humanities Colloquium, Virtual
 
 March 17, 2022 - **Keynote Speaker,** ["Digital Humanities as Activism,"](https://dhnb.eu/conferences/dhnb2022/) Digital Humanities in the Nordic and Baltic Countries Conference, Upsalla University, Sweden
 
-March 7, 2022 - **Invited Speaker,** "Building New Digital Worlds: Digital Humanities from a Postcolonial Perspective," Boise State University
+March 7, 2022 - **Invited Speaker,** ["Building New Digital Worlds: Digital Humanities from a Postcolonial Perspective,"](https://www.boisestate.edu/news/2022/02/07/building-new-digital-worlds-digital-humanities-from-a-postcolonial-perspective/) Boise State University
 
-March 3, 2022 - **Invited Speaker,** "Public Humanities and Digital Ethnic Futures," Macalester College
+March 3, 2022 - **Invited Speaker,** ["Public Humanities and Digital Ethnic Futures,"](https://themacweekly.com/80874/news/dr-risam-gives-presentation-on-digital-humanities/) Macalester College
 
 February 18, 2022 - **Keynote Speaker,** ["Small Data as Resistance,"](https://arts.unimelb.edu.au/research/digital-studio/digital-studio-live/small-data-is-beautiful) Small Data Is Beautiful Symposium, University of Melbourne
 
 February 10, 2022 - **Invited Panelist,** The Digital Black Atlantic, Northestern University
 
-January 28, 2022 - **Masterclass,** "Postcolonial Digital Humanities in Practice: Visualizing Migration," Critical Digital Humanities Initiative, University of Toronto  
+January 28, 2022 - **Masterclass,** ["Postcolonial Digital Humanities in Practice: Visualizing Migration,"](https://dhn.utoronto.ca/event/graduate-workshop-postcolonial-digital-humanities-in-practice/) Critical Digital Humanities Initiative, University of Toronto  
 
-January 27, 2022 - **Invited Speaker,** "Data Empires, Then and Now: Excavating Colonial Data Cultures," Critical Digital Humanities Initiative, University of Toronto
+January 27, 2022 - **Invited Speaker,** ["Data Empires, Then and Now: Excavating Colonial Data Cultures,"](https://dhn.utoronto.ca/event/cdhi-visiting-speaker-series-roopika-risam-on-postcolonial-dh/) Critical Digital Humanities Initiative, University of Toronto
 
-January 12 & 20, 2022 - **Invited Panelist,** "The Chair's Role in Growing Enrollment and Increasing Retention," *Chronicle of Higher Education,* Washington, DC
+January 12 & 20, 2022 - **Invited Panelist,** ["The Chair's Role in Growing Enrollment and Increasing Retention,"](https://store.chronicle.com/products/the-chair-s-role-in-growing-enrollment-and-increasing-retention-roundtable) *Chronicle of Higher Education,* Washington, DC
 
-January 7, 2022 - Valuing Work in the Public Humanities Roundtable. Modern Language Association Convention, Washington, DC
+January 7, 2022 - [Valuing Work in the Public Humanities Roundtable](https://mla.confex.com/mla/2022/meetingapp.cgi/Session/11967), Modern Language Association Convention, Washington, DC
 
 ### 2021  
 
-November 17, 2021 - **Keynote Speaker,** Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Sweden
+November 17, 2021 - **Keynote Speaker,** "Envisioning a Postcolonial Digital Humanities in Theory and Praxis," Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Sweden
 
 November 10, 2021 - **Invited Speaker,** "Data Storytelling for Social Justice," Digital Collaboratory, William Paterson University
 
@@ -93,11 +93,15 @@ June 16, 2021 - **Invited Speaker,** "Postcolonial Digital Humanities Reconsider
 
 June 11, 2021 - Abolition and the University Roundtable, Cultural Studies Association, Chicago, IL 
 
+June 10, 2021 - **Plenary Panelist,** "(Re)Defining the Value of Public Humanities," Modern Language Association Academic Program Services Leadership Institute, New York, NY
+
 June 7, 2021 - **Keynote Speaker,** ["Insurgent Pasts, Resurgent Futures: A New Genealogy of Digital Humanities,"](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/) Digital Humanities Summer Institute, University of Victoria, Canada
 
 June 3, 2021 - **Invited Panelist,** "*Reviews in Digital Humanities* Borderlands Special Issue," United Fronteras Symposium, University of Kansas
 
 May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska
+
+May 11, 2021 - **Keynote Speaker,** "Imagining the Future of the University," Institute on Teaching and Learning, Pace University
 
 April 21, 2021 - **Keynote Speaker,** ["Digital Humanities for Social Justice,"](https://digitalhumanities.berkeley.edu/dh-fair-2021) Berkeley Digital Humanities Fair, University of California, Berkeley
 
