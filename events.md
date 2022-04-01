@@ -26,14 +26,31 @@ August 9-10, 2022 - **Keynote Speaker,** [Digital Pedagogy Institute,](https://u
 
 September 23-24, 2022 - **Keynote Speaker,** Multiethnic Digital Humanities Conference, University of Chicago - Illinois 
 
-October 17-30, 2022 - **Visiting Fellow**, [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/news/professor-roopika-risam), Cambridge University 
+October 17-30, 2022 - **Visiting Fellow**, [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/news/professor-roopika-risam), Cambridge University, UK 
 
 
 ## Previous Events
 
+### 2022
+
+March 17, 2022 - **Keynote Speaker,** ["Digital Humanities as Activism,"](https://dhnb.eu/conferences/dhnb2022/) Digital Humanities in the Nordic and Baltic Countries Conference, Upsalla University, Sweden
+
+February 18, 2022 - **Keynote Speaker,** ["Small Data as Resistance,"](https://arts.unimelb.edu.au/research/digital-studio/digital-studio-live/small-data-is-beautiful) Small Data Is Beautiful Symposium, University of Melbourne
+
+January 28, 2022 - **Masterclass,** "Postcolonial Digital Humanities in Practice: Visualizing Migration," Critical Digital Humanities Initiative, University of Toronto  
+
+
 ### 2021  
 
 November 17, 2021 - **Keynote Speaker,** Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Umeå, Sweden
+
+October 20, 2021 - **Keynote Speaker,** Bucknell University Digital Scholarship Conference, Bucknell University
+
+October 12, 2021 - **Keynote Speaker,** Digital Art History - Methods, Practices, Epistemologies Conference, University of Zagreb, Croatia  
+
+August 30, 2021 - **Masterclass,** "Borders, Boundaries, and the Politics of Belonging: Feminist Cartographies," NOISE: Network of Interdisciplinary Women's Studies in Europe Summer School, University of Utrecht, Netherlands 
+
+July 14, 2021 - **Keynote Speaker,** "Digital Mapping for Social Justice," Digital Geographies Symposium, University of Birmingham, UK
 
 June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Intersectional Feminist Media Histories,"](https://www.documentaryediting.org/wordpress/?page_id=5691) Association for Documentary Editing Annual Meeting, Boston, MA
 
