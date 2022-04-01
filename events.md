@@ -33,32 +33,71 @@ October 17-30, 2022 - **Visiting Fellow**, [Cambridge Digital Humanities](https:
 
 ### 2022
 
+March 31, 2022 - **Invited Speaker,** "Teaching from the Digital Black Atlantic," 7th Annual Distinguished Lecture, University of West Indies - Mona, Jamaica
+
+March 24, 2022 - **Invited Speaker,** "Experimental Publishing as Academic Insurgency," Experimental Publishing VI - Critique, Intervention & Speculation, Conventry University, UK
+
+March 18, 2022 - **Invited Speaker,** "Reviews in Digital Humanities," Institute for Museum and Library Services Digital Humanities Colloquium, Virtual
+
 March 17, 2022 - **Keynote Speaker,** ["Digital Humanities as Activism,"](https://dhnb.eu/conferences/dhnb2022/) Digital Humanities in the Nordic and Baltic Countries Conference, Upsalla University, Sweden
+
+March 7, 2022 - **Invited Speaker,** "Building New Digital Worlds: Digital Humanities from a Postcolonial Perspective," Boise State University
+
+March 3, 2022 - **Invited Speaker,** "Public Humanities and Digital Ethnic Futures," Macalester College
 
 February 18, 2022 - **Keynote Speaker,** ["Small Data as Resistance,"](https://arts.unimelb.edu.au/research/digital-studio/digital-studio-live/small-data-is-beautiful) Small Data Is Beautiful Symposium, University of Melbourne
 
+February 10, 2022 - **Invited Panelist,** The Digital Black Atlantic, Northestern University
+
 January 28, 2022 - **Masterclass,** "Postcolonial Digital Humanities in Practice: Visualizing Migration," Critical Digital Humanities Initiative, University of Toronto  
 
+January 27, 2022 - **Invited Speaker,** "Data Empires, Then and Now: Excavating Colonial Data Cultures," Critical Digital Humanities Initiative, University of Toronto
+
+January 12 & 20, 2022 - **Invited Panelist,** "The Chair's Role in Growing Enrollment and Increasing Retention," *Chronicle of Higher Education,* Washington, DC
+
+January 7, 2022 - Valuing Work in the Public Humanities Roundtable. Modern Language Association Convention, Washington, DC
 
 ### 2021  
 
 November 17, 2021 - **Keynote Speaker,** Digital Transformations: The Humanities in Challenging Times Conference, University of Umeå, Umeå, Sweden
 
+November 10, 2021 - **Invited Speaker,** "Data Storytelling for Social Justice," Digital Collaboratory, William Paterson University
+
 October 20, 2021 - **Keynote Speaker,** Bucknell University Digital Scholarship Conference, Bucknell University
 
 October 12, 2021 - **Keynote Speaker,** Digital Art History - Methods, Practices, Epistemologies Conference, University of Zagreb, Croatia  
 
+October 4, 2021 - **Invited Speaker,** ["Book Talk: _New Digital Worlds_ and _The Digital Black Atlantic,_"](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) Digital Humanities Virtual Book Talks, San Diego State University, San Diego, CA
+
+September 22, 2021 - **Invited Speaker,** "Isabel Wilkerson's *Caste*," National Book Festival Near You, Boston, MA
+
+September 10, 2021 - **Invited Speaker,** "Anti-racist Teaching Strategies," Central Oregon Community College
+
 August 30, 2021 - **Masterclass,** "Borders, Boundaries, and the Politics of Belonging: Feminist Cartographies," NOISE: Network of Interdisciplinary Women's Studies in Europe Summer School, University of Utrecht, Netherlands 
 
-July 14, 2021 - **Keynote Speaker,** "Digital Mapping for Social Justice," Digital Geographies Symposium, University of Birmingham, UK
+August 12, 2021 - **Invited Panelist,** Public Humanities Workshop, Emory University
 
-June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Intersectional Feminist Media Histories,"](https://www.documentaryediting.org/wordpress/?page_id=5691) Association for Documentary Editing Annual Meeting, Boston, MA
+August 4, 2021 - **Invited Speaker,** International Trends in Higher Education Roundtable, *Chronicle of Higher Education,* Washington, DC 
 
-June 7-11, 2021 - **Keynote Speaker,** ["Insurgent Pasts, Resurgent Futures: A New Genealogy of Digital Humanities,"](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/) Digital Humanities Summer Institute, University of Victoria, Victoria, Canada
+July 14, 2021 - **Keynote Speaker,** "Digital Mapping for Social Justice," Digital Geographies Symposium, University of Birmingham, UK  
+
+July 13, 2021 - **Invited Speaker,** "Data Visualization for Social Justice: The Case of Torn Apart/Separados," Digital Humanities Summer Speaker Series, Gettysburg College 
+
+June 24-27, 2021 - **Keynote Speaker,** ["Beyond the Blacklist: Reanimating Intersectional Feminist Media Histories,"](https://www.documentaryediting.org/wordpress/?page_id=5691) Association for Documentary Editing Annual Meeting, Boston, MA  
+
+June 22, 2021 - **Invited Panelist,** Curriculum and Campus Transformation for Justice Roundtable, Summer Institute for Equity in the Academic Experience, Georgetown University
+
+June 16, 2021 - **Invited Speaker,** "The Digital Black Atlantic," Digital Americas, University of Graz, Austria
+
+June 16, 2021 - **Invited Speaker,** "Postcolonial Digital Humanities Reconsidered," IUPUI
+
+June 11, 2021 - Abolition and the University Roundtable, Cultural Studies Association, Chicago, IL 
+
+June 7, 2021 - **Keynote Speaker,** ["Insurgent Pasts, Resurgent Futures: A New Genealogy of Digital Humanities,"](https://dhsi.org/timetable/event/institute-lecture-roopika-risam-insurgent-pasts-resurgent-futures-a-new-genealogy-of-digital-humanities/) Digital Humanities Summer Institute, University of Victoria, Victoria, Canada
+
+June 3, 2021 - **Invited Panelist,** "*Reviews in Digital Humanities* Borderlands Special Issue," United Fronteras Symposium, University of Kansas
 
 May 24-June 4, 2021 - **Faculty Expert,** [New Storytellers: The Research Institute in Digital Ethnic Studies,](https://digitalethnicstudies.unl.edu/) University of Nebraska, Lincoln, NE
-
-April 26, 2021 - **Invited Speaker,** ["Book Talk: _New Digital Worlds_ and _The Digital Black Atlantic,_"](https://library.sdsu.edu/events/digital-humanities-virtual-book-talk-roopika-risam-new-digital-worlds) Digital Humanities Virtual Book Talks, San Diego State University, San Diego, CA
 
 April 21, 2021 - **Keynote Speaker,** ["Digital Humanities for Social Justice,"](https://digitalhumanities.berkeley.edu/dh-fair-2021) Berkeley Digital Humanities Fair, University of California, Berkeley, Berkeley, CA  
 
