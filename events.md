@@ -10,19 +10,21 @@ I am a frequent speaker on race, difference, and the digital; globalization and 
 
 ## Upcoming Events
 
-April 4, 2022 - **Invited Speaker,** ["Mapping," DH @ Yale,](https://dhlab.yale.edu/events/2022-04-04-digital-praxis-mapping.html) Yale University
-
 April 14, 2022 - **Invited Speaker,** "The Digital Black Atlantic," Vanderbilt University
 
-May 5, 2022 - **Invited Speaker,** [The Digital Humanities Longview Series,](https://cestastanford.github.io/) University College London and Stanford University
+May 5, 2022 - **Invited Speaker,** ["Transnational Digital Humanities in the Digital Black Atlantic,](https://cestastanford.github.io/) The Digital Humanities Longview Series, University College London and Stanford University
 
 May 5, 2022 - **Invited Speaker,** Bard College  
+
+June 9-13, 2022 - **Keynote Speaker,** Summer Institute in Public Humanities, University of New Hampshire
 
 June 16-17, 2022 - **Keynote Speaker,** [Hong Kong Association for Educational Communications and Technology International Conference 2022](http://www.hkaect.org/hkaect2022/#speaker), University of Hong Kong
 
 July 11-12, 2022 - **Invited Speaker,** Texas Humanities  
 
-August 9-10, 2022 - **Keynote Speaker,** [Digital Pedagogy Institute,](https://uwaterloo.ca/digital-pedagogy-institute/2022-keynotes) University of Waterloo
+August 9-10, 2022 - **Keynote Speaker,** [Digital Pedagogy Institute,](https://uwaterloo.ca/digital-pedagogy-institute/2022-keynotes) University of Waterloo 
+
+September 6-9, 2022 - **Invited Speaker,** University of Texas at Austin 
 
 September 23-24, 2022 - **Keynote Speaker,** Multiethnic Digital Humanities Conference, University of Chicago - Illinois 
 
@@ -32,6 +34,8 @@ October 17-30, 2022 - **Visiting Fellow**, [Cambridge Digital Humanities](https:
 ## Previous Events
 
 ### 2022
+
+April 4, 2022 - **Invited Speaker,** ["Rethinking Basemaps, Reimagining Data, Recentering Humans,"](https://dhlab.yale.edu/events/2022-04-04-digital-praxis-mapping.html) Yale University
 
 March 31, 2022 - **Invited Speaker,** ["Teaching from the Digital Black Atlantic,"](https://www.youtube.com/watch?v=vwRwhN5FxS4) 7th Annual Distinguished Lecture, University of West Indies - Mona, Jamaica
 
