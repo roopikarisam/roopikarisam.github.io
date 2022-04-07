@@ -10,7 +10,7 @@ I am a frequent speaker on race, difference, and the digital; globalization and 
 
 ## Upcoming Events
 
-April 14, 2022 - **Invited Speaker,** "The Digital Black Atlantic," Vanderbilt University
+April 14, 2022 - **Invited Speaker,** ["The Digital Black Atlantic,"](https://www.vanderbilt.edu/digitalhumanities/the-digital-black-atlantic/) Vanderbilt University
 
 May 5, 2022 - **Invited Speaker,** ["Transnational Digital Humanities in the Digital Black Atlantic,](https://cestastanford.github.io/) The Digital Humanities Longview Series, University College London and Stanford University
 
@@ -20,7 +20,7 @@ June 9-13, 2022 - **Keynote Speaker,** Summer Institute in Public Humanities, Un
 
 June 16-17, 2022 - **Keynote Speaker,** [Hong Kong Association for Educational Communications and Technology International Conference 2022](http://www.hkaect.org/hkaect2022/#speaker), University of Hong Kong
 
-July 11-12, 2022 - **Invited Speaker,** Texas Humanities  
+July 11-12, 2022 - **Invited Workshop,** Texas Humanities  
 
 August 9-10, 2022 - **Keynote Speaker,** [Digital Pedagogy Institute,](https://uwaterloo.ca/digital-pedagogy-institute/2022-keynotes) University of Waterloo 
 
