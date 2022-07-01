@@ -23,4 +23,4 @@ Currently co-vice president of the Association for Computers and the Humanities 
 
 Risam is represented by [Emma Bal](https://www.madeleinemilburn.co.uk/agents/emma-bal/) at the [Madeleine Milburn Literary Agency](https://www.madeleinemilburn.co.uk/). 
 
-Her CV is available [here](../RisamCVApril2022.pdf).
+Her CV is available [here](../RisamCVJuly2022.pdf).
