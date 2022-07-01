@@ -164,7 +164,7 @@ At the heart of my research is the concern that while digital knowledge producti
 
 My research agenda is perhaps best understood through five interconnected strands where I explore these questions: [digital ethnic studies](../research#digital-ethnic-studies), [critical university studies](../research#critical-university-studies), [scholarly communications](../research#scholarly-communications), [intersectional feminist media](../research#intersectional-feminist-media), and [media and migration](../research#media-and-migration). As my books, articles, and digital projects nimbly cross over these categories, together they comprise a series of investigations — at both large and small scales, in multiple genres — of how to build humanities knowledge infrastructures based not on rehearsing the dominant white epistemologies of the Global North but on putting Black, brown, and Indigenous people at the center.
 
-A copy of my CV is available [here](../RisamCVApril2022.pdf).
+A copy of my CV is available [here](../RisamCVJuly2022.pdf).
 
 ## Digital Ethnic Studies
 
