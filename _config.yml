@@ -19,7 +19,7 @@ title-separator: "|"
 subtitle: "Professor, Public Scholar, Digital Humanist"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Webpage for Roopika Risam, Associate Professor of Secondary and Higher Education and English at Salem State University.
+  Webpage for Roopika Risam, Associate Professor of Film and Media Studies and of Comparative Literature at Dartmouth.
 baseurl: "/"
 url: "roopikarisam.github.io/new-home"
 twitter_username: roopikarisam
@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Roopika Risam"
   avatar : "/assets/images/roopika-risam.jpg"
-  bio    : "Chair of Secondary and Higher Education and Associate Professor of Education and English, Salem State University"
+  bio    : "Associate Professor of Film and Media Studies and of Comparative Literature at Dartmouth"
   links:
     - label: "rrisam@gmail.com"
       icon: "fas fa-fw fa-envelope"
