@@ -5,11 +5,13 @@ title: "About"
 author_profile: true
 ---
 
-Roopika Risam is Chair of Secondary and Higher Education and Associate Professor of Education and English at Salem State University. She also serves as the Faculty Fellow for Digital Library Initiatives, Coordinator of the Graduate Certificate in Digital Studies, and Coordinator of the Combined B.A./M.Ed. in English Education.
+Roopika Risam is Associate Professor of Film and Media Studies and of Comparative Literature at Dartmouth College, where she is part of the [Digital Humanities and Social Engagement Cluster](https://dhse.dartmouth.edu/). 
+
+Formerly, Risam was Chair of Secondary and Higher Education and Associate Professor of Education and English at Salem State University. There, she also served as the Faculty Fellow for Digital Library Initiatives, Co-Director of the Viking OER and Textbook Affordability Initiative, Coordinator of the Graduate Certificate in Digital Studies, and Coordinator of the Combined B.A./M.Ed. in English Education.
 
 Her research interests lie at the intersections of postcolonial and African diaspora studies, humanities knowledge infrastructures, and digital humanities.
 
-Risam's work building humanities knowledge infrastructures has been supported by over $3.5 million in grants from the Andrew W. Mellon Foundation, National Endowment from the Humanities, Institute for Museum and Library Services, Mass Humanities, and the Massachusetts Department of Higher Education.
+Risam's work building humanities knowledge infrastructures has been supported by over $3.6 million in grants from the Andrew W. Mellon Foundation, National Endowment from the Humanities, Institute for Museum and Library Services, Mass Humanities, and the Massachusetts Department of Higher Education.
 
 Her first monograph, [_New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_,](https://nupress.northwestern.edu/9780810138858/new-digital-worlds/) was published by Northwestern University Press in 2018. She is the co-editor of [_Intersectionality in Digital Humanities_](https://arc-humanities.org/products/i-73110-101115-39-6631/) (Arc Humanities/Amsterdam University Press, 2019) and [_South Asian Digital Humanities: Postcolonial Mediations Across Technology's Cultural Canon_](https://www.routledge.com/South-Asian-Digital-Humanities-Postcolonial-Mediations-across-Technologys/Risam-Gairola/p/book/9780367504052) (Routledge, 2020). Risam's latest co-edited collection [_The Digital Black Atlantic_](https://www.upress.umn.edu/book-division/books/the-digital-black-atlantic) in the Debates in the Digital Humanities series (University of Minnesota Press) was published in 2021. Her current book project, ["Insurgent Academics: A Radical Account of Public Humanities,"](../insurgent-academics) which traces a new history of public humanities through the emergence of ethnic studies, is under contract with Johns Hopkins University Press.
 
