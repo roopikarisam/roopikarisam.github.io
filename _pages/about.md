@@ -21,6 +21,6 @@ Risam is Principal Investigator of the [Digital Ethnic Futures Consortium](http:
 
 Currently co-president of the Association for Computers and the Humanities and co-chair of the [DH Unbound 2022](http://dhunbound2022.ach.org) conference, Risam previously served as a founding board member of Global Outlook::Digital Humanities (GO::DH) and co-chair of the [ACH 2019](http://ach2019.ach.org/) and [ACH 2021](https://ach2021.ach.org/) conferences. She also received the Massachusetts Library Association's inaugural [Civil Liberties Champion Award](https://www.bostonglobe.com/metro/globelocal/2018/10/05/salem-state-researcher-champion-social-justice/hD19GIS2zRIY1di09Fr0NI/story.html) for her work promoting equity and justice in the digital cultural record.
 
-Risam is represented by [Emma Bal](https://www.madeleinemilburn.co.uk/agents/emma-bal/) at the [Madeleine Milburn Literary Agency](https://www.madeleinemilburn.co.uk/). 
+Risam is represented by [Emma Bal](https://www.madeleinemilburn.co.uk/agents/emma-bal/) at the [Madeleine Milburn Literary Agency](https://www.madeleinemilburn.co.uk/). She is writing her first trade book, which explores the intertwined histories of data and empire.  
 
 Her CV is available [here](../RisamCVJuly2022.pdf).
