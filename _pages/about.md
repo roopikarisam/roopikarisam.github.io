@@ -23,4 +23,4 @@ Currently co-president of the Association for Computers and the Humanities and c
 
 Risam is represented by [Emma Bal](https://www.madeleinemilburn.co.uk/agents/emma-bal/) at the [Madeleine Milburn Literary Agency](https://www.madeleinemilburn.co.uk/). She is writing her first trade book, which explores the intertwined histories of data and empire.  
 
-Her CV is available [here](../RisamCVJuly2022.pdf). 
+Her CV is available [here](../risamcvmarch312023.docx_.pdf). 
